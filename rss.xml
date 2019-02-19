@@ -16,7 +16,7 @@
         </description>
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2018</copyright>
-        <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://raw.githubusercontent.com/numbbbbb/ggtalk-rss/master/rss.xml" rel="self" type="application/rss+xml" />
         <lastBuildDate>Tue, 19 Feb 2019 07:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
