@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 13 May 2019 18:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2019 16:20:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -2354,6 +2354,72 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,weex</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>日式美学小记</title>
+            <itunes:episode>32</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 21 May 2019 16:20:00 CDT</pubDate>
+            <description>
+美学到底是什么？学习和研究美学到底有什么用？对于这类抽象的概念，我们总是觉得看不懂。其实美学并没有大家想的那么艰深晦涩，了解和学会感知“美”，能应用到生活中的很多领域。
+
+这期我们请到了小路。除了设计师的工作，她也对日本文化很感兴趣，读过不少书，有一些自己的理解和思考。
+
+请放心，本期内容并不需要你有相关知识背景，也不会说很多专业术语和概念。我们从“什么是美学”这个问题开始聊，列举一些美学在不同领域的应用，最后简单聊聊如何去感知美。
+
+如果大家喜欢听这类内容，可以给我反馈，之后我会再邀请小路来聊聊其他话题，我们也能看看代码之外的世界是什么样。
+
+勘误：小路原话「啊！！！刚才看《季语集》的时候发现青蛙是春天的季语，我错了！！！我去反省下…………」。
+
+参考链接：
+• 小路提到的内容：丹下健三、藤本壮介、石上纯也、⾼滨虚子、カトキハジメ、「花は桜⽊、⼈は武士」
+• 涉及到的书籍：『世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アー ト」と「サイエンス」』、『原初的な未来の建築』、『⾃由な建築』、『俳句への道』、『春宵⼗話』
+• 小路的微博：@武者小小路 （https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:46  个人介绍
+• 03:46  什么是美学
+• 05:16  为什么我们需要美学
+• 08:58  美学与建筑设计
+• 32:34  美学与俳句
+• 39:11  美学与机甲
+• 48:42  美学与人生观
+• 55:42  如何感知美
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/32.mp3" length="59519396" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/32.mp3</guid>
+            <itunes:duration>01:01:59</itunes:duration>
+            <itunes:summary>
+美学到底是什么？学习和研究美学到底有什么用？对于这类抽象的概念，我们总是觉得看不懂。其实美学并没有大家想的那么艰深晦涩，了解和学会感知“美”，能应用到生活中的很多领域。
+
+这期我们请到了小路。除了设计师的工作，她也对日本文化很感兴趣，读过不少书，有一些自己的理解和思考。
+
+请放心，本期内容并不需要你有相关知识背景，也不会说很多专业术语和概念。我们从“什么是美学”这个问题开始聊，列举一些美学在不同领域的应用，最后简单聊聊如何去感知美。
+
+如果大家喜欢听这类内容，可以给我反馈，之后我会再邀请小路来聊聊其他话题，我们也能看看代码之外的世界是什么样。
+
+勘误：小路原话「啊！！！刚才看《季语集》的时候发现青蛙是春天的季语，我错了！！！我去反省下…………」。
+
+参考链接：
+• 小路提到的内容：丹下健三、藤本壮介、石上纯也、⾼滨虚子、カトキハジメ、「花は桜⽊、⼈は武士」
+• 涉及到的书籍：『世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アー ト」と「サイエンス」』、『原初的な未来の建築』、『⾃由な建築』、『俳句への道』、『春宵⼗話』
+• 小路的微博：@武者小小路 （https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:46  个人介绍
+• 03:46  什么是美学
+• 05:16  为什么我们需要美学
+• 08:58  美学与建筑设计
+• 32:34  美学与俳句
+• 39:11  美学与机甲
+• 48:42  美学与人生观
+• 55:42  如何感知美
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,日式美学</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
