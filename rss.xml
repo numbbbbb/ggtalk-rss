@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Jun 2019 08:10:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2019 08:15:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -2628,6 +2628,78 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,转行,深度学习</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>在日本生活是什么体验</title>
+            <itunes:episode>36</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 25 Jun 2019 08:15:00 CDT</pubDate>
+            <description>
+我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。
+
+日本可能是我们“最熟悉的陌生国”。日料、动漫、流行文化，随便找个年轻人都能说出来几样。但是真正的日本生活到底是什么样？日本的 IT 行业现状如何？这些大概只有真正在日本工作生活的人才能回答。
+
+这次请到的是利炳根，利哥。其实很早就认识了利哥，不过一直没有深入交流。最近得知利哥去了日本工作，各种体验还很新鲜，刚好请来分享一下。如果大家也在考虑去日本工作，可以来听听利哥的体验和感受。
+
+参考链接：
+• 利哥提到的节目：Cool Japan，食彩之国，行家本色，人生规划U-29，跟你去你家可以吗
+• 利炳根的日本记录1：https://t.zsxq.com/RRFUNb6
+• 利炳根的日本记录2：https://t.zsxq.com/q7eUJiY
+• 利哥的微信：qingxingfengzi
+• 利哥的简书：https://www.jianshu.com/u/eaec1fc422e9
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:38  自我介绍 + 开场闲聊
+• 05:32  最初为什么想去日本 + 过程介绍
+• 16:11  刚到日本是什么感觉
+• 24:38  日本的穿衣习惯
+• 30:59  “团地”是什么 + 租房和居住体验
+• 36:32  日本的房价
+• 38:35  孩子上学费用
+• 44:43  通勤的成本和体验
+• 51:15  梁杰分享关于“电车”的两个小故事
+• 55:29  在日本平时吃什么 + 吃饭成本
+• 01:06:38  工资是否满意 + 日本 IT 行业现状
+• 01:26:09  聊聊入籍和永住
+• 01:35:12  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/36.mp3" length="96778369" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/36.mp3</guid>
+            <itunes:duration>01:40:48</itunes:duration>
+            <itunes:summary>
+我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。
+
+日本可能是我们“最熟悉的陌生国”。日料、动漫、流行文化，随便找个年轻人都能说出来几样。但是真正的日本生活到底是什么样？日本的 IT 行业现状如何？这些大概只有真正在日本工作生活的人才能回答。
+
+这次请到的是利炳根，利哥。其实很早就认识了利哥，不过一直没有深入交流。最近得知利哥去了日本工作，各种体验还很新鲜，刚好请来分享一下。如果大家也在考虑去日本工作，可以来听听利哥的体验和感受。
+
+参考链接：
+• 利哥提到的节目：Cool Japan，食彩之国，行家本色，人生规划U-29，跟你去你家可以吗
+• 利炳根的日本记录1：https://t.zsxq.com/RRFUNb6
+• 利炳根的日本记录2：https://t.zsxq.com/q7eUJiY
+• 利哥的微信：qingxingfengzi
+• 利哥的简书：https://www.jianshu.com/u/eaec1fc422e9
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:38  自我介绍 + 开场闲聊
+• 05:32  最初为什么想去日本 + 过程介绍
+• 16:11  刚到日本是什么感觉
+• 24:38  日本的穿衣习惯
+• 30:59  “团地”是什么 + 租房和居住体验
+• 36:32  日本的房价
+• 38:35  孩子上学费用
+• 44:43  通勤的成本和体验
+• 51:15  梁杰分享关于“电车”的两个小故事
+• 55:29  在日本平时吃什么 + 吃饭成本
+• 01:06:38  工资是否满意 + 日本 IT 行业现状
+• 01:26:09  聊聊入籍和永住
+• 01:35:12  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,日本,日本生活</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
