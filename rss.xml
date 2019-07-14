@@ -1,19 +1,2646 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ggtalk</title>
+        <link>https://swift.gg</link>
+        <image>
+            <url>https://talkcdn.swift.gg/static/logo.jpg</url>
+            <title>ggtalk</title>
+            <link>https://swift.gg</link>
+        </image>
+        <description>
+接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
 
+头发越来越少，经验越来越多；颈椎开始僵硬，头脑依然灵活。代码写多了就想尝试点新东西，聊技术，聊工作，聊生活。挤地铁？又堵车？随便点一期吧，听个乐呵。
+
+我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。
+        </description>
+        <language>zh-cn</language>
+        <copyright>Swift.GG copyright 2019</copyright>
+        <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 25 Jun 2019 08:15:00 CDT</lastBuildDate>
+        <itunes:author>梁杰</itunes:author>
+        <itunes:summary>
+接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
+
+头发越来越少，经验越来越多；颈椎开始僵硬，头脑依然灵活。代码写多了就想尝试点新东西，聊技术，聊工作，聊生活。挤地铁？又堵车？随便点一期吧，听个乐呵。
+
+我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。
+        </itunes:summary>
+        <itunes:subtitle>程序员的闲聊</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>梁杰</itunes:name>
+            <itunes:email>numbbbbb@swift.gg</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+            程序员,开发,开发者,swift,swiftgg,翻译组,技术
+        </itunes:keywords>
+        <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+        <itunes:category text="Technology"></itunes:category>
+        <itunes:category text="Education"></itunes:category>
+        <itunes:category text="Games &amp; Hobbies"></itunes:category>
+        <pubDate>Sun, 28 Oct 2018 22:00:00 CDT</pubDate>
+        <item>
+            <title>聊聊程序员的升职加薪（上）</title>
+            <itunes:episode>1</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 28 Oct 2018 22:00:00 CDT</pubDate>
+            <description>
+第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。
+
+本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。
+
+参考链接：
+• 「在 BAT 工作三年的普通员工拿多少工资？」知乎回答：https://www.zhihu.com/question/38443121/answer/294923781
+• mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）
+• 星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/1.mp3" length="109921514" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/1.mp3</guid>
+            <itunes:duration>00:57:15</itunes:duration>
+            <itunes:summary>
+第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。
+
+本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。
+
+参考链接：
+• 「在 BAT 工作三年的普通员工拿多少工资？」知乎回答：https://www.zhihu.com/question/38443121/answer/294923781
+• mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）
+• 星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术,升职,加薪</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>我都花时间搭博客了，为什么还要花时间写？</title>
+            <itunes:episode>2</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 06 Nov 2018 23:00:00 CDT</pubDate>
+            <description>
+每个女孩都有一个公主梦，每个程序员也都有一个博客梦（什么烂比喻！）。用 CSS 把自己的网站布局得漂漂亮亮，加上 Google Analytics 代码，等待着访问量暴涨的那一天。
+
+本期请到的嘉宾是 iOS 界的“灯塔”（为什么叫灯塔？请听本台独家揭秘），刚刚毕业一年的 Draveness。Draveness 的个人博客年 PV 已经超过百万，发布了大量高质量的技术文章。
+
+Draveness 的博客经历了什么发展过程？如何坚持写博客？如何制作美观的博客插图？本期节目，和 Draveness 一起聊聊写博客这点事儿。
+
+参考链接：
+• Draveness 的博客：https://draveness.me/
+• Draveness 的微博：@Draveness（https://www.weibo.com/u/5123574960）
+• Draveness 的 GitHub：https://github.com/Draveness
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/2.mp3" length="91284713" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/2.mp3</guid>
+            <itunes:duration>00:47:33</itunes:duration>
+            <itunes:summary>
+每个女孩都有一个公主梦，每个程序员也都有一个博客梦（什么烂比喻！）。用 CSS 把自己的网站布局得漂漂亮亮，加上 Google Analytics 代码，等待着访问量暴涨的那一天。
+
+本期请到的嘉宾是 iOS 界的“灯塔”（为什么叫灯塔？请听本台独家揭秘），刚刚毕业一年的 Draveness。Draveness 的个人博客年 PV 已经超过百万，发布了大量高质量的技术文章。
+
+Draveness 的博客经历了什么发展过程？如何坚持写博客？如何制作美观的博客插图？本期节目，和 Draveness 一起聊聊写博客这点事儿。
+
+参考链接：
+• Draveness 的博客：https://draveness.me/
+• Draveness 的微博：@Draveness（https://www.weibo.com/u/5123574960）
+• Draveness 的 GitHub：https://github.com/Draveness
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swiftgg,搭建博客,写博客,Draveness,灯塔</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>和裕波聊聊如何办一场技术大会（上）</title>
+            <itunes:episode>3</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 13 Nov 2018 11:00:00 CDT</pubDate>
+            <description>
+关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。
+
+本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。
+
+我自己也是一个大会组织者，组织过三届 Swift 大会，目前来看反响还都不错。我和裕波是通过大会认识，我开始组织大会也是受裕波影响，可以说这期节目也完成了我的一个愿望，和我的大会启蒙导师聊聊办大会的酸甜苦辣。
+
+对大会的幕后故事感兴趣？想自己尝试组织活动？别犹豫，点击播放。
+
+参考链接：
+• w3ctech：https://w3ctech.com/
+• 裕波的微博：@裕波（https://weibo.com/itchina100）
+• 11 月 24 日，第二届 Vue.js 开发者大会：https://vue.w3ctech.com/?home
+• 第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources
+• @Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/3.mp3" length="123336332" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/3.mp3</guid>
+            <itunes:duration>01:04:14</itunes:duration>
+            <itunes:summary>
+关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。
+
+本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。
+
+我自己也是一个大会组织者，组织过三届 Swift 大会，目前来看反响还都不错。我和裕波是通过大会认识，我开始组织大会也是受裕波影响，可以说这期节目也完成了我的一个愿望，和我的大会启蒙导师聊聊办大会的酸甜苦辣。
+
+对大会的幕后故事感兴趣？想自己尝试组织活动？别犹豫，点击播放。
+
+参考链接：
+• w3ctech：https://w3ctech.com/
+• 裕波的微博：@裕波（https://weibo.com/itchina100）
+• 11 月 24 日，第二届 Vue.js 开发者大会：https://vue.w3ctech.com/?home
+• 第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources
+• @Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swiftgg,技术大会,裕波,swift大会</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>和裕波聊聊如何办一场技术大会（下）</title>
+            <itunes:episode>4</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Wed, 14 Nov 2018 15:00:00 CDT</pubDate>
+            <description>
+关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。
+
+本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。
+
+我自己也是一个大会组织者，组织过三届 Swift 大会，目前来看反响还都不错。我和裕波是通过大会认识，我开始组织大会也是受裕波影响，可以说这期节目也完成了我的一个愿望，和我的大会启蒙导师聊聊办大会的酸甜苦辣。
+
+对大会的幕后故事感兴趣？想自己尝试组织活动？别犹豫，点击播放。
+
+参考链接：
+• w3ctech：https://w3ctech.com/
+• 裕波的微博：@裕波（https://weibo.com/itchina100）
+• 11 月 24 日，第二届 Vue.js 开发者大会：https://vue.w3ctech.com/?home
+• 第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources
+• @Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/4.mp3" length="71436667" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/4.mp3</guid>
+            <itunes:duration>00:37:12</itunes:duration>
+            <itunes:summary>
+关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。
+
+本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。
+
+我自己也是一个大会组织者，组织过三届 Swift 大会，目前来看反响还都不错。我和裕波是通过大会认识，我开始组织大会也是受裕波影响，可以说这期节目也完成了我的一个愿望，和我的大会启蒙导师聊聊办大会的酸甜苦辣。
+
+对大会的幕后故事感兴趣？想自己尝试组织活动？别犹豫，点击播放。
+
+参考链接：
+• w3ctech：https://w3ctech.com/
+• 裕波的微博：@裕波（https://weibo.com/itchina100）
+• 11 月 24 日，第二届 Vue.js 开发者大会：https://vue.w3ctech.com/?home
+• 第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources
+• @Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swiftgg,技术大会,裕波,swift大会</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊程序员的升职加薪（下）</title>
+            <itunes:episode>5</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 20 Nov 2018 08:00:00 CDT</pubDate>
+            <description>
+是你期待已久的（下）期！
+
+作为 ggtalk 节目的第一个主题，只聊一期当然是不够的。在（上）中，翻译组的星星和 mm 分享了自己的转岗和升职经验。作为亲身经历的人，聊了很多有趣有价值的内容。
+
+这一期中，我们请到了翻译组两位叔辈的大佬，莲叔和羊叔。作为技术团队的 leader，从另一个角度聊聊他们眼中的升职加薪，结合上一期，形成一个完整全面的认识。
+
+说的够多了，听！（海哭的声音……）
+
+参考链接：
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/5.mp3" length="45288304" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/5.mp3</guid>
+            <itunes:duration>00:47:10</itunes:duration>
+            <itunes:summary>
+是你期待已久的（下）期！
+
+作为 ggtalk 节目的第一个主题，只聊一期当然是不够的。在（上）中，翻译组的星星和 mm 分享了自己的转岗和升职经验。作为亲身经历的人，聊了很多有趣有价值的内容。
+
+这一期中，我们请到了翻译组两位叔辈的大佬，莲叔和羊叔。作为技术团队的 leader，从另一个角度聊聊他们眼中的升职加薪，结合上一期，形成一个完整全面的认识。
+
+说的够多了，听！（海哭的声音……）
+
+参考链接：
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术,升职,加薪</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊 Swift 这四年（上）</title>
+            <itunes:episode>6</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 27 Nov 2018 09:00:00 CDT</pubDate>
+            <description>
+从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。
+
+这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。（本期还有一段彩蛋，来自喵神的 Swift 开源解读！）
+
+如果你一直在关注 Swift，可以和我们一起来回忆过去；如果你是新入行或者新转行的 iOS 开发者，那本期节目可以让你更加深入的了解 Swift。总之，听就对了。
+
+哦对了，如果你觉得这期节目有价值，别忘了分享给你的朋友。
+
+参考链接：
+• 垃圾桶里的 OC 教程：https://img.25pp.com/uploadfile/news/2014/0604/20140604031716756_380x480.jpg
+• 《The Swift Programming Language》中文版项目地址：https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese
+• Swift 中文文档正式发布的那条微博：https://weibo.com/5174822990/B8CqZ7ox0?refer_flag=1001030103_
+• 苹果官方 Swift 首页：https://swift.org/
+• Enjoy App：https://itunes.apple.com/cn/app/enjoy-%E7%B2%BE%E9%80%89%E7%BE%8E%E9%A3%9F%E7%94%B5%E5%95%86/id943837902?mt=8
+• SwiftGG 翻译组官网：https://swift.gg/
+• SwiftGG 翻译组微博：@SwiftGG翻译组（https://www.weibo.com/swiftguide）
+• Swift 官方开源项目地址：https://github.com/apple/swift
+• 星星给 Swift 提交的 Pull Request：https://github.com/apple/swift/pull/770
+• IBM Swift Sandbox 在 2018 年 1 月已经关闭，官方解释说要专注在 Swift 服务端开发
+• Objective-C Block 用法说明网页：http://t.cn/z8iOhFs
+• 喵神的微博：@onevcat（https://www.weibo.com/onevcat）
+• 喵神的博客：https://onevcat.com/
+• 王雷的邮箱：r4ynum1@gmail.com
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 02:00  个人介绍
+• 03:16  主题介绍
+• 06:37  Swift 发布当天的回忆
+• 13:00  Swift 官方文档翻译
+• 19:23  Enjoy 的技术选型，为何决定使用 Swift
+• 21:22  Swift Playground 介绍
+• 27:54  各种 Swift 论坛和公司内部培训
+• 33:00  Enjoy Swift 踩坑
+• 38:13  Swift 8MB 包体积问题，不同版本编译的 framework 不通用问题
+• 40:56  2014 年大家的补充内容
+• 42:50  2015 年 Enjoy 的 Swift 使用体验
+• 45:35  SwiftGG 翻译成立！
+• 48:04  Swift 开源的介绍和解析，神秘嘉宾喵神出场！
+• 54:26  星星给 Swift 项目提交的 PR 被合并
+• 57:58  2015 年大家的补充内容
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/6.mp3" length="62420451" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/6.mp3</guid>
+            <itunes:duration>01:05:01</itunes:duration>
+            <itunes:summary>
+从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。
+
+这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。（本期还有一段彩蛋，来自喵神的 Swift 开源解读！）
+
+如果你一直在关注 Swift，可以和我们一起来回忆过去；如果你是新入行或者新转行的 iOS 开发者，那本期节目可以让你更加深入的了解 Swift。总之，听就对了。
+
+哦对了，如果你觉得这期节目有价值，别忘了分享给你的朋友。
+
+参考链接：
+• 垃圾桶里的 OC 教程：https://img.25pp.com/uploadfile/news/2014/0604/20140604031716756_380x480.jpg
+• 《The Swift Programming Language》中文版项目地址：https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese
+• Swift 中文文档正式发布的那条微博：https://weibo.com/5174822990/B8CqZ7ox0?refer_flag=1001030103_
+• 苹果官方 Swift 首页：https://swift.org/
+• Enjoy App：https://itunes.apple.com/cn/app/enjoy-%E7%B2%BE%E9%80%89%E7%BE%8E%E9%A3%9F%E7%94%B5%E5%95%86/id943837902?mt=8
+• SwiftGG 翻译组官网：https://swift.gg/
+• SwiftGG 翻译组微博：@SwiftGG翻译组（https://www.weibo.com/swiftguide）
+• Swift 官方开源项目地址：https://github.com/apple/swift
+• 星星给 Swift 提交的 Pull Request：https://github.com/apple/swift/pull/770
+• IBM Swift Sandbox 在 2018 年 1 月已经关闭，官方解释说要专注在 Swift 服务端开发
+• Objective-C Block 用法说明网页：http://t.cn/z8iOhFs
+• 喵神的微博：@onevcat（https://www.weibo.com/onevcat）
+• 喵神的博客：https://onevcat.com/
+• 王雷的邮箱：r4ynum1@gmail.com
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 02:00  个人介绍
+• 03:16  主题介绍
+• 06:37  Swift 发布当天的回忆
+• 13:00  Swift 官方文档翻译
+• 19:23  Enjoy 的技术选型，为何决定使用 Swift
+• 21:22  Swift Playground 介绍
+• 27:54  各种 Swift 论坛和公司内部培训
+• 33:00  Enjoy Swift 踩坑
+• 38:13  Swift 8MB 包体积问题，不同版本编译的 framework 不通用问题
+• 40:56  2014 年大家的补充内容
+• 42:50  2015 年 Enjoy 的 Swift 使用体验
+• 45:35  SwiftGG 翻译成立！
+• 48:04  Swift 开源的介绍和解析，神秘嘉宾喵神出场！
+• 54:26  星星给 Swift 项目提交的 PR 被合并
+• 57:58  2015 年大家的补充内容
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊 Swift 这四年（下）</title>
+            <itunes:episode>7</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 04 Dec 2018 08:00:00 CDT</pubDate>
+            <description>
+从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。
+
+这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。
+
+如果你一直在关注 Swift，可以和我们一起来回忆过去；如果你是新入行或者新转行的 iOS 开发者，那本期节目可以让你更加深入的了解 Swift。总之，听就对了。
+
+哦对了，如果你觉得这期节目有价值，别忘了分享给你的朋友。
+
+参考链接：
+• iOS 循环表情图：http://ww1.sinaimg.cn/large/0065hPzhgy1fdfv4njndtj30u00pmtar.jpg
+• 腾讯 OCS 现存的文章：http://www.10tiao.com/html/330/201612/2653578416/1.html
+• DynamicCocoa 的 issue 列表：https://github.com/DynamicCocoa/DynamicCocoa/issues
+• bang 对于 JSPatch 苹果警告的回应：https://blog.cnbang.net/internet/3374/
+• Swift 项目官方地址：https://github.com/apple/swift-evolution
+• SwiftGG 翻译组官网：https://swift.gg/
+• SwiftGG 翻译组微博：@SwiftGG翻译组（https://www.weibo.com/swiftguide）
+• 王雷的邮箱：r4ynum1@gmail.com（想去 Enjoy 工作可以直接发送简历）
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:24  Swift 3.0
+• 02:36  Swift ABI 稳定的讨论
+• 08:00  第一届 @Swift 开发者大会
+• 09:00  2016 年的 iOS 培训热潮
+• 17:24  混编方案的介绍
+• 23:00  Swift 4.0
+• 24:30  第二届 @Swift 开发者大会
+• 25:40  小程序和跨平台
+• 32:00  影响深远的 JSPatch 事件
+• 39:40  Swift 5
+• 42:38  第三届 @Swift 开发者大会
+• 47:00  回顾和总结
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/7.mp3" length="51791749" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/7.mp3</guid>
+            <itunes:duration>00:53:57</itunes:duration>
+            <itunes:summary>
+从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。
+
+这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。（本期还有一段彩蛋，来自喵神的 Swift 开源解读！）
+
+如果你一直在关注 Swift，可以和我们一起来回忆过去；如果你是新入行或者新转行的 iOS 开发者，那本期节目可以让你更加深入的了解 Swift。总之，听就对了。
+
+哦对了，如果你觉得这期节目有价值，别忘了分享给你的朋友。
+
+参考链接：
+• iOS 循环表情图：http://ww1.sinaimg.cn/large/0065hPzhgy1fdfv4njndtj30u00pmtar.jpg
+• 腾讯 OCS 现存的文章：http://www.10tiao.com/html/330/201612/2653578416/1.html
+• DynamicCocoa 的 issue 列表：https://github.com/DynamicCocoa/DynamicCocoa/issues
+• bang 对于 JSPatch 苹果警告的回应：https://blog.cnbang.net/internet/3374/
+• Swift 项目官方地址：https://github.com/apple/swift-evolution
+• SwiftGG 翻译组官网：https://swift.gg/
+• SwiftGG 翻译组微博：@SwiftGG翻译组（https://www.weibo.com/swiftguide）
+• 王雷的邮箱：r4ynum1@gmail.com（想去 Enjoy 工作可以直接发送简历）
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:24  Swift 3.0
+• 02:36  Swift ABI 稳定的讨论
+• 08:00  第一届 @Swift 开发者大会
+• 09:00  2016 年的 iOS 培训热潮
+• 17:24  混编方案的介绍
+• 23:00  Swift 4.0
+• 24:30  第二届 @Swift 开发者大会
+• 25:40  小程序和跨平台
+• 32:00  影响深远的 JSPatch 事件
+• 39:40  Swift 5
+• 42:38  第三届 @Swift 开发者大会
+• 47:00  回顾和总结
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>要不要买 HHKB？我问了七位用户，听听他们怎么说</title>
+            <itunes:episode>8</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 11 Dec 2018 08:30:00 CDT</pubDate>
+            <description>
+首先这期真不是广告，也没人赞助我们，如果 HHKB 官方想赞助请速与我联系……
+
+本期来详细的聊聊“程序员的最后一把键盘”——HHKB。目前翻译组里很多人都有 HHKB，有些人甚至有不止一把，使用时间从三个月到六年都有。于是我就想做这么一期节目，好好说说 HHKB。
+
+HHKB 有啥好处？有啥缺点？不同版本到底如何选择？从哪里买最便宜？每个考虑过 HHKB 的程序员都会有这些疑问。我们的目的不是找到标准答案，实际上也不存在标准答案。我们想做的就是尽可能多的展示不同的观点，让你能从不同的角度去了解 HHKB，最终能做出自己的决定。
+
+如果你觉得本期的内容有帮助，可以分享给你的程序员朋友们。如果你也想分享自己的 HHKB 使用体验，也欢迎给我发邮件：lj925184928@gmail.com。
+
+内容勘误：
+• Cee 的录音中有提到“HHKB 还在使用传统的 Micro USB 接口”，准确的说是“Mini USB”接口
+
+参考链接：
+• 对 HHKB 设计者和田英一的采访：https://www.massdrop.com/article/eiiti-wada-interview
+• Dvorak 键盘布局：https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+• CMB 提到的键盘胶圈：https://www.v2ex.com/t/108909
+• Cee 提到的 Karabiner：https://pqrs.org/osx/karabiner/
+• Cee 的键盘照片：https://imgur.com/a/37XetDi
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）
+• 小青的博客：https://blog.dianqk.org
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:29  个人介绍
+• 02:23  HHKB 历史和设计过程
+• 10:18  莲叔的 HHKB 故事
+• 23:06  蓉老师的 HHKB 故事
+• 28:47  Dvorak 布局介绍
+• 34:37  小青的 HHKB 故事
+• 44:12  聊聊为什么 HHKB 这么神
+• 49:44  总结为什么要买 HHKB
+• 50:50  总结 HHKB 有什么缺点
+• 54:40  讨论日本代购
+• 57:03  CMB 的 HHKB 故事
+• 58:37  冬瓜的 HHKB 故事
+• 01:01:35  思琦的 HHKB 故事
+• 01:04:46  Cee 的 HHKB 故事
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/8.mp3" length="66747583" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/8.mp3</guid>
+            <itunes:duration>01:09:31</itunes:duration>
+            <itunes:summary>
+首先这期真不是广告，也没人赞助我们，如果 HHKB 官方想赞助请速与我联系……
+
+本期来详细的聊聊“程序员的最后一把键盘”——HHKB。目前翻译组里很多人都有 HHKB，有些人甚至有不止一把，使用时间从三个月到六年都有。于是我就想做这么一期节目，好好说说 HHKB。
+
+HHKB 有啥好处？有啥缺点？不同版本到底如何选择？从哪里买最便宜？每个考虑过 HHKB 的程序员都会有这些疑问。我们的目的不是找到标准答案，实际上也不存在标准答案。我们想做的就是尽可能多的展示不同的观点，让你能从不同的角度去了解 HHKB，最终能做出自己的决定。
+
+如果你觉得本期的内容有帮助，可以分享给你的程序员朋友们。如果你也想分享自己的 HHKB 使用体验，也欢迎给我发邮件：lj925184928@gmail.com。
+
+内容勘误：
+• Cee 的录音中有提到“HHKB 还在使用传统的 Micro USB 接口”，准确的说是“Mini USB”接口
+
+参考链接：
+• 对 HHKB 设计者和田英一的采访：https://www.massdrop.com/article/eiiti-wada-interview
+• Dvorak 键盘布局：https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+• CMB 提到的键盘胶圈：https://www.v2ex.com/t/108909
+• Cee 提到的 Karabiner：https://pqrs.org/osx/karabiner/
+• Cee 的键盘照片：https://imgur.com/a/37XetDi
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）
+• 小青的博客：https://blog.dianqk.org
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:29  个人介绍
+• 02:23  HHKB 历史和设计过程
+• 10:18  莲叔的 HHKB 故事
+• 23:06  蓉老师的 HHKB 故事
+• 28:47  Dvorak 布局介绍
+• 34:37  小青的 HHKB 故事
+• 44:12  聊聊为什么 HHKB 这么神
+• 49:44  总结为什么要买 HHKB
+• 50:50  总结 HHKB 有什么缺点
+• 54:40  讨论日本代购
+• 57:03  CMB 的 HHKB 故事
+• 58:37  冬瓜的 HHKB 故事
+• 01:01:35  思琦的 HHKB 故事
+• 01:04:46  Cee 的 HHKB 故事
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术,HHKB,机械键盘</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>和 Cee 聊聊如何拿 Google Offer</title>
+            <itunes:episode>9</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 18 Dec 2018 06:00:00 CDT</pubDate>
+            <description>
+翻译组里真是人才辈出啊，前几天 Cee 在群里说了个好消息，他拿到了美国 Google 的 Offer。群友们纷纷表示祝贺并进行了隆重的认哥仪式，将 SwiftGG 诞生以来第一个 GG（哥哥） 称号颁发给我们公认的大哥 Cee。
+
+我也在第一时间联系 Cee，邀请他来电台详细说说这个过程，让更多人能了解 Google 的面试流程，也给大家分享一些 Cee 的准备技巧和面试经验。
+
+废话不多说，开始听节目吧！
+
+参考链接：
+• SwiftGG 群内认哥现场：https://imgur.com/a/KWVcR0J
+• 一个 Latex 简历模板：https://github.com/sb2nov/resume
+• Cee 的 LeetCode 开源项目地址：https://github.com/Cee/Leetcode
+• 《Google foo.bar 面试记》：http://xiaohanyu.me/posts/2017-04-30-google-foobar-interview/
+• Cee 的留学过程《写在申请季之后》：https://blog.cee.moe/After-Applying-For-Graduate-School.html
+• 一亩三分地论坛：https://www.1point3acres.com/bbs/
+• Cee 提到的普林斯顿算法书《Algorithms》：https://algs4.cs.princeton.edu/home/
+• LeetCode 算法刷题平台：https://leetcode.com/
+• Cee 的微博：https://www.weibo.com/acgcee
+• Cee 的 GitHub: https://github.com/Cee
+• Cee 的联系方式：https://t.me/ceeee
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:34  个人介绍
+• 01:45  邀请 Cee 的原因
+• 03:09  Google 面试的流程
+• 10:24  应聘的是什么职位
+• 12:45  Google 的食堂好吃吗
+• 13:13  大公司看重的是什么能力？如何准备？
+• 15:29  如何找到合适的职位
+• 17:33  如何写好简历
+• 20:53  如何内推
+• 23:38  如何复习算法
+• 30:51  关于美国工签的讨论
+• 32:43  之后的职业规划是什么
+• 34:33  Cee 的留学经历
+• 38:08  Cee 在渡鸦的工作体验
+• 38:49  申请留学的具体流程
+• 44:26  出国留学的感受
+• 48:09  暑假在 Tumblr 的实习经历
+• 53:02  其他的出国工作渠道
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/9.mp3" length="57260745" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/9.mp3</guid>
+            <itunes:duration>00:59:39</itunes:duration>
+            <itunes:summary>
+翻译组里真是人才辈出啊，前几天 Cee 在群里说了个好消息，他拿到了美国 Google 的 Offer。群友们纷纷表示祝贺并进行了隆重的认哥仪式，将 SwiftGG 诞生以来第一个 GG（哥哥） 称号颁发给我们公认的大哥 Cee。
+
+我也在第一时间联系 Cee，邀请他来电台详细说说这个过程，让更多人能了解 Google 的面试流程，也给大家分享一些 Cee 的准备技巧和面试经验。
+
+废话不多说，开始听节目吧！
+
+参考链接：
+• SwiftGG 群内认哥现场：https://imgur.com/a/KWVcR0J
+• 一个 Latex 简历模板：https://github.com/sb2nov/resume
+• Cee 的 LeetCode 开源项目地址：https://github.com/Cee/Leetcode
+• 《Google foo.bar 面试记》：http://xiaohanyu.me/posts/2017-04-30-google-foobar-interview/
+• Cee 的留学过程《写在申请季之后》：https://blog.cee.moe/After-Applying-For-Graduate-School.html
+• 一亩三分地论坛：https://www.1point3acres.com/bbs/
+• Cee 提到的普林斯顿算法书《Algorithms》：https://algs4.cs.princeton.edu/home/
+• LeetCode 算法刷题平台：https://leetcode.com/
+• Cee 的微博：https://www.weibo.com/acgcee
+• Cee 的 GitHub: https://github.com/Cee
+• Cee 的联系方式：https://t.me/ceeee
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:34  个人介绍
+• 01:45  邀请 Cee 的原因
+• 03:09  Google 面试的流程
+• 10:24  应聘的是什么职位
+• 12:45  Google 的食堂好吃吗
+• 13:13  大公司看重的是什么能力？如何准备？
+• 15:29  如何找到合适的职位
+• 17:33  如何写好简历
+• 20:53  如何内推
+• 23:38  如何复习算法
+• 30:51  关于美国工签的讨论
+• 32:43  之后的职业规划是什么
+• 34:33  Cee 的留学经历
+• 38:08  Cee 在渡鸦的工作体验
+• 38:49  申请留学的具体流程
+• 44:26  出国留学的感受
+• 48:09  暑假在 Tumblr 的实习经历
+• 53:02  其他的出国工作渠道
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,技术,简历,面试,Google面试,Google,美国读研</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>创业那点事：听莲叔和羊叔回忆峥嵘岁月</title>
+            <itunes:episode>10</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 25 Dec 2018 07:00:00 CDT</pubDate>
+            <description>
+莲叔和羊叔是 SwiftGG 翻译组的真·大佬。成绩好，学历高，思维缜密，能力很强。听过《升职加薪》那期节目的朋友应该都有印象。作为标准的技术人才，在创业大潮中自然也想试试身手，打拼一番。
+
+直博休学，放弃大厂的稳定工作，签下第一份百万美金投资协议，App 霸占苹果免费榜第一名长达一周，招人烧钱……作为技术合伙人和 CTO，莲叔和羊叔在四五年的创业过程中经历过高峰，也遇到过低谷，有无奈，但更多的还是收获和感激。
+
+兜兜转转一大圈，莲叔和羊叔还是回到了阿里和腾讯，稳定下来做技术 leader。现在再来回顾，他们有什么感想？有什么思考？一起来听吧。
+
+参考链接：
+• 莲叔提到的几个网站和产品：Gilt，Zulily，唯品会，尾品汇，腾讯广点通
+• 羊叔提到的游戏：部落冲突（COC，Clash of Clans），海岛奇兵（Boom Beach）
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:27  嘉宾自我介绍
+• 02:56  莲叔的创业故事
+• 10:52  莲叔详细讲因为创业休学
+• 11:57  服装特卖模式介绍
+• 13:08  莲叔创业拿多少工资
+• 14:31  创业过程中难忘的事
+• 17:35  羊叔的创业故事
+• 28:08  为什么公司要上线十几款 App
+• 30:08  聊聊对丁香园的印象
+• 32:28  讨论跨界和跨领域创业
+• 35:58  创业是不是靠命好
+• 37:24  游戏策划这个职位具体要做什么？
+• 38:46  在你们离开之后，公司是否还在继续发展？
+• 39:14  讨论最近蘑菇街期权的事
+• 45:21  反思为什么失败，有什么收获
+• 49:45  什么样的创业公司靠谱
+• 54:09  对正在创业的人有什么话想说
+• 55:34  节目最后还有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/10.mp3" length="54597509" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/10.mp3</guid>
+            <itunes:duration>00:56:52</itunes:duration>
+            <itunes:summary>
+莲叔和羊叔是 SwiftGG 翻译组的真·大佬。成绩好，学历高，思维缜密，能力很强。听过《升职加薪》那期节目的朋友应该都有印象。作为标准的技术人才，在创业大潮中自然也想试试身手，打拼一番。
+
+直博休学，放弃大厂的稳定工作，签下第一份百万美金投资协议，App 霸占苹果免费榜第一名长达一周，招人烧钱……作为技术合伙人和 CTO，莲叔和羊叔在四五年的创业过程中经历过高峰，也遇到过低谷，有无奈，但更多的还是收获和感激。
+
+兜兜转转一大圈，莲叔和羊叔还是回到了阿里和腾讯，稳定下来做技术 leader。现在再来回顾，他们有什么感想？有什么思考？一起来听吧。
+
+参考链接：
+• 莲叔提到的几个网站和产品：Gilt，Zulily，唯品会，尾品汇，腾讯广点通
+• 羊叔提到的游戏：部落冲突（COC，Clash of Clans），海岛奇兵（Boom Beach）
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:27  嘉宾自我介绍
+• 02:56  莲叔的创业故事
+• 10:52  莲叔详细讲因为创业休学
+• 11:57  服装特卖模式介绍
+• 13:08  莲叔创业拿多少工资
+• 14:31  创业过程中难忘的事
+• 17:35  羊叔的创业故事
+• 28:08  为什么公司要上线十几款 App
+• 30:08  聊聊对丁香园的印象
+• 32:28  讨论跨界和跨领域创业
+• 35:58  创业是不是靠命好
+• 37:24  游戏策划这个职位具体要做什么？
+• 38:46  在你们离开之后，公司是否还在继续发展？
+• 39:14  讨论最近蘑菇街期权的事
+• 45:21  反思为什么失败，有什么收获
+• 49:45  什么样的创业公司靠谱
+• 54:09  对正在创业的人有什么话想说
+• 55:34  节目最后还有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,创业,创业故事</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>创业那点事：普通开发者的回忆、反思和迷茫</title>
+            <itunes:episode>11</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 1 Jan 2019 15:20:00 CDT</pubDate>
+            <description>
+本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。
+
+本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。
+
+参考链接：
+• 翻译组公众号：learnSwift
+• mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:51  嘉宾自我介绍
+• 02:11  mm 的创业故事
+• 10:38  珂珂的创业故事
+• 21:06  梁杰的创业故事
+• 38:03  当时为什么要去创业？
+• 44:27  学到了什么东西？有什么收获？
+• 58:23  对于正在创业的人想说什么？
+• 01:00:00  节目最后有什么话想说？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/11.mp3" length="60674218" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/11.mp3</guid>
+            <itunes:duration>01:03:12</itunes:duration>
+            <itunes:summary>
+本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。
+
+本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。
+
+参考链接：
+• 翻译组公众号：learnSwift
+• mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:51  嘉宾自我介绍
+• 02:11  mm 的创业故事
+• 10:38  珂珂的创业故事
+• 21:06  梁杰的创业故事
+• 38:03  当时为什么要去创业？
+• 44:27  学到了什么东西？有什么收获？
+• 58:23  对于正在创业的人想说什么？
+• 01:00:00  节目最后有什么话想说？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,创业,创业故事</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>创业那点事：逆流而上的泊学</title>
+            <itunes:episode>12</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 8 Jan 2019 08:00:00 CDT</pubDate>
+            <description>
+本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。
+
+这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。
+
+作为一个全栈工程师的自学网站，泊学已经创办了三年。和一般的创业公司不一样，崔轶和一凌没有拿投资，靠着一股拼劲坚持到了今天。为什么不拿投资？为什么选择自制视频？创业过程中遇到过哪些困难？有哪些难忘的事？借着这期节目，我问了所有我感兴趣的问题，听到了很多意料之外的答案，创业这两个字真的是知易行难。
+
+这期节目很长，但是我真心希望大家能听完，看看真实的、努力的、走心的创业公司到底是什么样。
+
+
+参考链接：
+• 泊学：https://boxueio.com/
+• 泊学的公众号：boxueio
+• 崔轶提到的两位 C++ 大咖：侯捷，孟岩
+• Laraval 框架学习网站，Laracasts：https://laracasts.com/
+• 梁杰提到的命令行工具，iTerms2：https://www.iterm2.com/
+• Safari 浏览器的 HLS 格式：https://developer.apple.com/streaming/
+• Chrome 浏览器支持的 WebM 格式：https://www.webmproject.org/
+• 崔轶提到的视频录制工具，ScreenFlow：https://www.telestream.net/screenflow/
+• 泊学官方微博：@泊学（https://weibo.com/boxueio）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:03  自我介绍
+• 09:21  泊学的现状
+• 12:29  最初为什么要创办泊学？
+• 22:35  创业过程中，遇到过哪些压力？
+• 28:57  为什么决定做视频？
+• 34:29  编程类的视频有什么缺点
+• 43:20  4K 视频对带宽和服务器压力大吗？
+• 45:34  做一个视频，一般有哪些步骤？
+• 49:21  一凌做视频剪辑的感受
+• 52:42  技术更新之后，怎么同步更新视频内容？
+• 57:13  有没有考虑过招人做视频？
+• 58:22  为什么没有选择融资？
+• 01:02:10  创业过程中印象深刻的事
+• 01:11:56  最后有什么话想说？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/12.mp3" length="73786016" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/12.mp3</guid>
+            <itunes:duration>01:16:51</itunes:duration>
+            <itunes:summary>
+本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。
+
+这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。
+
+作为一个全栈工程师的自学网站，泊学已经创办了三年。和一般的创业公司不一样，崔轶和一凌没有拿投资，靠着一股拼劲坚持到了今天。为什么不拿投资？为什么选择自制视频？创业过程中遇到过哪些困难？有哪些难忘的事？借着这期节目，我问了所有我感兴趣的问题，听到了很多意料之外的答案，创业这两个字真的是知易行难。
+
+这期节目很长，但是我真心希望大家能听完，看看真实的、努力的、走心的创业公司到底是什么样。
+
+
+参考链接：
+• 泊学：https://boxueio.com/
+• 泊学的公众号：boxueio
+• 崔轶提到的两位 C++ 大咖：侯捷，孟岩
+• Laraval 框架学习网站，Laracasts：https://laracasts.com/
+• 梁杰提到的命令行工具，iTerms2：https://www.iterm2.com/
+• Safari 浏览器的 HLS 格式：https://developer.apple.com/streaming/
+• Chrome 浏览器支持的 WebM 格式：https://www.webmproject.org/
+• 崔轶提到的视频录制工具，ScreenFlow：https://www.telestream.net/screenflow/
+• 泊学官方微博：@泊学（https://weibo.com/boxueio）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:03  自我介绍
+• 09:21  泊学的现状
+• 12:29  最初为什么要创办泊学？
+• 22:35  创业过程中，遇到过哪些压力？
+• 28:57  为什么决定做视频？
+• 34:29  编程类的视频有什么缺点
+• 43:20  4K 视频对带宽和服务器压力大吗？
+• 45:34  做一个视频，一般有哪些步骤？
+• 49:21  一凌做视频剪辑的感受
+• 52:42  技术更新之后，怎么同步更新视频内容？
+• 57:13  有没有考虑过招人做视频？
+• 58:22  为什么没有选择融资？
+• 01:02:10  创业过程中印象深刻的事
+• 01:11:56  最后有什么话想说？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,创业,创业故事,泊学</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>狭义跳槽论：面试官，大厂新人和准备起跳的某 C</title>
+            <itunes:episode>13</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 15 Jan 2019 07:20:00 CDT</pubDate>
+            <description>
+又到年底了，除了春节抢票、年会抽奖，另一个不得不聊的事就是跳槽。这次我们请到了翻译组的三位同学，刚好能代表三个不同的状态。某 C 准备拿到年终奖后跳槽，钟同学是最近刚刚跳槽入职大厂，摸鱼则是一个新团队的面试官，最近几个月面试过很多人。
+
+本期我们不聊方法论，只讲他们真实经历的事。为什么决心跳槽？如何准备跳槽？大公司有什么利弊？寒冬是否已经来临？来听听他们怎么说。
+
+参考链接：
+• 钟同学
+• 摸鱼的博客：http://khala-wan.com/
+• 摸鱼的邮箱（想投简历的可以直接发）：wansheng@vipkid.com.cn
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:40  自我介绍
+• 04:26  正在准备跳槽的某 C 的故事
+• 16:20  刚刚入职大厂的钟同学的故事
+• 31:54  作为面试官的摸鱼的故事（一句话里面两个“的”读起来真的没问题吗= = ←这句也一样啊！）
+• 42:41  为什么互联网行业跳槽这么普遍？
+• 50:03  如何判断自己是否需要跳槽？
+• 56:00  未来有什么职业规划？
+• 58:45  程序员到底是不是吃“青春饭”？
+• 01:04:38  写代码开心吗？
+• 01:06:52  怎么去学习一门公司项目中用不到的新技术？
+• 01:14:23  最后有什么话想说？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/13.mp3" length="74428001" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/13.mp3</guid>
+            <itunes:duration>01:17:31</itunes:duration>
+            <itunes:summary>
+又到年底了，除了春节抢票、年会抽奖，另一个不得不聊的事就是跳槽。这次我们请到了翻译组的三位同学，刚好能代表三个不同的状态。某 C 准备拿到年终奖后跳槽，钟同学是最近刚刚跳槽入职大厂，摸鱼则是一个新团队的面试官，最近几个月面试过很多人。
+
+本期我们不聊方法论，只讲他们真实经历的事。为什么决心跳槽？如何准备跳槽？大公司有什么利弊？寒冬是否已经来临？来听听他们怎么说。
+
+参考链接：
+• 钟同学
+• 摸鱼的博客：http://khala-wan.com/
+• 摸鱼的邮箱（想投简历的可以直接发）：wansheng@vipkid.com.cn
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:40  自我介绍
+• 04:26  正在准备跳槽的某 C 的故事
+• 16:20  刚刚入职大厂的钟同学的故事
+• 31:54  作为面试官的摸鱼的故事（一句话里面两个“的”读起来真的没问题吗= = ←这句也一样啊！）
+• 42:41  为什么互联网行业跳槽这么普遍？
+• 50:03  如何判断自己是否需要跳槽？
+• 56:00  未来有什么职业规划？
+• 58:45  程序员到底是不是吃“青春饭”？
+• 01:04:38  写代码开心吗？
+• 01:06:52  怎么去学习一门公司项目中用不到的新技术？
+• 01:14:23  最后有什么话想说？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,跳槽</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>广义跳槽论：简洁明了的方法论</title>
+            <itunes:episode>14</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 22 Jan 2019 07:40:00 CDT</pubDate>
+            <description>
+说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。
+
+Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。
+
+本期 Easy 给出了一个方法论，具体来说就是价值观、职业画布和职业象限。简洁明了，便于使用。然而我想说的不是这个，大家一定要听到最后，听听 Easy 对于这类“方法论”的观点。不要盲目接受，学会质疑。
+
+最后，把本期 Easy 的一句话送给大家：如果你还年轻，有那么多时间，干嘛不自己试一下？不用想那么多，有些墙就是该撞的。
+
+勘误：
+• 本期梁杰的“jQuery”发音并不正确，正确的发音是：/ˈdʒeɪkwɪəri/，音频链接：https://forvo.com/word/jquery/
+
+参考链接：
+• 在 Easy 的主页阅读《程序员跳槽全攻略》电子版：http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc
+• 《程序员跳槽全攻略》亚马逊网址：https://www.amazon.cn/dp/B00PJVX160
+• 掘金小册的版本，《程序员职业小白书》：https://juejin.im/book/59e17a7ff265da430629cc4e
+• 精益创业：https://book.douban.com/subject/6959482/
+• 精益画布：http://www.woshipm.com/pmd/843044.html
+• 商业画布：https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%E5%9B%BE
+• Easy 提到的“Server酱”服务：http://sc.ftqq.com/
+• 我们聊到的一些技术：PhoneGap，React，Vue，React Hooks，Redux，Jasmine，Jest，create-react-app，webpack，React Native，weex，Flutter，Dart
+• Easy 提到的 JS 面临的挑战：WebAssembly（https://webassembly.org/）
+• GNU 是 GNU’s Not Unix 的首字母缩写，这是一个经典的递归缩写，多读几遍就明白了，很有意思
+• Easy 的全栈课（虽然他说不用打广告，我还是放上来了，感兴趣的同学可以看看）：https://study.163.com/course/introduction/1005226030.htm
+• Easy 的微博：@Easy（https://www.weibo.com/easy）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:06  自我介绍
+• 05:14  Easy 的职业规划方法论
+• 19:40  精益画布和职业画布
+• 22:18  程序员的四个职业象限
+• 25:05  程序员的两条晋升线路
+• 33:12  创业公司多要钱少要股权，老板会不会心里不爽？
+• 36:06  35 岁的时候，至少做到什么职位，才比较安全？
+• 45:16  如何构建个人品牌
+• 50:36  关于翻译英文书籍的讨论
+• 53:15  除了翻译，另一个“快速成名”的方式
+• 01:03:24  聊聊目前的前端领域和框架
+• 01:12:08  聊聊目前的移动端技术
+• 01:18:36  Easy 对移动端和前端的看法
+• 01:30:09  对未来有什么规划？
+• 01:34:59  最后有什么话想说？
+• 01:37:23  如何理性看待各种“方法论”
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/14.mp3" length="96041507" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/14.mp3</guid>
+            <itunes:duration>01:40:02</itunes:duration>
+            <itunes:summary>
+说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。
+
+Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。
+
+本期 Easy 给出了一个方法论，具体来说就是价值观、职业画布和职业象限。简洁明了，便于使用。然而我想说的不是这个，大家一定要听到最后，听听 Easy 对于这类“方法论”的观点。不要盲目接受，学会质疑。
+
+最后，把本期 Easy 的一句话送给大家：如果你还年轻，有那么多时间，干嘛不自己试一下？不用想那么多，有些墙就是该撞的。
+
+勘误：
+• 本期梁杰的“jQuery”发音并不正确，正确的发音是：/ˈdʒeɪkwɪəri/，音频链接：https://forvo.com/word/jquery/
+
+参考链接：
+• 在 Easy 的主页阅读《程序员跳槽全攻略》电子版：http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc
+• 《程序员跳槽全攻略》亚马逊网址：https://www.amazon.cn/dp/B00PJVX160
+• 掘金小册的版本，《程序员职业小白书》：https://juejin.im/book/59e17a7ff265da430629cc4e
+• 精益创业：https://book.douban.com/subject/6959482/
+• 精益画布：http://www.woshipm.com/pmd/843044.html
+• 商业画布：https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%E5%9B%BE
+• Easy 提到的“Server酱”服务：http://sc.ftqq.com/
+• 我们聊到的一些技术：PhoneGap，React，Vue，React Hooks，Redux，Jasmine，Jest，create-react-app，webpack，React Native，weex，Flutter，Dart
+• Easy 提到的 JS 面临的挑战：WebAssembly（https://webassembly.org/）
+• GNU 是 GNU’s Not Unix 的首字母缩写，这是一个经典的递归缩写，多读几遍就明白了，很有意思
+• Easy 的全栈课（虽然他说不用打广告，我还是放上来了，感兴趣的同学可以看看）：https://study.163.com/course/introduction/1005226030.htm
+• Easy 的微博：@Easy（https://www.weibo.com/easy）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:06  自我介绍
+• 05:14  Easy 的职业规划方法论
+• 19:40  精益画布和职业画布
+• 22:18  程序员的四个职业象限
+• 25:05  程序员的两条晋升线路
+• 33:12  创业公司多要钱少要股权，老板会不会心里不爽？
+• 36:06  35 岁的时候，至少做到什么职位，才比较安全？
+• 45:16  如何构建个人品牌
+• 50:36  关于翻译英文书籍的讨论
+• 53:15  除了翻译，另一个“快速成名”的方式
+• 01:03:24  聊聊目前的前端领域和框架
+• 01:12:08  聊聊目前的移动端技术
+• 01:18:36  Easy 对移动端和前端的看法
+• 01:30:09  对未来有什么规划？
+• 01:34:59  最后有什么话想说？
+• 01:37:23  如何理性看待各种“方法论”
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,跳槽,跳槽方法论</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>程序员的春节趣事</title>
+            <itunes:episode>15</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 29 Jan 2019 07:10:00 CDT</pubDate>
+            <description>
+快过年了，估计大家也没心情工作学习，准备进入放假状态。严肃的话题放到年后，这期我们请到了袁滚滚、张思琦和老朋友莲叔，围绕着春节轻松愉快的聊一期。
+
+这期真的是太欢乐了！聊的时候就一直在哈哈哈哈哈哈。剪节目时候又哈哈了一遍，对时间轴时候又哈哈了一遍，最后上线前完整听又哈哈了一遍，真的是听几遍都会笑，实在太逗了。
+
+如果你已经开始为春节躁动，如果你回家要度过几个小时甚至几十个小时枯燥的旅程，那一定要提前下载好这期，相信会给你带来不少快乐。好不容易回趟家，还是开心最重要。
+
+参考链接：
+• 莲叔的创业故事：创业那点事：听莲叔和羊叔回忆峥嵘岁月（https://talk.swift.gg/9）
+• 美团平台在招 iOS，欢迎投简历给思琦：zhangsiqi1988@gmail.com
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:26  自我介绍
+• 08:15  过年怎么回家？
+• 12:04  不堪回首的火车体验
+• 19:38  过年有什么印象深刻的事
+• 29:48  过年有没有接受过亲戚朋友的“盘问”
+• 38:52  怎么和家人解释你的工作
+• 01:04:59  现在还收压岁钱吗
+• 01:10:10  过年还有什么印象深刻的事
+• 01:17:52  过年放炮吗
+• 01:19:32  最后还有什么想说的
+
+时间线仅供参考，这期太多有意思的事没办法总结出来，大家直接听吧！
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/15.mp3" length="77685157" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/15.mp3</guid>
+            <itunes:duration>01:20:55</itunes:duration>
+            <itunes:summary>
+快过年了，估计大家也没心情工作学习，准备进入放假状态。严肃的话题放到年后，这期我们请到了袁滚滚、张思琦和老朋友莲叔，围绕着春节轻松愉快的聊一期。
+
+这期真的是太欢乐了！聊的时候就一直在哈哈哈哈哈哈。剪节目时候又哈哈了一遍，对时间轴时候又哈哈了一遍，最后上线前完整听又哈哈了一遍，真的是听几遍都会笑，实在太逗了。
+
+如果你已经开始为春节躁动，如果你回家要度过几个小时甚至几十个小时枯燥的旅程，那一定要提前下载好这期，相信会给你带来不少快乐。好不容易回趟家，还是开心最重要。
+
+参考链接：
+• 莲叔的创业故事：创业那点事：听莲叔和羊叔回忆峥嵘岁月（https://talk.swift.gg/9）
+• 美团平台在招 iOS，欢迎投简历给思琦：zhangsiqi1988@gmail.com
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:26  自我介绍
+• 08:15  过年怎么回家？
+• 12:04  不堪回首的火车体验
+• 19:38  过年有什么印象深刻的事
+• 29:48  过年有没有接受过亲戚朋友的“盘问”
+• 38:52  怎么和家人解释你的工作
+• 01:04:59  现在还收压岁钱吗
+• 01:10:10  过年还有什么印象深刻的事
+• 01:17:52  过年放炮吗
+• 01:19:32  最后还有什么想说的
+
+时间线仅供参考，这期太多有意思的事没办法总结出来，大家直接听吧！
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,过年,春节,春节趣事</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+         <item>
+            <title>《听莲叔的话》</title>
+            <itunes:episode>16</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 3 Feb 2019 18:00:00 CDT</pubDate>
+            <description>
+亲爱的听众朋友们，新年好！拜年的话大家已经听了太多，我们换了一种形式，录了一首歌献给大家！
+
+歌词接龙是 SwiftGG 群内历史悠久的灌水活动，大家经常使用歌词来测试默契程度。在最近一次歌词接龙中，突然发生了变异，从接歌词变成了改歌词。于是就诞生了这首《听莲叔的话》。
+
+有了词下一步当然就是唱了，经过一番辛苦的调研和测试，我们【七个人】终于成功的实现了异国异地异步“合唱”这首歌！具体效果如何？大家听听就知道了。
+
+下面是歌词以及演唱者：
+
+《听莲叔的话》
+
+梁杰： 
+// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+小朋友你是否有很多问号
+为什么 别人在那看漫画
+我却在学Java 对着TNT说话
+别人在玩游戏 我却靠在墙壁背我的ObjC
+我说我要一台大大的飞机
+但却得到一台旧旧打字机
+为什么要听莲叔的话
+毕业后你就会开始懂了这段话
+毕业后我开始明白
+为什么我写得比别人快 bug比别人少
+将来大家看的都是我写的动画
+大家买的都是我
+
+珂珂：
+// 网易云音乐：Yacoee（https://music.163.com/#/user/home?id=396603941）
+// 新建的账号，大家可以先关注下，后面珂珂有空会上传一些歌曲
+写的书
+莲叔的辛苦不让你看见
+学习路线图在他心里面
+有空就多去看看他的code
+把手牵着一起review
+
+星星：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+Forelax（昵称“御姐”）：
+// 微博：ForelaxMe（https://weibo.com/u/3889029090）
+在你的未来 编程是你的王牌
+拿王牌创业失败
+唉 我不想把你教坏
+还是听莲叔的话吧 晚点再创业吧
+我知道你未来的路 但叔比我更清楚
+你会开始学其他同学在群里写东写西
+但我建议你最好写莲叔我会加班交付
+加班交付 怎么会从我键盘打出
+不想你C 所以叫你加班交付
+莲叔发给你的建议 你要好好的收着
+因为评审会到时 我要告诉他我还留着
+对了 我会遇到pony马
+所以你可以跟同学炫耀腾讯未来是你爸爸
+我找不到入职写的项目
+你写完不要发布
+因为过两天你会在GitHub上找到
+你会开始喜欢上StackOverflow
+因为老项目开始准备要重写
+
+Sai：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+摸鱼：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+
+梁杰：
+// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+毕业后我开始明白
+为什么我写得比别人快 bug比别人少
+将来大家看的都是我写的动画
+大家买的都是我
+
+珂珂：
+// 网易云音乐：Yacoee（https://music.163.com/#/user/home?id=396603941）
+// 新建的账号，大家可以先关注下，后面珂珂有空会上传一些歌曲
+写的书
+莲叔的辛苦不让你看见
+学习路线图在他心里面
+有空就多去看看他的code
+把手牵着一起review
+
+阿兰：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+七大天王有八个人不是常识吗？第八位是水水，多闪 ID：young027。这次的快歌并不适合他发挥，所以没有出现在歌曲中，期待他未来的表现。
+
+最后附上歌词的文字版本链接：https://shimo.im/docs/LW1nKcpQtfkhzI3g。
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/tlsdh.mp3" length="8508730" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/tlsdh.mp3</guid>
+            <itunes:duration>00:04:25</itunes:duration>
+            <itunes:summary>
+亲爱的听众朋友们，新年好！拜年的话大家已经听了太多，我们换了一种形式，录了一首歌献给大家！
+
+歌词接龙是 SwiftGG 群内历史悠久的灌水活动，大家经常使用歌词来测试默契程度。在最近一次歌词接龙中，突然发生了变异，从接歌词变成了改歌词。于是就诞生了这首《听莲叔的话》。
+
+有了词下一步当然就是唱了，经过一番辛苦的调研和测试，我们【七个人】终于成功的实现了异国异地异步“合唱”这首歌！具体效果如何？大家听听就知道了。
+
+下面是歌词以及演唱者：
+
+《听莲叔的话》
+
+梁杰： 
+// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+小朋友你是否有很多问号
+为什么 别人在那看漫画
+我却在学Java 对着TNT说话
+别人在玩游戏 我却靠在墙壁背我的ObjC
+我说我要一台大大的飞机
+但却得到一台旧旧打字机
+为什么要听莲叔的话
+毕业后你就会开始懂了这段话
+毕业后我开始明白
+为什么我写得比别人快 bug比别人少
+将来大家看的都是我写的动画
+大家买的都是我
+
+珂珂：
+// 网易云音乐：Yacoee（https://music.163.com/#/user/home?id=396603941）
+// 新建的账号，大家可以先关注下，后面珂珂有空会上传一些歌曲
+写的书
+莲叔的辛苦不让你看见
+学习路线图在他心里面
+有空就多去看看他的code
+把手牵着一起review
+
+星星：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+Forelax（昵称“御姐”）：
+// 微博：ForelaxMe（https://weibo.com/u/3889029090）
+在你的未来 编程是你的王牌
+拿王牌创业失败
+唉 我不想把你教坏
+还是听莲叔的话吧 晚点再创业吧
+我知道你未来的路 但叔比我更清楚
+你会开始学其他同学在群里写东写西
+但我建议你最好写莲叔我会加班交付
+加班交付 怎么会从我键盘打出
+不想你C 所以叫你加班交付
+莲叔发给你的建议 你要好好的收着
+因为评审会到时 我要告诉他我还留着
+对了 我会遇到pony马
+所以你可以跟同学炫耀腾讯未来是你爸爸
+我找不到入职写的项目
+你写完不要发布
+因为过两天你会在GitHub上找到
+你会开始喜欢上StackOverflow
+因为老项目开始准备要重写
+
+Sai：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+摸鱼：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+
+梁杰：
+// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+毕业后我开始明白
+为什么我写得比别人快 bug比别人少
+将来大家看的都是我写的动画
+大家买的都是我
+
+珂珂：
+// 网易云音乐：Yacoee（https://music.163.com/#/user/home?id=396603941）
+// 新建的账号，大家可以先关注下，后面珂珂有空会上传一些歌曲
+写的书
+莲叔的辛苦不让你看见
+学习路线图在他心里面
+有空就多去看看他的code
+把手牵着一起review
+
+阿兰：
+听莲叔的话 别让他受伤
+多学点语法 才能投奔他
+掉光了头发 再也不害怕
+赚钱的魔法 咒语是P8
+
+七大天王有八个人不是常识吗？第八位是水水，多闪 ID：young027。这次的快歌并不适合他发挥，所以没有出现在歌曲中，期待他未来的表现。
+
+最后附上歌词的文字版本链接：https://shimo.im/docs/LW1nKcpQtfkhzI3g。
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,莲叔,歌曲</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊游戏：《空洞骑士》为什么好玩</title>
+            <itunes:episode>17</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sat, 9 Feb 2019 08:00:00 CDT</pubDate>
+            <description>
+之前闲聊崔轶提议增加“游戏”话题，刚好我最近沉迷了一段时间《空洞骑士》，就请崔轶过来深入聊聊《空洞骑士》为什么这么好玩。
+
+如果你玩过《空洞骑士》，可以听听我们的故事，看看是否有同感。如果你没玩过，也不用担心，我们会先介绍游戏背景和玩法，希望你也能感受到，为什么我们这么喜爱这个游戏。
+
+第一次做游戏类话题，作为多年的玩家，我俩都有太多话想说，不知不觉就录了 100 分钟。如果你也喜欢游戏，可以听听我们的感想，也非常欢迎你来分享自己的故事和体验！（可以给我发邮件/微博评论/微博私信，也可以报名参与节目）
+
+勘误：《塞尔达：荒野之息》除了 Switch 还发布了 Wii U 版本。销量方面是首月两百万，目前全球销量应该已经超过一千万。（感谢@喵了个咪Yuen 指正）
+
+参考链接：
+• 游戏类型：Metroidvania（https://en.wikipedia.org/wiki/Metroidvania）
+• 《空洞骑士》众筹页面：https://www.kickstarter.com/projects/11662585/hollow-knight
+• AGDQ 2019 速通视频：https://www.youtube.com/watch?v=6wkfvuOS_4g
+• Any% No Major Glitches 速通教程：https://www.speedrun.com/hollowknight/guide/j234z
+• 梁杰的邮箱：lj925184928@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+02:08  本期内容介绍
+03:53  《空洞骑士》游戏介绍（玩过的朋友可以直接跳到下一部分）
+14:15  崔轶的游玩过程
+24:38  梁杰的游玩过程
+46:40  游戏到底好玩在哪
+01:08:00  《最后的生还者》的简单讨论
+01:11:44  对游戏氛围的感受
+01:18:06  《血源》和《黑暗之魂 3》哪个更难
+01:22:05  玩游戏到底要不要看攻略
+01:33:02  说说游戏速通
+01:39:28  Kickstarter 对新游戏的作用
+01:41:26  《空洞骑士》有什么缺点
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/16.mp3" length="103982732" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/16.mp3</guid>
+            <itunes:duration>01:48:18</itunes:duration>
+            <itunes:summary>
+之前闲聊崔轶提议增加“游戏”话题，刚好我最近沉迷了一段时间《空洞骑士》，就请崔轶过来深入聊聊《空洞骑士》为什么这么好玩。
+
+如果你玩过《空洞骑士》，可以听听我们的故事，看看是否有同感。如果你没玩过，也不用担心，我们会先介绍游戏背景和玩法，希望你也能感受到，为什么我们这么喜爱这个游戏。
+
+第一次做游戏类话题，作为多年的玩家，我俩都有太多话想说，不知不觉就录了 100 分钟。如果你也喜欢游戏，可以听听我们的感想，也非常欢迎你来分享自己的故事和体验！（可以给我发邮件/微博评论/微博私信，也可以报名参与节目）
+
+勘误：《塞尔达：荒野之息》除了 Switch 还发布了 Wii U 版本。销量方面是首月两百万，目前全球销量应该已经超过一千万。（感谢@喵了个咪Yuen 指正）
+
+参考链接：
+• 游戏类型：Metroidvania（https://en.wikipedia.org/wiki/Metroidvania）
+• 《空洞骑士》众筹页面：https://www.kickstarter.com/projects/11662585/hollow-knight
+• AGDQ 2019 速通视频：https://www.youtube.com/watch?v=6wkfvuOS_4g
+• Any% No Major Glitches 速通教程：https://www.speedrun.com/hollowknight/guide/j234z
+• 梁杰的邮箱：lj925184928@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+02:08  本期内容介绍
+03:53  《空洞骑士》游戏介绍（玩过的朋友可以直接跳到下一部分）
+14:15  崔轶的游玩过程
+24:38  梁杰的游玩过程
+46:40  游戏到底好玩在哪
+01:08:00  《最后的生还者》的简单讨论
+01:11:44  对游戏氛围的感受
+01:18:06  《血源》和《黑暗之魂 3》哪个更难
+01:22:05  玩游戏到底要不要看攻略
+01:33:02  说说游戏速通
+01:39:28  Kickstarter 对新游戏的作用
+01:41:26  《空洞骑士》有什么缺点
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,空洞骑士,好玩</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊游戏：《空洞骑士》那些你不知道事</title>
+            <itunes:episode>18</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 12 Feb 2019 10:00:00 CDT</pubDate>
+            <description>
+打通《空洞骑士》之后，我对这个独立游戏的开发团队产生了浓厚的兴趣。他们为什么想到开发《空洞骑士》？如何把一个想法变成现实？开发过程中有没有什么有意思的事？为了了解更多信息，我花了几天时间，把他们所有的访谈内容都看了一遍。
+
+在看/听访谈的过程中，我总结了一些我自己感兴趣的信息，比如《空洞骑士》的灵感来源、为什么选择虫子作为游戏角色和敌人、如何平衡游戏难度和乐趣等等。除此之外，我还发现了一个更深层的谜团：“三人团队”为什么永远只有两个人出现？我做了一些相关研究，给大家讲讲我的结论。
+
+好了，录完这期，我对《空洞骑士》的思考和研究也就告一段落了，不知道大家听着感觉如何。好奇心是我的一大乐趣来源，哪怕只是浅尝辄止，也能有很多新鲜的体验，大家也可以多多尝试，如果每天只是工作也太无聊了，是吧。
+
+参考链接：
+• Team Cherry 访谈列表：https://docs.google.com/document/d/1Dt7KfYlKuTEeHBYVTzCMIcbJIJcbZfAWjmbf_IWvGTk/edit
+《Hungry Knight》游戏地址：https://www.newgrounds.com/portal/view/643636
+• 《空洞骑士》Kickstarter 众筹页面：https://www.kickstarter.com/projects/11662585/hollow-knight
+• “三人团队”第三人 Rohan Fraser 的 Twitter：https://twitter.com/blokkan_?lang=en
+• 梁杰的邮箱：lj925184928@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:02  本期内容介绍
+• 04:57  《空洞骑士》是怎么诞生的
+• 14:10  Kickstarter 部分
+• 17:32  游戏风格部分
+• 21:08  游戏机制部分
+• 26:46  如何控制游戏难度
+• 31:08  Team Cherry 的团队之谜
+• 44:18  各种零散知识
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/17.mp3" length="50460549" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/17.mp3</guid>
+            <itunes:duration>00:52:33</itunes:duration>
+            <itunes:summary>
+打通《空洞骑士》之后，我对这个独立游戏的开发团队产生了浓厚的兴趣。他们为什么想到开发《空洞骑士》？如何把一个想法变成现实？开发过程中有没有什么有意思的事？为了了解更多信息，我花了几天时间，把他们所有的访谈内容都看了一遍。
+
+在看/听访谈的过程中，我总结了一些我自己感兴趣的信息，比如《空洞骑士》的灵感来源、为什么选择虫子作为游戏角色和敌人、如何平衡游戏难度和乐趣等等。除此之外，我还发现了一个更深层的谜团：“三人团队”为什么永远只有两个人出现？我做了一些相关研究，给大家讲讲我的结论。
+
+好了，录完这期，我对《空洞骑士》的思考和研究也就告一段落了，不知道大家听着感觉如何。好奇心是我的一大乐趣来源，哪怕只是浅尝辄止，也能有很多新鲜的体验，大家也可以多多尝试，如果每天只是工作也太无聊了，是吧。
+
+参考链接：
+• Team Cherry 访谈列表：https://docs.google.com/document/d/1Dt7KfYlKuTEeHBYVTzCMIcbJIJcbZfAWjmbf_IWvGTk/edit
+《Hungry Knight》游戏地址：https://www.newgrounds.com/portal/view/643636
+• 《空洞骑士》Kickstarter 众筹页面：https://www.kickstarter.com/projects/11662585/hollow-knight
+• “三人团队”第三人 Rohan Fraser 的 Twitter：https://twitter.com/blokkan_?lang=en
+• 梁杰的邮箱：lj925184928@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:02  本期内容介绍
+• 04:57  《空洞骑士》是怎么诞生的
+• 14:10  Kickstarter 部分
+• 17:32  游戏风格部分
+• 21:08  游戏机制部分
+• 26:46  如何控制游戏难度
+• 31:08  Team Cherry 的团队之谜
+• 44:18  各种零散知识
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,空洞骑士,team cherry</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>2019 准备学什么新技术？</title>
+            <itunes:episode>19</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 19 Feb 2019 07:00:00 CDT</pubDate>
+            <description>
+春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。
+
+如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。
+
+此外，节目最后也来了一场“莲叔职业规范小课堂”，今天我们又从莲叔这里学到了新的东西。
+
+参考链接：
+• 蓉老师提到的技术：Fastlane，CocoaPods，Xcodeproj，
+• 莲叔提到的技术：Kaggle，gradient boost，notebook，pandas，rax，ant-design，Dart，Flutter
+• 梁杰提到的技术：React，Redux，web3，以太坊（ethereum）
+• 蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:23  个人介绍
+• 02:06  2018 年学了什么？做了什么项目？
+• 26:25  2019 年准备学什么？
+• 40:12  你对自己所在的领域有什么看法？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/18.mp3" length="53361186" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/18.mp3</guid>
+            <itunes:duration>00:55:34</itunes:duration>
+            <itunes:summary>
+春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。
+
+如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。
+
+此外，节目最后也来了一场“莲叔职业规范小课堂”，今天我们又从莲叔这里学到了新的东西。
+
+参考链接：
+• 蓉老师提到的技术：Fastlane，CocoaPods，Xcodeproj，
+• 莲叔提到的技术：Kaggle，gradient boost，notebook，pandas，rax，ant-design，Dart，Flutter
+• 梁杰提到的技术：React，Redux，web3，以太坊（ethereum）
+• 蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:23  个人介绍
+• 02:06  2018 年学了什么？做了什么项目？
+• 26:25  2019 年准备学什么？
+• 40:12  你对自己所在的领域有什么看法？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,翻译组,2019,新技术</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>辞职环游中国的程序员小 K</title>
+            <itunes:episode>20</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 26 Feb 2019 07:40:00 CDT</pubDate>
+            <description>
+大概每个人都有过这种冲动，辞掉工作出去旅行，想去哪就去哪，再也不用赶需求修 bug 通宵加班。不过对大多数人来说，也就止步于“想想”，并不会付诸行动。但是我身边有一位朋友，真的做到了这件事：辞职一年环游中国！
+
+这期请到了一位和我有“小龙虾之交”的朋友 kittenyang，好好聊聊他这一年到底做了什么，想了什么，收获了什么。
+
+说走就走很难，但是听这期节目很简单。花上 40 分钟，跟着 kittenyang 来一次“云环游”，也是一件有意思的事。
+
+参考链接：
+• 小 K 的 2018 风光摄影总结：https://mp.weixin.qq.com/s/b98Bz-12MxZ3L7jRXSJvnw
+• 小 K 中国行 2018 整年回忆视频：https://www.bilibili.com/video/av38959714/
+• 中间提到的小 K 和“同伙”做的视频节目：不荒此行（https://space.bilibili.com/304271873）
+• 小 K 的微信公众号：kitten_time
+• 小 K 的微博：@KITTEN-YANG（https://www.weibo.com/710312327）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:40  个人介绍
+• 03:07  介绍一下环游中国这件事
+• 05:12  最初为什么想做这件事？
+• 06:23  做出决定之后的心情
+• 08:18  Cosmos 这个项目的现状
+• 10:11  出发之后和你想的一样不一样？
+• 11:30  这一年中心态发生过什么变化？
+• 13:44  回顾这一年有什么感受？
+• 14:06  这一年中学到了什么技能？
+• 15:05  照片和视频的剪辑技巧
+• 18:52  分享一些旅行方面的经验
+• 21:46  最喜欢哪里？
+• 23:17  分享一些印象深刻的事
+• 33:50  之后有什么计划？
+• 35:43  这趟旅程有什么收获
+• 42:50  最后还有什么话想说？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/20.mp3" length="42801029" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/20.mp3</guid>
+            <itunes:duration>00:44:34</itunes:duration>
+            <itunes:summary>
+大概每个人都有过这种冲动，辞掉工作出去旅行，想去哪就去哪，再也不用赶需求修 bug 通宵加班。不过对大多数人来说，也就止步于“想想”，并不会付诸行动。但是我身边有一位朋友，真的做到了这件事：辞职一年环游中国！
+
+这期请到了一位和我有“小龙虾之交”的朋友 kittenyang，好好聊聊他这一年到底做了什么，想了什么，收获了什么。
+
+说走就走很难，但是听这期节目很简单。花上 40 分钟，跟着 kittenyang 来一次“云环游”，也是一件有意思的事。
+
+参考链接：
+• 小 K 的 2018 风光摄影总结：https://mp.weixin.qq.com/s/b98Bz-12MxZ3L7jRXSJvnw
+• 小 K 中国行 2018 整年回忆视频：https://www.bilibili.com/video/av38959714/
+• 中间提到的小 K 和“同伙”做的视频节目：不荒此行（https://space.bilibili.com/304271873）
+• 小 K 的微信公众号：kitten_time
+• 小 K 的微博：@KITTEN-YANG（https://www.weibo.com/710312327）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:40  个人介绍
+• 03:07  介绍一下环游中国这件事
+• 05:12  最初为什么想做这件事？
+• 06:23  做出决定之后的心情
+• 08:18  Cosmos 这个项目的现状
+• 10:11  出发之后和你想的一样不一样？
+• 11:30  这一年中心态发生过什么变化？
+• 13:44  回顾这一年有什么感受？
+• 14:06  这一年中学到了什么技能？
+• 15:05  照片和视频的剪辑技巧
+• 18:52  分享一些旅行方面的经验
+• 21:46  最喜欢哪里？
+• 23:17  分享一些印象深刻的事
+• 33:50  之后有什么计划？
+• 35:43  这趟旅程有什么收获
+• 42:50  最后还有什么话想说？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,辞职,环游中国</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>如何（连续两次）获得 WWDC Scholarship</title>
+            <itunes:episode>21</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 5 Mar 2019 07:30:00 CDT</pubDate>
+            <description>
+WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。
+
+这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。
+
+如果你还是学生，并且对 Swift 感兴趣，可以按照朱同学的建议来尝试申请；
+如果你已经工作，也别错过这期，看看“苹果春晚” WWDC 都有什么；
+如果你参加过 WWDC，那更要仔细听一听，看看苹果给获奖者提供了什么特别活动，也可以了解到更多 WWDC 相关信息，帮助你更好地参与活动。
+
+总之，听就对了！
+
+参考链接：
+• WWDC Scholarship 申请要求：https://developer.apple.com/wwdc/scholarships/
+• Swift Playground 介绍：https://www.apple.com/cn/swift/playgrounds/
+• 朱同学第一次申请时写的项目：https://github.com/ApolloZhu/Swifty-Karel/
+• 喵神写的《写给初次参加 WWDC 的开发者的简明攻略》：https://onevcat.com/2016/04/first-wwdc/
+• WWDC 的 Consulation 预约：https://developer.apple.com/wwdc/consultations/
+• Craig Federighi：https://www.apple.com/leadership/craig-federighi/
+• 朱同学的 WWDC Scholarship 介绍文章：https://apollozhu.github.io/2018/03/16/wwdc18-scholarships-info-cn/
+• 朱同学第二次申请时写的项目：https://github.com/ApolloZhu/Pong-Hau-K-i/
+• 宋奎熹：https://www.weibo.com/krayc4/
+• WWDC 官方特殊活动查询：https://developer.apple.com/wwdc/special-events/
+• WWDC 周边活动查询：https://developer.apple.com/wwdc/more/
+• 朱同学写的 Mac App 自动深色模式：https://github.com/ApolloZhu/Dynamic-Dark-Mode/
+• WWDC Scholarship 2017 项目列表：https://github.com/wwdc/2017/
+• WWDC Scholarship 2018 项目列表：https://github.com/wwdc/2018/
+• Swift Playground 文档：https://developer.apple.com/documentation/swift_playgrounds/
+• Swift Playground Markup 文档：https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/
+• Swift Playground CustomPlaygroundDisplayConvertible 文档：https://developer.apple.com/documentation/swift/customplaygrounddisplayconvertible
+• 朱同学博客关于 WWDC 的文章：https://apollozhu.github.io/tags/WWDC/
+• 朱同学的微博：@ApolloZhiyu（https://www.weibo.com/u/2607042732）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:38  个人介绍
+• 04:27  第一次申请以及 WWDC 参会经历
+• 33:06  第二次申请的过程
+• 39:57  今年还申请吗？
+• 42:37  获奖对学习和生活有没有什么影响？
+• 45:01  苹果到底看重的是什么
+• 47:18  如果其他同学也想申请，有什么建议？
+• 48:20  未来有什么规划？
+• 49:42  最后有什么话想说？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/21.mp3" length="48819641" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/21.mp3</guid>
+            <itunes:duration>00:50:50</itunes:duration>
+            <itunes:summary>
+WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。
+
+这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。
+
+如果你还是学生，并且对 Swift 感兴趣，可以按照朱同学的建议来尝试申请；
+如果你已经工作，也别错过这期，看看“苹果春晚” WWDC 都有什么；
+如果你参加过 WWDC，那更要仔细听一听，看看苹果给获奖者提供了什么特别活动，也可以了解到更多 WWDC 相关信息，帮助你更好地参与活动。
+
+总之，听就对了！
+
+参考链接：
+• WWDC Scholarship 申请要求：https://developer.apple.com/wwdc/scholarships/
+• Swift Playground 介绍：https://www.apple.com/cn/swift/playgrounds/
+• 朱同学第一次申请时写的项目：https://github.com/ApolloZhu/Swifty-Karel/
+• 喵神写的《写给初次参加 WWDC 的开发者的简明攻略》：https://onevcat.com/2016/04/first-wwdc/
+• WWDC 的 Consulation 预约：https://developer.apple.com/wwdc/consultations/
+• Craig Federighi：https://www.apple.com/leadership/craig-federighi/
+• 朱同学的 WWDC Scholarship 介绍文章：https://apollozhu.github.io/2018/03/16/wwdc18-scholarships-info-cn/
+• 朱同学第二次申请时写的项目：https://github.com/ApolloZhu/Pong-Hau-K-i/
+• 宋奎熹：https://www.weibo.com/krayc4/
+• WWDC 官方特殊活动查询：https://developer.apple.com/wwdc/special-events/
+• WWDC 周边活动查询：https://developer.apple.com/wwdc/more/
+• 朱同学写的 Mac App 自动深色模式：https://github.com/ApolloZhu/Dynamic-Dark-Mode/
+• WWDC Scholarship 2017 项目列表：https://github.com/wwdc/2017/
+• WWDC Scholarship 2018 项目列表：https://github.com/wwdc/2018/
+• Swift Playground 文档：https://developer.apple.com/documentation/swift_playgrounds/
+• Swift Playground Markup 文档：https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/
+• Swift Playground CustomPlaygroundDisplayConvertible 文档：https://developer.apple.com/documentation/swift/customplaygrounddisplayconvertible
+• 朱同学博客关于 WWDC 的文章：https://apollozhu.github.io/tags/WWDC/
+• 朱同学的微博：@ApolloZhiyu（https://www.weibo.com/u/2607042732）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:38  个人介绍
+• 04:27  第一次申请以及 WWDC 参会经历
+• 33:06  第二次申请的过程
+• 39:57  今年还申请吗？
+• 42:37  获奖对学习和生活有没有什么影响？
+• 45:01  苹果到底看重的是什么
+• 47:18  如果其他同学也想申请，有什么建议？
+• 48:20  未来有什么规划？
+• 49:42  最后有什么话想说？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,wwdc,scholarship</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊跨平台：后起之秀 Flutter</title>
+            <itunes:episode>22</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 12 Mar 2019 07:30:00 CDT</pubDate>
+            <description>
+最近 Flutter 是如日中天，无论是不是做移动端开发，大家应该都对 Flutter 有所耳闻。这次我们请到了美团的宇杰（御姐）同学，一起聊聊 Flutter 的过去、现在和将来。
+
+这次的内容不会太深入技术细节，重点是介绍 Flutter 本身，让大家对 Flutter 能有一个宏观的了解。它的发展过程是什么？有什么亮点？使用体验如何？现在有什么缺点？未来会如何改进？听完这期节目，相信你会找到答案。
+
+其实跨平台这个系列去年就在计划了，不过技术话题需要准备的内容比较多，也要请到合适的开发者来分享，所以更新速度会慢一些。大家如果有相关的问题可以微博发给我，我会放到后续节目中。
+
+勘误：梁杰说的“Dart 是 JS 的一种方言”是错误的，Dart 是一门独立的语言，只不过支持编译成 JS。（感谢臧老师指正）
+
+参考链接：
+• Flutter Live 官方视频 Part 1：https://www.youtube.com/watch?v=kpcjBD1XDwU
+• Flutter Live 官方视频 Part 2：https://www.youtube.com/watch?v=6hmgkimeaEE
+• Flutter Live 官方视频 Part 3：https://www.youtube.com/watch?v=OAEWySye0BQ
+• Flutter Roadmap：https://github.com/flutter/flutter/wiki/Roadmap roadmap
+• Visual Studio Code 编辑器：https://code.visualstudio.com/
+• 我们之前翻译的 LSP 文章：《Language Server Protocol》（https://swift.gg/2019/01/15/nshipster-language-server-protocol/）
+• icepy 的博客：https://icepy.me/#/
+• 御姐的微博：@ForelaxMe（https://www.weibo.com/u/3889029090）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+
+时间线：
+• 01:17  个人介绍
+• 03:04  Flutter 介绍（诞生、发展过程）
+• 06:33  Flutter 的宣传亮点以及国内外的关注趋势
+• 13:24  Flutter 的现状（普及情况、和其他跨平台方案对比）
+• 25:05  介绍和讨论 Flutter 2019 Roadmap
+• 41:00  介绍美团的 Flutter 实践过程
+• 54:56  为什么 Flutter 这么火？
+• 01:01:49  为什么我们一直没有一个满意的跨平台方案？
+• 01:05:58  我们是不是真的需要跨平台？
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/22.mp3" length="65820549" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/22.mp3</guid>
+            <itunes:duration>01:08:34</itunes:duration>
+            <itunes:summary>
+最近 Flutter 是如日中天，无论是不是做移动端开发，大家应该都对 Flutter 有所耳闻。这次我们请到了美团的宇杰（御姐）同学，一起聊聊 Flutter 的过去、现在和将来。
+
+这次的内容不会太深入技术细节，重点是介绍 Flutter 本身，让大家对 Flutter 能有一个宏观的了解。它的发展过程是什么？有什么亮点？使用体验如何？现在有什么缺点？未来会如何改进？听完这期节目，相信你会找到答案。
+
+其实跨平台这个系列去年就在计划了，不过技术话题需要准备的内容比较多，也要请到合适的开发者来分享，所以更新速度会慢一些。大家如果有相关的问题可以微博发给我，我会放到后续节目中。
+
+勘误：梁杰说的“Dart 是 JS 的一种方言”是错误的，Dart 是一门独立的语言，只不过支持编译成 JS。（感谢臧老师指正）
+
+参考链接：
+• Flutter Live 官方视频 Part 1：https://www.youtube.com/watch?v=kpcjBD1XDwU
+• Flutter Live 官方视频 Part 2：https://www.youtube.com/watch?v=6hmgkimeaEE
+• Flutter Live 官方视频 Part 3：https://www.youtube.com/watch?v=OAEWySye0BQ
+• Flutter Roadmap：https://github.com/flutter/flutter/wiki/Roadmap roadmap
+• Visual Studio Code 编辑器：https://code.visualstudio.com/
+• 我们之前翻译的 LSP 文章：《Language Server Protocol》（https://swift.gg/2019/01/15/nshipster-language-server-protocol/）
+• icepy 的博客：https://icepy.me/#/
+• 御姐的微博：@ForelaxMe（https://www.weibo.com/u/3889029090）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+
+时间线：
+• 01:17  个人介绍
+• 03:04  Flutter 介绍（诞生、发展过程）
+• 06:33  Flutter 的宣传亮点以及国内外的关注趋势
+• 13:24  Flutter 的现状（普及情况、和其他跨平台方案对比）
+• 25:05  介绍和讨论 Flutter 2019 Roadmap
+• 41:00  介绍美团的 Flutter 实践过程
+• 54:56  为什么 Flutter 这么火？
+• 01:01:49  为什么我们一直没有一个满意的跨平台方案？
+• 01:05:58  我们是不是真的需要跨平台？
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,跨平台,Flutter</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>区块链到底能干嘛？</title>
+            <itunes:episode>23</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 19 Mar 2019 07:20:00 CDT</pubDate>
+            <description>
+区块链这个话题已经被无数人聊了无数次，但是说句实话，我依然不知道区块链到底能干嘛。最近刚好有机会，请到了赏味不足做客 ggtalk，让他给我上一课，看看能否解答我的各种疑惑。
+
+本期是目前为止时间最长的一期，录完之后感觉非常尽兴，每个问题都聊了很多有意思的内容。非常感谢赏哥。
+
+这里一定要说一下，如果你时间有限，千万千万不要错过时间线中标记【强烈推荐】的两部分，这两部分解决了我最大的问题：区块链到底能干嘛。赏哥给出的答案真正说服了我，我觉得你也应该听一听。
+
+提醒：本期节目只是梁杰和赏哥关于区块链以及数字货币的个人想法，不构成任何投资建议。不同的人有不同的理解，欢迎大家理性讨论，切勿盲目接受。“相信”之前先“质疑”。
+
+勘误：梁杰说的“HTTP 定义的支付协议”并不准确，实际上 HTTP 定义的是一个支付相关的状态码：402 Payment Required。
+
+参考链接：
+• J.P.Morgan 发布的数字货币：https://www.jpmorgan.com/global/news/digital-coin-payments
+• Facebook 数字货币相关新闻一：https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html
+• Facebook 数字货币相关新闻二：https://www.cnbc.com/2019/03/13/facebook-wants-to-copy-wechat-pay-with-facebook-coin-payments.html
+• 梁杰提到的，HTTP 定义的支付状态码：402 Payment Required（https://www.wired.com/story/shouldnt-we-all-have-seamless-micropayments-by-now/）
+• 赏哥的微博：@赏味不足（https://www.weibo.com/534598827）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:58  个人介绍
+• 03:34  区块链到底是什么
+• 12:51  发币和募资到底是否合法
+• 21:45  如果平台不支持兑换法币，只支持账号转账，私下买卖是否会追究平台责任
+• 24:35  目前是否有人真的因为做区块链违法被抓（同时讨论代投）
+• 33:58  国内区块链发展的过去、现在和未来
+• 56:23  各大公司为什么会选择自己搭建区块链
+• 01:09:19  公司搭建私有区块链，到底有什么意义？【强烈推荐】
+• 01:17:38  区块链到底能干嘛【强烈推荐】
+• 01:43:26  赏哥目前在做什么
+• 01:52:52  这期节目到底值多少钱
+• 01:57:12  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/23.mp3" length="113612512" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/23.mp3</guid>
+            <itunes:duration>01:58:20</itunes:duration>
+            <itunes:summary>
+区块链这个话题已经被无数人聊了无数次，但是说句实话，我依然不知道区块链到底能干嘛。最近刚好有机会，请到了赏味不足做客 ggtalk，让他给我上一课，看看能否解答我的各种疑惑。
+
+本期是目前为止时间最长的一期，录完之后感觉非常尽兴，每个问题都聊了很多有意思的内容。非常感谢赏哥。
+
+这里一定要说一下，如果你时间有限，千万千万不要错过时间线中标记【强烈推荐】的两部分，这两部分解决了我最大的问题：区块链到底能干嘛。赏哥给出的答案真正说服了我，我觉得你也应该听一听。
+
+提醒：本期节目只是梁杰和赏哥关于区块链以及数字货币的个人想法，不构成任何投资建议。不同的人有不同的理解，欢迎大家理性讨论，切勿盲目接受。“相信”之前先“质疑”。
+
+勘误：梁杰说的“HTTP 定义的支付协议”并不准确，实际上 HTTP 定义的是一个支付相关的状态码：402 Payment Required。
+
+参考链接：
+• J.P.Morgan 发布的数字货币：https://www.jpmorgan.com/global/news/digital-coin-payments
+• Facebook 数字货币相关新闻一：https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html
+• Facebook 数字货币相关新闻二：https://www.cnbc.com/2019/03/13/facebook-wants-to-copy-wechat-pay-with-facebook-coin-payments.html
+• 梁杰提到的，HTTP 定义的支付状态码：402 Payment Required（https://www.wired.com/story/shouldnt-we-all-have-seamless-micropayments-by-now/）
+• 赏哥的微博：@赏味不足（https://www.weibo.com/534598827）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:58  个人介绍
+• 03:34  区块链到底是什么
+• 12:51  发币和募资到底是否合法
+• 21:45  如果平台不支持兑换法币，只支持账号转账，私下买卖是否会追究平台责任
+• 24:35  目前是否有人真的因为做区块链违法被抓（同时讨论代投）
+• 33:58  国内区块链发展的过去、现在和未来
+• 56:23  各大公司为什么会选择自己搭建区块链
+• 01:09:19  公司搭建私有区块链，到底有什么意义？【强烈推荐】
+• 01:17:38  区块链到底能干嘛【强烈推荐】
+• 01:43:26  赏哥目前在做什么
+• 01:52:52  这期节目到底值多少钱
+• 01:57:12  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,区块链</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>如何出版一本书</title>
+            <itunes:episode>24</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 26 Mar 2019 07:20:00 CDT</pubDate>
+            <description>
+“读书”，或者说“买书”，应该是所有中国人的默认爱好。无论是学习还是娱乐，书都有它不可替代的特点。你有没有想过，一本书到底是如何出版的？如果想要成为作者或者译者，需要怎么做？这次我请到了一位在出版社工作 7 年的编辑朋友英姐，还有曾经出版和翻译过书的星星，一起聊聊出书的事。
+
+在这期节目中，英姐会介绍出版和翻译的标准流程，星星和我会聊聊我们自己出版和翻译书的经历。节目的后半段，我们三个人也尝试去讨论一些和书相关的话题，比如国内的出版现状、电子书、碎片化阅读等等。这些问题都很大，我们也只是各抒己见抛砖引玉，希望给大家带来一些不同的思考。
+
+最后，如果听众朋友们对翻译和写书感兴趣，可以联系下我，说不定我能帮助到你。
+
+说明：
+节目里梁杰提到的 O'Reilly DRM-free（无版权限制），目前已经没有了。具体来说，O'Reilly 关闭了自己的在线书店，和 Safari Books Online 的服务整合到了一起。
+新平台不提供电子版下载，只能成为会员在线查看。由于所有内容都是在线阅读，不能下载，因此也就不再涉及所谓的电子书版权问题。这也间接导致 O'Reilly 的 DRM-free 成为历史，真是遗憾。
+
+参考链接：
+• 梁杰提到的，内容组织形式非常棒的《Programming iOS 12》：http://shop.oreilly.com/product/0636920208662.do
+• 梁杰参与翻译的《你不知道的 JS》对应的英文原版：https://github.com/getify/You-Dont-Know-JS
+• 星星出版的《Xcode 江湖录》：https://item.jd.com/11804127.html
+• 《啊哈！算法》：https://item.jd.com/11477302.html
+• TED 创始人写的《演讲的力量》：https://item.jd.com/11978638.html
+• 三大计算机神书：SICP、CSAPP、TAOCP
+• TAOCP 的中文版：《计算机程序设计艺术》：https://item.jd.com/12139096.html#crumb-wrap
+• Safari Books Online 目前已经升级成了新版，变成了一个综合学习平台：https://learning.oreilly.com/accounts/login/
+• 虾神的《Try! Swift Day 1 感想》：https://mp.weixin.qq.com/s/SG2BKpYu7jAHN8RVlt9c_w
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:03  个人介绍
+• 04:40  出版社的出版流程和翻译流程
+• 07:57  每个环节大致需要的时间
+• 12:08  如何计算图书稿酬
+• 14:54  如果一本书没有卖完，剩下的书如何处理
+• 17:38  如何统计内容字数
+• 22:16  图书的收入
+• 31:05  星星的翻译和出版经历
+• 50:00  梁杰的翻译经历
+• 01:00:08  怎么看目前国内的出版现状
+• 01:23:47  电子书对出版来说是好事还是坏事
+• 01:32:27  怎么看所谓的“碎片化阅读”
+• 01:38:31  为什么翻译的书普遍质量不高
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/24.mp3" length="102389889" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/24.mp3</guid>
+            <itunes:duration>01:46:39</itunes:duration>
+            <itunes:summary>
+“读书”，或者说“买书”，应该是所有中国人的默认爱好。无论是学习还是娱乐，书都有它不可替代的特点。你有没有想过，一本书到底是如何出版的？如果想要成为作者或者译者，需要怎么做？这次我请到了一位在出版社工作 7 年的编辑朋友英姐，还有曾经出版和翻译过书的星星，一起聊聊出书的事。
+
+在这期节目中，英姐会介绍出版和翻译的标准流程，星星和我会聊聊我们自己出版和翻译书的经历。节目的后半段，我们三个人也尝试去讨论一些和书相关的话题，比如国内的出版现状、电子书、碎片化阅读等等。这些问题都很大，我们也只是各抒己见抛砖引玉，希望给大家带来一些不同的思考。
+
+最后，如果听众朋友们对翻译和写书感兴趣，可以联系下我，说不定我能帮助到你。
+
+说明：
+节目里梁杰提到的 O'Reilly DRM-free（无版权限制），目前已经没有了。具体来说，O'Reilly 关闭了自己的在线书店，和 Safari Books Online 的服务整合到了一起。
+新平台不提供电子版下载，只能成为会员在线查看。由于所有内容都是在线阅读，不能下载，因此也就不再涉及所谓的电子书版权问题。这也间接导致 O'Reilly 的 DRM-free 成为历史，真是遗憾。
+
+参考链接：
+• 梁杰提到的，内容组织形式非常棒的《Programming iOS 12》：http://shop.oreilly.com/product/0636920208662.do
+• 梁杰参与翻译的《你不知道的 JS》对应的英文原版：https://github.com/getify/You-Dont-Know-JS
+• 星星出版的《Xcode 江湖录》：https://item.jd.com/11804127.html
+• 《啊哈！算法》：https://item.jd.com/11477302.html
+• TED 创始人写的《演讲的力量》：https://item.jd.com/11978638.html
+• 三大计算机神书：SICP、CSAPP、TAOCP
+• TAOCP 的中文版：《计算机程序设计艺术》：https://item.jd.com/12139096.html#crumb-wrap
+• Safari Books Online 目前已经升级成了新版，变成了一个综合学习平台：https://learning.oreilly.com/accounts/login/
+• 虾神的《Try! Swift Day 1 感想》：https://mp.weixin.qq.com/s/SG2BKpYu7jAHN8RVlt9c_w
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:03  个人介绍
+• 04:40  出版社的出版流程和翻译流程
+• 07:57  每个环节大致需要的时间
+• 12:08  如何计算图书稿酬
+• 14:54  如果一本书没有卖完，剩下的书如何处理
+• 17:38  如何统计内容字数
+• 22:16  图书的收入
+• 31:05  星星的翻译和出版经历
+• 50:00  梁杰的翻译经历
+• 01:00:08  怎么看目前国内的出版现状
+• 01:23:47  电子书对出版来说是好事还是坏事
+• 01:32:27  怎么看所谓的“碎片化阅读”
+• 01:38:31  为什么翻译的书普遍质量不高
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,出版书,翻译书</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>“家里蹲”到底什么感觉</title>
+            <itunes:episode>25</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 2 Apr 2019 08:20:00 CDT</pubDate>
+            <description>
+不上班是很多人的梦想，无论是传说中的“财富自由”，还是更实际的“远程工作”和“自由职业”，程序员们对自由的渴望永远不会消退，哪怕只是部分自由。
+
+这一次我们请到了两位正在“家里蹲”的程序员朋友：小鱼和冬菇桑。一起聊聊他们为什么进入这种状态、如何赚钱、遇到了哪些问题，以及最重要的，在家到底爽不爽。
+
+最后还是要提醒各位听众，尤其是学生朋友，做决定之前一定要仔细考虑，不要盲目辞职！
+
+参考链接：
+• 《重来》：https://item.jd.com/12368811.html
+• 《重来 2》：https://item.jd.com/12488578.html
+• 一早一晚社区：https://yizaoyiwan.com/
+• freelancer：https://www.freelancer.com/
+• 之前的区块链节目：《区块链到底能干嘛？》（https://talk.swift.gg/22）
+• 小鱼的微信：croath
+• 冬菇桑的微信：TinyGintama
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:42  个人介绍
+• 02:50  讲讲自己的“家里蹲”经历
+• 06:35  为什么这种状态持续到现在
+• 12:28  “家里蹲”如何解决收入问题
+• 35:38  聊聊远程工作
+• 44:11  为什么国内的远程工作不被认可
+• 53:16  在家爽不爽
+• 01:00:59  远程工作存在的问题
+• 01:08:18  这种状态会不会一直持续下去
+• 01:14:46  想法靠不靠谱，可能取决于看问题的角度
+• 01:18:23  最后还有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/25.mp3" length="80633859" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/25.mp3</guid>
+            <itunes:duration>01:23:59</itunes:duration>
+            <itunes:summary>
+不上班是很多人的梦想，无论是传说中的“财富自由”，还是更实际的“远程工作”和“自由职业”，程序员们对自由的渴望永远不会消退，哪怕只是部分自由。
+
+这一次我们请到了两位正在“家里蹲”的程序员朋友：小鱼和冬菇桑。一起聊聊他们为什么进入这种状态、如何赚钱、遇到了哪些问题，以及最重要的，在家到底爽不爽。
+
+最后还是要提醒各位听众，尤其是学生朋友，做决定之前一定要仔细考虑，不要盲目辞职！
+
+参考链接：
+• 《重来》：https://item.jd.com/12368811.html
+• 《重来 2》：https://item.jd.com/12488578.html
+• 一早一晚社区：https://yizaoyiwan.com/
+• freelancer：https://www.freelancer.com/
+• 之前的区块链节目：《区块链到底能干嘛？》（https://talk.swift.gg/22）
+• 小鱼的微信：croath
+• 冬菇桑的微信：TinyGintama
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:42  个人介绍
+• 02:50  讲讲自己的“家里蹲”经历
+• 06:35  为什么这种状态持续到现在
+• 12:28  “家里蹲”如何解决收入问题
+• 35:38  聊聊远程工作
+• 44:11  为什么国内的远程工作不被认可
+• 53:16  在家爽不爽
+• 01:00:59  远程工作存在的问题
+• 01:08:18  这种状态会不会一直持续下去
+• 01:14:46  想法靠不靠谱，可能取决于看问题的角度
+• 01:18:23  最后还有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,家里蹲</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>三组织揭秘：知识小集 x iOS 周报 x SwiftGG</title>
+            <itunes:episode>26</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 9 Apr 2019 07:20:00 CDT</pubDate>
+            <description>
+这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。
+
+前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。
+
+借这个机会，感谢南大和卓同学，感谢我们三个组织的所有参与者，也感谢我们的所有读者和听众。组织总有尽头，但这段经历一定会成为我们的美好回忆。
+
+参考链接：
+• iOS 周报的 GitHub Repo：https://github.com/SwiftOldDriver/iOS-Weekly
+• 梁杰提到的 Swift 节目：《聊聊 Swift 这四年（上）》（https://talk.swift.gg/5）
+• 卓同学提到的老司机小专栏：https://xiaozhuanlan.com/olddriver-selection
+• SwiftGG 翻译组的一个 PR，展示文章校对和修改过程：https://github.com/SwiftGGTeam/translation/pull/187
+• 阿兰实验室开发的 WI 输入法：https://itunes.apple.com/cn/app/wi%E8%BE%93%E5%85%A5%E6%B3%95/id936600925
+• 南大的微信：coldlight_hh
+• 南大的微博：@南峰子_老驴（https://weibo.com/touristdiary）
+• iOS 周报的微博：@iOS周报（https://www.weibo.com/u/6062089411）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:57  个人介绍
+• 02:50  iOS 周报团队介绍
+• 09:48  知识小集团队介绍
+• 28:00  SwiftGG 团队介绍
+• 42:32  这类组织到底创造了什么价值？组织者、参与者、读者/听众到底收获了什么？
+• 59:26  说说发生在组织中印象深刻的事
+• 01:14:09  如何维持组织的活力？
+• 01:20:58  对于组织“收入”或者说“赚钱”的看法
+• 01:29:48  对于想成为组织者的人，有什么建议
+• 01:32:58  节目最后有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/26.mp3" length="92736286" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/26.mp3</guid>
+            <itunes:duration>01:36:35</itunes:duration>
+            <itunes:summary>
+这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。
+
+前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。
+
+借这个机会，感谢南大和卓同学，感谢我们三个组织的所有参与者，也感谢我们的所有读者和听众。组织总有尽头，但这段经历一定会成为我们的美好回忆。
+
+参考链接：
+• iOS 周报的 GitHub Repo：https://github.com/SwiftOldDriver/iOS-Weekly
+• 梁杰提到的 Swift 节目：《聊聊 Swift 这四年（上）》（https://talk.swift.gg/5）
+• 卓同学提到的老司机小专栏：https://xiaozhuanlan.com/olddriver-selection
+• SwiftGG 翻译组的一个 PR，展示文章校对和修改过程：https://github.com/SwiftGGTeam/translation/pull/187
+• 阿兰实验室开发的 WI 输入法：https://itunes.apple.com/cn/app/wi%E8%BE%93%E5%85%A5%E6%B3%95/id936600925
+• 南大的微信：coldlight_hh
+• 南大的微博：@南峰子_老驴（https://weibo.com/touristdiary）
+• iOS 周报的微博：@iOS周报（https://www.weibo.com/u/6062089411）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:57  个人介绍
+• 02:50  iOS 周报团队介绍
+• 09:48  知识小集团队介绍
+• 28:00  SwiftGG 团队介绍
+• 42:32  这类组织到底创造了什么价值？组织者、参与者、读者/听众到底收获了什么？
+• 59:26  说说发生在组织中印象深刻的事
+• 01:14:09  如何维持组织的活力？
+• 01:20:58  对于组织“收入”或者说“赚钱”的看法
+• 01:29:48  对于想成为组织者的人，有什么建议
+• 01:32:58  节目最后有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,知识小集,iOS周报</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>向架构进发</title>
+            <itunes:episode>27</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 16 Apr 2019 07:00:00 CDT</pubDate>
+            <description>
+对于程序员来说，“架构师”一向是一个非常神秘的职位。大家都知道架构师很厉害，但是架构师到底在做什么？架构师和技术专家有什么区别？如何成为架构师？这期就请 Casa Taloyum 来详细聊聊这些问题。
+
+iOS 开发者应该或多或少对 Casa 有一些了解，尤其是他之前写过的一系列 iOS 应用架构文章。除了技术能力，Casa 还有一个特点，就是非常犀利。在这期节目中也是如此，不扯那些没用的套话，直接分享自己多年以来的思考和经验。
+
+前半部分主要围绕架构讨论，后半部分我们聊了几个单独的问题，比如跨平台和区块链，可以结合之前的节目，对比来听听几位嘉宾的不同看法，希望能给大家带来一些思考。
+
+参考链接：
+• CTMediator：https://github.com/casatwy/CTMediator
+• Casa 写的《iOS 应用架构谈》：https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html
+• Linux 0.12 源码解析：《Linux内核完全剖析》（https://item.jd.com/10058764.html）
+• 我们的 Flutter 节目：《聊聊跨平台：后起之秀 Flutter》（https://talk.swift.gg/21）
+• 我们的区块链节目：《区块链到底能干嘛？》（https://talk.swift.gg/22）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:52  个人介绍
+• 02:12  做架构到底是在做什么
+• 25:46  架构师和工程价值观
+• 50:04  架构师和高级工程师的区别
+• 01:11:31  怎么定义真正的问题
+• 01:15:30  如何看待新技术和旧技术
+• 01:20:57  保持敏锐和保持童心
+• 01:26:44  尽量写出“地图式”的代码
+• 01:35:25  对跨平台的看法
+• 01:46:34  对区块链的看法
+• 02:14:43  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/27.mp3" length="131802096" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/27.mp3</guid>
+            <itunes:duration>02:17:17</itunes:duration>
+            <itunes:summary>
+对于程序员来说，“架构师”一向是一个非常神秘的职位。大家都知道架构师很厉害，但是架构师到底在做什么？架构师和技术专家有什么区别？如何成为架构师？这期就请 Casa Taloyum 来详细聊聊这些问题。
+
+iOS 开发者应该或多或少对 Casa 有一些了解，尤其是他之前写过的一系列 iOS 应用架构文章。除了技术能力，Casa 还有一个特点，就是非常犀利。在这期节目中也是如此，不扯那些没用的套话，直接分享自己多年以来的思考和经验。
+
+前半部分主要围绕架构讨论，后半部分我们聊了几个单独的问题，比如跨平台和区块链，可以结合之前的节目，对比来听听几位嘉宾的不同看法，希望能给大家带来一些思考。
+
+参考链接：
+• CTMediator：https://github.com/casatwy/CTMediator
+• Casa 写的《iOS 应用架构谈》：https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html
+• Linux 0.12 源码解析：《Linux内核完全剖析》（https://item.jd.com/10058764.html）
+• 我们的 Flutter 节目：《聊聊跨平台：后起之秀 Flutter》（https://talk.swift.gg/21）
+• 我们的区块链节目：《区块链到底能干嘛？》（https://talk.swift.gg/22）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:52  个人介绍
+• 02:12  做架构到底是在做什么
+• 25:46  架构师和工程价值观
+• 50:04  架构师和高级工程师的区别
+• 01:11:31  怎么定义真正的问题
+• 01:15:30  如何看待新技术和旧技术
+• 01:20:57  保持敏锐和保持童心
+• 01:26:44  尽量写出“地图式”的代码
+• 01:35:25  对跨平台的看法
+• 01:46:34  对区块链的看法
+• 02:14:43  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,架构师</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊我们的编程启蒙经历</title>
+            <itunes:episode>28</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 23 Apr 2019 07:10:00 CDT</pubDate>
+            <description>
+70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。
+
+80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。
+
+90 后的梁杰，初中时期因为一个偶然的机会（为什么这句话这么眼熟）得到一本《黑客手册》。经过最初的一段迷茫时期，最终找到了入门的正确方式，也通过编程赚到了自己的第一勺金，培养起对编程的兴趣。
+
+这期讲了三个“非典型”程序员的故事，希望大家听得开心。如果你也想聊聊自己的编程启蒙经历，可以发给我：lj925184928@gmail.com，微博@梁杰_numbbbbb。
+
+参考链接：
+• 李亮老师提到的机器、技术等关键字：Macintosh II，Basic，四个现代化，Fortran，Control Data Corporation（CDC 计算机公司），GW-Basic，KILL 杀毒软件，CCDOS，天汇，UCDOS，巨人汉卡，WPS，CCED，dBase，FoxBASE（FoxPro），Solaris，HP-UX
+• （莲叔）大学之后才收到的奖状：https://talkcdn.swift.gg/static/images/28/1-min.jpg，莲叔原话：“这里面还有个趣事，就是申请表是手填的，但我写字太烂了，我写的明明是 ImageStreet……结果奖状两个单词都没拼对”
+• （梁杰）计算机启蒙的那本《黑客手册》：https://talkcdn.swift.gg/static/images/28/2-min.jpg
+• （梁杰）大学入学之前买的各种书：https://talkcdn.swift.gg/static/images/28/4-min.jpg
+• （梁杰）家里保留的软盘：https://talkcdn.swift.gg/static/images/28/9-min.jpg
+• （梁杰）入门时期保留到现在的一些书：https://talkcdn.swift.gg/static/images/28/5-min.jpg，https://talkcdn.swift.gg/static/images/28/6-min.jpg，https://talkcdn.swift.gg/static/images/28/7-min.jpg，https://talkcdn.swift.gg/static/images/28/8-min.jpg
+• （梁杰）一个彩蛋，当年同学送我的侠盗秘籍：https://talkcdn.swift.gg/static/images/28/3-min.jpg
+• 李亮老师的微博：@hollylee8102（https://weibo.com/u/6735733356）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:43  个人介绍
+• 07:35  李亮老师的编程启蒙经历
+• 33:21  莲叔的编程启蒙经历
+• 01:01:15  梁杰的编程启蒙经历
+• 01:26:38  聊聊所谓的“中年危机”
+• 01:42:05  “追赶技术潮流”以及“正确的功利”
+• 01:55:04  小孩应该如何入门编程
+• 02:06:37  最后还有什么话要说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/28.mp3" length="122576901" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/28.mp3</guid>
+            <itunes:duration>02:07:40</itunes:duration>
+            <itunes:summary>
+70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。
+
+80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。
+
+90 后的梁杰，初中时期因为一个偶然的机会（为什么这句话这么眼熟）得到一本《黑客手册》。经过最初的一段迷茫时期，最终找到了入门的正确方式，也通过编程赚到了自己的第一勺金，培养起对编程的兴趣。
+
+这期讲了三个“非典型”程序员的故事，希望大家听得开心。如果你也想聊聊自己的编程启蒙经历，可以发给我：lj925184928@gmail.com，微博@梁杰_numbbbbb。
+
+参考链接：
+• 李亮老师提到的机器、技术等关键字：Macintosh II，Basic，四个现代化，Fortran，Control Data Corporation（CDC 计算机公司），GW-Basic，KILL 杀毒软件，CCDOS，天汇，UCDOS，巨人汉卡，WPS，CCED，dBase，FoxBASE（FoxPro），Solaris，HP-UX
+• （莲叔）大学之后才收到的奖状：https://talkcdn.swift.gg/static/images/28/1-min.jpg，莲叔原话：“这里面还有个趣事，就是申请表是手填的，但我写字太烂了，我写的明明是 ImageStreet……结果奖状两个单词都没拼对”
+• （梁杰）计算机启蒙的那本《黑客手册》：https://talkcdn.swift.gg/static/images/28/2-min.jpg
+• （梁杰）大学入学之前买的各种书：https://talkcdn.swift.gg/static/images/28/4-min.jpg
+• （梁杰）家里保留的软盘：https://talkcdn.swift.gg/static/images/28/9-min.jpg
+• （梁杰）入门时期保留到现在的一些书：https://talkcdn.swift.gg/static/images/28/5-min.jpg，https://talkcdn.swift.gg/static/images/28/6-min.jpg，https://talkcdn.swift.gg/static/images/28/7-min.jpg，https://talkcdn.swift.gg/static/images/28/8-min.jpg
+• （梁杰）一个彩蛋，当年同学送我的侠盗秘籍：https://talkcdn.swift.gg/static/images/28/3-min.jpg
+• 李亮老师的微博：@hollylee8102（https://weibo.com/u/6735733356）
+• 莲叔的微博：@aaaron7_（https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:43  个人介绍
+• 07:35  李亮老师的编程启蒙经历
+• 33:21  莲叔的编程启蒙经历
+• 01:01:15  梁杰的编程启蒙经历
+• 01:26:38  聊聊所谓的“中年危机”
+• 01:42:05  “追赶技术潮流”以及“正确的功利”
+• 01:55:04  小孩应该如何入门编程
+• 02:06:37  最后还有什么话要说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,老程序员,编程启蒙</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>在法国生活是什么体验</title>
+            <itunes:episode>29</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 30 Apr 2019 07:10:00 CDT</pubDate>
+            <description>
+我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。
+
+这期请到了我的老同学老朋友栾俊清，聊聊他这接近两年的法国生活。之所以第一期就录法国，其实也没什么特别的原因，主要是因为栾俊清马上要回国了，再不录就来不及了……
+
+最后还是要强调一下，每个人的生活都不一样，我们也无意去“代表”任何群体。我们想做的就是给你讲个故事，尽量把它讲好。
+
+参考链接：
+• 开头提到的第三方播客客户端：Pocket Casts，Overcast，Castro
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 02:13  个人介绍
+• 07:59  去法国的原因
+• 12:28  怎么适应法国生活
+• 15:28  用一个词来形容法国
+• 19:19  法国的天气怎么样
+• 23:03  法国人民的穿衣习惯
+• 28:32  对“奢侈品”的感受
+• 32:29  在法国每天吃什么
+• 36:07  法餐和用餐礼仪
+• 47:34  居住环境
+• 01:03:28  就业情况
+• 01:06:54  经常看到法国的各种新闻，有没有影响到正常生活？
+• 01:12:56  简单聊聊去法国的各种方式
+• 01:23:23  如果有机会还想不想回法国生活
+• 01:26:56  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/29.mp3" length="84628295" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/29.mp3</guid>
+            <itunes:duration>01:28:09</itunes:duration>
+            <itunes:summary>
+我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。
+
+这期请到了我的老同学老朋友栾俊清，聊聊他这接近两年的法国生活。之所以第一期就录法国，其实也没什么特别的原因，主要是因为栾俊清马上要回国了，再不录就来不及了……
+
+最后还是要强调一下，每个人的生活都不一样，我们也无意去“代表”任何群体。我们想做的就是给你讲个故事，尽量把它讲好。
+
+参考链接：
+• 开头提到的第三方播客客户端：Pocket Casts，Overcast，Castro
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 02:13  个人介绍
+• 07:59  去法国的原因
+• 12:28  怎么适应法国生活
+• 15:28  用一个词来形容法国
+• 19:19  法国的天气怎么样
+• 23:03  法国人民的穿衣习惯
+• 28:30  对“奢侈品”的感受
+• 32:27  在法国每天吃什么
+• 36:05  法餐和用餐礼仪
+• 47:32  居住环境
+• 01:03:26  就业情况
+• 01:06:52  经常看到法国的各种新闻，有没有影响到正常生活？
+• 01:12:54  简单聊聊去法国的各种方式
+• 01:23:21  如果有机会还想不想回法国生活
+• 01:26:54  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,法国生活</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊软件本地化</title>
+            <itunes:episode>30</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 7 May 2019 07:40:00 CDT</pubDate>
+            <description>
+这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。
+
+一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。
+
+GILT 四个层次具体指什么？软件本地化具体是什么流程？目前存在哪些难点？作为开发者可以做什么准备？听完这期，相信大家和我一样，会对本地化有更深入的了解。
+
+虽然标题很严肃，但是 ggtalk 最核心的“有趣”绝对不能少。行业内关于手势和产品名的趣事，IBM 被销毁的几万份光盘，九十年代本地化行业有多赚钱，暴雪游戏的翻译难题。希望大家听得开心。
+
+参考链接：
+• 翻译协作平台：Transifex，Smartling，Crowdin
+• 赵哥的公司：博芬（http://www.boffin.com/）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:40  个人介绍
+• 06:07  本地化到底是什么
+• 25:58  本地化行业的过去和现在
+• 40:56  本地化的具体流程和用到的工具
+• 52:55  对机器翻译的看法
+• 01:06:32  本地化行业目前存在的问题和难点
+• 01:14:56  如何在开发过程中为本地化做好准备
+• 01:23:02  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/30.mp3" length="81323074" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/30.mp3</guid>
+            <itunes:duration>01:24:42</itunes:duration>
+            <itunes:summary>
+这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。
+
+一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。
+
+GILT 四个层次具体指什么？软件本地化具体是什么流程？目前存在哪些难点？作为开发者可以做什么准备？听完这期，相信大家和我一样，会对本地化有更深入的了解。
+
+虽然标题很严肃，但是 ggtalk 最核心的“有趣”绝对不能少。行业内关于手势和产品名的趣事，IBM 被销毁的几万份光盘，九十年代本地化行业有多赚钱，暴雪游戏的翻译难题。希望大家听得开心。
+
+参考链接：
+• 翻译协作平台：Transifex，Smartling，Crowdin
+• 赵哥的公司：博芬（http://www.boffin.com/）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:40  个人介绍
+• 06:07  本地化到底是什么
+• 25:58  本地化行业的过去和现在
+• 40:56  本地化的具体流程和用到的工具
+• 52:55  对机器翻译的看法
+• 01:06:32  本地化行业目前存在的问题和难点
+• 01:14:56  如何在开发过程中为本地化做好准备
+• 01:23:02  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,软件本地化</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊跨平台：Weex 尚能饭否？</title>
+            <itunes:episode>31</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Mon, 13 May 2019 18:20:00 CDT</pubDate>
+            <description>
+跨平台系列的第二期，请莲叔来聊聊 Weex。
+
+从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。
+
+莲叔所在的团队深度使用了 Weex，经过摸索和优化之后已经可以稳定支持日常业务。有踩坑，有收获，有思考，听完莲叔的经历，相信你也会对 Weex 有更多了解。
+
+最后还是按照惯例提前解释：录制本期的两个人，只是移动端菜鸟（我）和 Weex 使用者（莲叔）。如果有说得不对的地方，希望大家可以给我反馈，理性讨论。当然，如果你是 Weex 团队的开发者，也非常欢迎联系我，从开发团队的角度来聊聊 Weex。
+
+参考链接：
+• 提到的框架：Weex，Rax，Vue
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:33  个人介绍
+• 02:00  Weex 介绍及历史
+• 09:43  Weex 现状如何
+• 25:43  Weex 是否还有未来
+• 29:10  莲叔团队使用 Weex 的经历
+• 38:20  Weex 到底出了什么问题
+• 44:50  如何推广一个开源框架
+• 50:20  Weex 的一个典型问题
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/31.mp3" length="53408833" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/31.mp3</guid>
+            <itunes:duration>00:55:37</itunes:duration>
+            <itunes:summary>
+跨平台系列的第二期，请莲叔来聊聊 Weex。
+
+从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。
+
+莲叔所在的团队深度使用了 Weex，经过摸索和优化之后已经可以稳定支持日常业务。有踩坑，有收获，有思考，听完莲叔的经历，相信你也会对 Weex 有更多了解。
+
+最后还是按照惯例提前解释：录制本期的两个人，只是移动端菜鸟（我）和 Weex 使用者（莲叔）。如果有说得不对的地方，希望大家可以给我反馈，理性讨论。当然，如果你是 Weex 团队的开发者，也非常欢迎联系我，从开发团队的角度来聊聊 Weex。
+
+参考链接：
+• 提到的框架：Weex，Rax，Vue
+• 莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:33  个人介绍
+• 02:00  Weex 介绍及历史
+• 09:43  Weex 现状如何
+• 25:43  Weex 是否还有未来
+• 29:10  莲叔团队使用 Weex 的经历
+• 38:20  Weex 到底出了什么问题
+• 44:50  如何推广一个开源框架
+• 50:20  Weex 的一个典型问题
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,weex</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>日式美学小记</title>
+            <itunes:episode>32</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 21 May 2019 16:20:00 CDT</pubDate>
+            <description>
+美学到底是什么？学习和研究美学到底有什么用？对于这类抽象的概念，我们总是觉得看不懂。其实美学并没有大家想的那么艰深晦涩，了解和学会感知“美”，能应用到生活中的很多领域。
+
+这期我们请到了小路。除了设计师的工作，她也对日本文化很感兴趣，读过不少书，有一些自己的理解和思考。
+
+请放心，本期内容并不需要你有相关知识背景，也不会说很多专业术语和概念。我们从“什么是美学”这个问题开始聊，列举一些美学在不同领域的应用，最后简单聊聊如何去感知美。
+
+如果大家喜欢听这类内容，可以给我反馈，之后我会再邀请小路来聊聊其他话题，我们也能看看代码之外的世界是什么样。
+
+勘误：小路原话「啊！！！刚才看《季语集》的时候发现青蛙是春天的季语，我错了！！！我去反省下…………」。
+
+参考链接：
+• 小路提到的内容：丹下健三、藤本壮介、石上纯也、⾼滨虚子、カトキハジメ、「花は桜⽊、⼈は武士」
+• 涉及到的书籍：『世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アー ト」と「サイエンス」』、『原初的な未来の建築』、『⾃由な建築』、『俳句への道』、『春宵⼗話』
+• 小路的微博：@武者小小路 （https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:46  个人介绍
+• 03:46  什么是美学
+• 05:16  为什么我们需要美学
+• 08:58  美学与建筑设计
+• 32:34  美学与俳句
+• 39:11  美学与机甲
+• 48:42  美学与人生观
+• 55:42  如何感知美
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/32.mp3" length="59519396" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/32.mp3</guid>
+            <itunes:duration>01:01:59</itunes:duration>
+            <itunes:summary>
+美学到底是什么？学习和研究美学到底有什么用？对于这类抽象的概念，我们总是觉得看不懂。其实美学并没有大家想的那么艰深晦涩，了解和学会感知“美”，能应用到生活中的很多领域。
+
+这期我们请到了小路。除了设计师的工作，她也对日本文化很感兴趣，读过不少书，有一些自己的理解和思考。
+
+请放心，本期内容并不需要你有相关知识背景，也不会说很多专业术语和概念。我们从“什么是美学”这个问题开始聊，列举一些美学在不同领域的应用，最后简单聊聊如何去感知美。
+
+如果大家喜欢听这类内容，可以给我反馈，之后我会再邀请小路来聊聊其他话题，我们也能看看代码之外的世界是什么样。
+
+勘误：小路原话「啊！！！刚才看《季语集》的时候发现青蛙是春天的季语，我错了！！！我去反省下…………」。
+
+参考链接：
+• 小路提到的内容：丹下健三、藤本壮介、石上纯也、⾼滨虚子、カトキハジメ、「花は桜⽊、⼈は武士」
+• 涉及到的书籍：『世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アー ト」と「サイエンス」』、『原初的な未来の建築』、『⾃由な建築』、『俳句への道』、『春宵⼗話』
+• 小路的微博：@武者小小路 （https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:46  个人介绍
+• 03:46  什么是美学
+• 05:16  为什么我们需要美学
+• 08:58  美学与建筑设计
+• 32:34  美学与俳句
+• 39:11  美学与机甲
+• 48:42  美学与人生观
+• 55:42  如何感知美
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,日式美学</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>某 C 的微信入职经验分享</title>
+            <itunes:episode>33</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 28 May 2019 05:30:00 CDT</pubDate>
+            <description>
+听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。
+
+可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。
+
+我觉得某 C 非常符合 ggtalk 的定位。在第一期我就说过，不想请那些 CEO、CTO，也不想请那些天赋异禀实力超群的天才。我想请的就是和你我一样的普通人，聊聊他们做的那些有意思、有意义的事，让大家看到，只要想提升，你永远可以做得更好。
+
+参考链接：
+• 之前的节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）
+• 欧盟的 GDPR：https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+• BNC 的博客：https://bignerdcoding.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:43  个人介绍 + 上集回顾 + 闲聊
+• 04:28  历史最长免责声明（不愧是微信员工）
+• 08:42  在微信工作感觉如何
+• 10:40  讲讲面试过程
+• 15:04  简历有什么亮点？如何打动面试官？
+• 19:15  当时有没有面试其他公司 + 讨论是否要刷算法题
+• 27:14  回顾一下毕业这几年，讲讲自己的成长过程
+• 43:52  现在还有哪些不足之处 + 未来的职业规划
+• 46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组
+• 58:51  最后还有什么话要说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/33.mp3" length="58972706" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/33.mp3</guid>
+            <itunes:duration>01:01:26</itunes:duration>
+            <itunes:summary>
+听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。
+
+可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。
+
+我觉得某 C 非常符合 ggtalk 的定位。在第一期我就说过，不想请那些 CEO、CTO，也不想请那些天赋异禀实力超群的天才。我想请的就是和你我一样的普通人，聊聊他们做的那些有意思、有意义的事，让大家看到，只要想提升，你永远可以做得更好。
+
+参考链接：
+• 之前的节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）
+• 欧盟的 GDPR：https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+• BNC 的博客：https://bignerdcoding.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:43  个人介绍 + 上集回顾 + 闲聊
+• 04:28  历史最长免责声明（不愧是微信员工）
+• 08:42  在微信工作感觉如何
+• 10:40  讲讲面试过程
+• 15:04  简历有什么亮点？如何打动面试官？
+• 19:15  当时有没有面试其他公司 + 讨论是否要刷算法题
+• 27:14  回顾一下毕业这几年，讲讲自己的成长过程
+• 43:52  现在还有哪些不足之处 + 未来的职业规划
+• 46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组
+• 58:51  最后还有什么话要说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,微信入职,面试经验</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>游戏开发中的概念设计</title>
+            <itunes:episode>34</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 4 Jun 2019 08:10:00 CDT</pubDate>
+            <description>
+上次录完《日式美学小记》之后，小路邀请到了一位做游戏设计和开发的朋友品，这次就请他来聊一聊概念设计和游戏开发。
+
+不怕大家笑话，我是一个写字（←因为这个被老师从小学骂到大学）和画画（←学到素描就彻底放弃）都特别差的人，一直以来都特别羡慕会画画的人。看了下品在微博发的图，感觉到了深深的羡慕和嫉妒，同样是手，我只会 Ctrl+C Ctrl+V，人家怎么就能画出来那么酷的图。
+
+扯远了，当然这期录制过程中我们已经多次扯远了，不过这都不叫事儿。
+
+这期还是从介绍开始，讲讲到底什么是概念设计，概念设计在游戏开发流程中处在什么环节，以及品总结的优秀概念设计应该具备的点。最后还列举了一些优秀设计师和作品，并聊了聊在设计行业中概念设计的现状。
+
+还是那句话，大家放心听，都是入门级知识，品老师和小路助教讲得非常好。
+
+参考链接：
+• 品提到的设计师和游戏作品：https://github.com/numbbbbb/ggtalk-rss/tree/master/34/%E5%93%81%E6%8F%90%E5%88%B0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%92%8C%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81
+• 品自己做的游戏 Demo：https://github.com/numbbbbb/ggtalk-rss/blob/master/34/Signal_ReMaster.zip（演示视频：https://weibo.com/6971413764/Hher68P4w）
+• 品的微博：@咸鱼MrPIN1（https://weibo.com/u/5859226849）
+• 小路的微博：@武者小小路（https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:48  个人介绍
+• 01:52  这期的由来 + 各种闲聊
+• 09:39  什么是概念设计
+• 18:01  概念设计在游戏开发过程中的体现
+• 31:31  好的概念设计应该具备哪些特点 + 列举一些喜欢的设计师/作品
+• 01:09:00  在设计行业中，概念设计的现状如何
+• 01:11:00  3D 对行业的影响
+• 01:19:00  最后还有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/34.mp3" length="78500595" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/34.mp3</guid>
+            <itunes:duration>01:21:46</itunes:duration>
+            <itunes:summary>
+上次录完《日式美学小记》之后，小路邀请到了一位做游戏设计和开发的朋友品，这次就请他来聊一聊概念设计和游戏开发。
+
+不怕大家笑话，我是一个写字（←因为这个被老师从小学骂到大学）和画画（←学到素描就彻底放弃）都特别差的人，一直以来都特别羡慕会画画的人。看了下品在微博发的图，感觉到了深深的羡慕和嫉妒，同样是手，我只会 Ctrl+C Ctrl+V，人家怎么就能画出来那么酷的图。
+
+扯远了，当然这期录制过程中我们已经多次扯远了，不过这都不叫事儿。
+
+这期还是从介绍开始，讲讲到底什么是概念设计，概念设计在游戏开发流程中处在什么环节，以及品总结的优秀概念设计应该具备的点。最后还列举了一些优秀设计师和作品，并聊了聊在设计行业中概念设计的现状。
+
+还是那句话，大家放心听，都是入门级知识，品老师和小路助教讲得非常好。
+
+参考链接：
+• 品提到的设计师和游戏作品：https://github.com/numbbbbb/ggtalk-rss/tree/master/34/%E5%93%81%E6%8F%90%E5%88%B0%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%92%8C%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81
+• 品自己做的游戏 Demo：https://github.com/numbbbbb/ggtalk-rss/blob/master/34/Signal_ReMaster.zip（演示视频：https://weibo.com/6971413764/Hher68P4w）
+• 品的微博：@咸鱼MrPIN1（https://weibo.com/u/5859226849）
+• 小路的微博：@武者小小路（https://weibo.com/u/2473199681）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:48  个人介绍
+• 01:52  这期的由来 + 各种闲聊
+• 09:39  什么是概念设计
+• 18:01  概念设计在游戏开发过程中的体现
+• 31:31  好的概念设计应该具备哪些特点 + 列举一些喜欢的设计师/作品
+• 01:09:00  在设计行业中，概念设计的现状如何
+• 01:11:00  3D 对行业的影响
+• 01:19:00  最后还有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,概念设计</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>如何用三个月转行深度学习</title>
+            <itunes:episode>35</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 11 Jun 2019 08:10:00 CDT</pubDate>
+            <description>
+首先，这期不是广告！也没有广告！相信我，我比你更反感广告，尤其是翻到结尾突然看到宣传图 + 二维码……（我不是针对谁）
+
+关注我微博的朋友应该有印象，前段时间转发过泽宇（@轻墨shellhue）的一条微博。说的是他有一个同事，用三个月时间成功转行深度学习，还找到了不错的工作。之后泽宇帮忙邀请到了这位同事，这也就是我们本期的录制阵容：嘉俊、泽宇、我。
+
+在这期节目中，嘉俊和泽宇从产生想法到最终入职，详细介绍了他们的转行过程。接着我们讨论了目前深度学习领域的所谓“转行窗口期”，尝试分析了一下产生“窗口期”的原因和可能的持续时间。最后，转行成功只是一个开始，随着深度学习整个行业的继续发展，还会对从业者提出更高的要求。
+
+就像节目里说的那样，做决定之前谨慎小心，认真考虑；做决定之后坚定不移，坚持到底。希望大家都能实现自己的目标！
+
+参考链接：
+• 吴恩达的机器学习课程：https://www.coursera.org/learn/machine-learning
+• 李宏毅的所有教学视频：https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
+• 李飞飞的课程视频：https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+• “西瓜书”《机器学习》（https://item.jd.com/11867803.html）
+• 《统计学习方法》（https://item.jd.com/12522197.html）
+• fast.ai（https://www.fast.ai/）
+• 泽宇提到的详细介绍原理的博客：《零基础入门深度学习》（https://www.zybuluo.com/hanbingtao/note/433855）
+• 泽宇提到的在线比赛平台：Kaggle（https://www.kaggle.com/）
+• 泽宇维护的公众号，专注AI前沿论文阅读：小纸屑
+• 泽宇的微博：@轻墨shellhue（https://www.weibo.com/shellhue）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:34  自我介绍
+• 03:20  嘉俊的三个月转行经历（原因 + 准备过程 + 面试过程 + 工作体验）
+• 14:45  泽宇的转行经历（原因）
+• 22:41  想转行深度学习，到底需不需要学好数学
+• 25:09  泽宇的转行经历（准备过程 + 面试过程 + 工作体验）
+• 33:13  为什么嘉俊的转行可以成功
+• 35:44  深度学习的“转行窗口期”能持续多久
+• 48:08  如果有朋友也想转行，会给他们什么建议
+• 01:03:04  最后还有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/35.mp3" length="65130917" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/35.mp3</guid>
+            <itunes:duration>01:07:50</itunes:duration>
+            <itunes:summary>
+首先，这期不是广告！也没有广告！相信我，我比你更反感广告，尤其是翻到结尾突然看到宣传图 + 二维码……（我不是针对谁）
+
+关注我微博的朋友应该有印象，前段时间转发过泽宇（@轻墨shellhue）的一条微博。说的是他有一个同事，用三个月时间成功转行深度学习，还找到了不错的工作。之后泽宇帮忙邀请到了这位同事，这也就是我们本期的录制阵容：嘉俊、泽宇、我。
+
+在这期节目中，嘉俊和泽宇从产生想法到最终入职，详细介绍了他们的转行过程。接着我们讨论了目前深度学习领域的所谓“转行窗口期”，尝试分析了一下产生“窗口期”的原因和可能的持续时间。最后，转行成功只是一个开始，随着深度学习整个行业的继续发展，还会对从业者提出更高的要求。
+
+就像节目里说的那样，做决定之前谨慎小心，认真考虑；做决定之后坚定不移，坚持到底。希望大家都能实现自己的目标！
+
+参考链接：
+• 吴恩达的机器学习课程：https://www.coursera.org/learn/machine-learning
+• 李宏毅的所有教学视频：https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
+• 李飞飞的课程视频：https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+• “西瓜书”《机器学习》（https://item.jd.com/11867803.html）
+• 《统计学习方法》（https://item.jd.com/12522197.html）
+• fast.ai（https://www.fast.ai/）
+• 泽宇提到的详细介绍原理的博客：《零基础入门深度学习》（https://www.zybuluo.com/hanbingtao/note/433855）
+• 泽宇提到的在线比赛平台：Kaggle（https://www.kaggle.com/）
+• 泽宇维护的公众号，专注AI前沿论文阅读：小纸屑
+• 泽宇的微博：@轻墨shellhue（https://www.weibo.com/shellhue）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:34  自我介绍
+• 03:20  嘉俊的三个月转行经历（原因 + 准备过程 + 面试过程 + 工作体验）
+• 14:45  泽宇的转行经历（原因）
+• 22:41  想转行深度学习，到底需不需要学好数学
+• 25:09  泽宇的转行经历（准备过程 + 面试过程 + 工作体验）
+• 33:13  为什么嘉俊的转行可以成功
+• 35:44  深度学习的“转行窗口期”能持续多久
+• 48:08  如果有朋友也想转行，会给他们什么建议
+• 01:03:04  最后还有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,转行,深度学习</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>在日本生活是什么体验</title>
             <itunes:episode>36</itunes:episode>
             <link>https://talk.swift.gg</link>
-            <pubDate>Thu, 27 Jun 2019 20:14:00 CDT</pubDate>
+            <pubDate>Tue, 25 Jun 2019 08:15:00 CDT</pubDate>
             <description>
 我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。
 
 日本可能是我们“最熟悉的陌生国”。日料、动漫、流行文化，随便找个年轻人都能说出来几样。但是真正的日本生活到底是什么样？日本的 IT 行业现状如何？这些大概只有真正在日本工作生活的人才能回答。
 
 这次请到的是利炳根，利哥。其实很早就认识了利哥，不过一直没有深入交流。最近得知利哥去了日本工作，各种体验还很新鲜，刚好请来分享一下。如果大家也在考虑去日本工作，可以来听听利哥的体验和感受。
-
-利哥的两条勘误：
-1. 水费组成有基本料金、从量料金、水费税，还分水道、下水道。我不太清楚我的基本料金是多少。朋友家的水道基本料金是 2340 日元，下水道是 1120，加起来 3460。从量料金，23 方水，水道是 604，下水道是 770，平均每方水 60 日元左右，加上消费税 77 左右，相当于 5 人民币一度水。
-2. 高度人才年收 300 万日元以上可以申请。800 万是 40 岁以上的加分门槛。600-700 万，40 岁以上无加分。500 万，35 岁以上无加分。400 万，30 岁以上无加分。日语 N2 或 BJT 480 分以上，有加分。年收千万以上，N1 过了，两项加起来就有 55 分，再整个 15 分就可以达到高度人才的分数门槛了。
 
 参考链接：
 • 利哥提到的节目：Cool Japan，食彩之国，行家本色，人生规划U-29，跟你去你家可以吗
@@ -48,10 +2675,6 @@
 
 这次请到的是利炳根，利哥。其实很早就认识了利哥，不过一直没有深入交流。最近得知利哥去了日本工作，各种体验还很新鲜，刚好请来分享一下。如果大家也在考虑去日本工作，可以来听听利哥的体验和感受。
 
-利哥的两条勘误：
-1. 水费组成有基本料金、从量料金、水费税，还分水道、下水道。我不太清楚我的基本料金是多少。朋友家的水道基本料金是 2340 日元，下水道是 1120，加起来 3460。从量料金，23 方水，水道是 604，下水道是 770，平均每方水 60 日元左右，加上消费税 77 左右，相当于 5 人民币一度水。
-2. 高度人才年收 300 万日元以上可以申请。800 万是 40 岁以上的加分门槛。600-700 万，40 岁以上无加分。500 万，35 岁以上无加分。400 万，30 岁以上无加分。日语 N2 或 BJT 480 分以上，有加分。年收千万以上，N1 过了，两项加起来就有 55 分，再整个 15 分就可以达到高度人才的分数门槛了。
-
 参考链接：
 • 利哥提到的节目：Cool Japan，食彩之国，行家本色，人生规划U-29，跟你去你家可以吗
 • 利炳根的日本记录1：https://t.zsxq.com/RRFUNb6
@@ -79,3 +2702,5 @@
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,日本,日本生活</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
+    </channel>
+</rss>
