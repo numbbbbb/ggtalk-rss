@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Jun 2019 08:15:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2019 08:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -2700,6 +2700,72 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,日本,日本生活</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊高考报志愿和我们的大学生活</title>
+            <itunes:episode>37</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 23 Jul 2019 08:50:00 CDT</pubDate>
+            <description>
+这期由思琦、磊子和梁杰录制。其实月初就录好了，由于我最近事情比较多，现在才剪好发出来。
+
+高考报志愿，以及快乐暑假之后的大学生活，应该是大部分人印象深刻的两件事。最近各个社交媒体上也都是相关讨论，有人说一定要学计算机，有人说一定别学计算机。当然这也是社交媒体的常态，基于个例得出结论，有冲突很正常。
+
+同理，我们也不会给出什么大道理。不过作为 IT 行业的从业者，倒是能给大家讲讲我们的经历和故事。如果你刚经历高考，或者周围有人即将进入大学，可以听听这期节目，说不定会有收获。
+
+参考链接：
+• ggtalk 听众交流群：https://talkcdn.swift.gg/static/images/37/qrcode.jpeg（如果无法加入，请添加我的微信：lj925184928，注明 ggtalk）
+• 磊子提到的跳槽节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）
+• 磊子提到的跳槽节目 2：广义跳槽论：简洁明了的方法论 C（https://talk.swift.gg/13）
+• 磊子的博客：https://wuzequn.com/
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+勘误：
+• 梁杰说的分数线是错的，正确的是磊子说的，2011 内蒙古理科一本 482，二本 409。
+
+时间线：
+• 00:28  终于建了读者交流群！
+• 01:40  个人介绍
+• 03:48  报志愿的故事：选专业 + 选学校
+• 18:02  现在学计算机还是不是一个好的选择
+• 33:02  聊聊我们的大学生活
+• 56:40  社团/学生会到底要不要参加
+• 01:07:40  回顾大学阶段，有哪些满意的事，有哪些没做好的事
+• 01:32:02  最后有什么话要说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/37.mp3" length="91737781" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/37.mp3</guid>
+            <itunes:duration>01:35:25</itunes:duration>
+            <itunes:summary>
+这期由思琦、磊子和梁杰录制。其实月初就录好了，由于我最近事情比较多，现在才剪好发出来。
+
+高考报志愿，以及快乐暑假之后的大学生活，应该是大部分人印象深刻的两件事。最近各个社交媒体上也都是相关讨论，有人说一定要学计算机，有人说一定别学计算机。当然这也是社交媒体的常态，基于个例得出结论，有冲突很正常。
+
+同理，我们也不会给出什么大道理。不过作为 IT 行业的从业者，倒是能给大家讲讲我们的经历和故事。如果你刚经历高考，或者周围有人即将进入大学，可以听听这期节目，说不定会有收获。
+
+参考链接：
+• ggtalk 听众交流群：https://talkcdn.swift.gg/static/images/37/qrcode.jpeg（如果无法加入，请添加我的微信：lj925184928，注明 ggtalk）
+• 磊子提到的跳槽节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）
+• 磊子提到的跳槽节目 2：广义跳槽论：简洁明了的方法论 C（https://talk.swift.gg/13）
+• 磊子的博客：https://wuzequn.com/
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+勘误：
+• 梁杰说的分数线是错的，正确的是磊子说的，2011 内蒙古理科一本 482，二本 409。
+
+时间线：
+• 00:28  终于建了读者交流群！
+• 01:40  个人介绍
+• 03:48  报志愿的故事：选专业 + 选学校
+• 18:02  现在学计算机还是不是一个好的选择
+• 33:02  聊聊我们的大学生活
+• 56:40  社团/学生会到底要不要参加
+• 01:07:40  回顾大学阶段，有哪些满意的事，有哪些没做好的事
+• 01:32:02  最后有什么话要说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,高考,报志愿,大学生活</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
