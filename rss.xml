@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 6 Aug 2019 07:30:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2019 07:15:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -2894,6 +2894,96 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,加拿大生活</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>UU 加速器和 macOS 开发</title>
+            <itunes:episode>40</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 13 Aug 2019 07:15:00 CDT</pubDate>
+            <description>
+真不是广告。
+
+这期请到了 UU 加速器 macOS 客户端唯一指定开发，翻译组内尊称羊神的 Sunnyyoung。听他讲讲加速器开发背后的故事，顺便聊聊目前 macOS 开发的现状。
+
+衷心祝愿羊神身体健康，心情愉快。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 羊神提到的术语：Network Extension，Network Kernel Extension，TUN/TAP
+• 下面是羊神推荐的几个开源项目
+    • https://github.com/ambrop72/badvpn
+    • https://github.com/OpenVPN/openvpn
+    • https://github.com/Tunnelblick/Tunnelblick
+    • https://github.com/zhuhaow/tun2socks
+• 下面是羊神推荐的书和文章
+    • （进阶）https://savannah.nongnu.org/projects/lwip
+    • 《Unix 网络编程》：https://book.douban.com/subject/1500149
+    • 《图解 HTTP》：https://book.douban.com/subject/25863515
+    • 《图解 TCP/IP》：https://book.douban.com/subject/24737674
+    • 《车小胖谈网络》（很通俗易懂的网络入门）：https://zhuanlan.zhihu.com/chexiaopang
+    • Apple Documentation（先查文档后查 Google）：https://developer.apple.com/documentation
+• 羊神主页：https://www.sunnyyoung.net
+• 羊神 GitHub：https://github.com/Sunnyyoung
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:53  自我介绍
+• 06:33  之前的两段创业经历
+• 18:56  加速器到底是什么
+• 25:36  电脑游戏和主机游戏加速方面有什么区别
+• 28:17  网络开发方面，iOS 和 macOS 有什么区别
+• 31:28  如何入门和学习网络相关开发
+• 35:43  开发加速器和普通应用有什么区别
+• 49:44  macOS 开发的难点和前景
+• 54:56  为什么要学习 macOS 开发
+• 59:04  聊聊兴趣爱好
+• 01:04:43  会不会有职业病？玩游戏时候还在想技术层面的事
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/40.mp3" length="64655279" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/40.mp3</guid>
+            <itunes:duration>01:07:21</itunes:duration>
+            <itunes:summary>
+真不是广告。
+
+这期请到了 UU 加速器 macOS 客户端唯一指定开发，翻译组内尊称羊神的 Sunnyyoung。听他讲讲加速器开发背后的故事，顺便聊聊目前 macOS 开发的现状。
+
+衷心祝愿羊神身体健康，心情愉快。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 羊神提到的术语：Network Extension，Network Kernel Extension，TUN/TAP
+• 下面是羊神推荐的几个开源项目
+    • https://github.com/ambrop72/badvpn
+    • https://github.com/OpenVPN/openvpn
+    • https://github.com/Tunnelblick/Tunnelblick
+    • https://github.com/zhuhaow/tun2socks
+• 下面是羊神推荐的书和文章
+    • （进阶）https://savannah.nongnu.org/projects/lwip
+    • 《Unix 网络编程》：https://book.douban.com/subject/1500149
+    • 《图解 HTTP》：https://book.douban.com/subject/25863515
+    • 《图解 TCP/IP》：https://book.douban.com/subject/24737674
+    • 《车小胖谈网络》（很通俗易懂的网络入门）：https://zhuanlan.zhihu.com/chexiaopang
+    • Apple Documentation（先查文档后查 Google）：https://developer.apple.com/documentation
+• 羊神主页：https://www.sunnyyoung.net
+• 羊神 GitHub：https://github.com/Sunnyyoung
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:53  自我介绍
+• 06:33  之前的两段创业经历
+• 18:56  加速器到底是什么
+• 25:36  电脑游戏和主机游戏加速方面有什么区别
+• 28:17  网络开发方面，iOS 和 macOS 有什么区别
+• 31:28  如何入门和学习网络相关开发
+• 35:43  开发加速器和普通应用有什么区别
+• 49:44  macOS 开发的难点和前景
+• 54:56  为什么要学习 macOS 开发
+• 59:04  聊聊兴趣爱好
+• 01:04:43  会不会有职业病？玩游戏时候还在想技术层面的事
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,UU 加速器,macOS 开发</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
