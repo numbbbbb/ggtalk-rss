@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 13 Aug 2019 07:15:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2019 07:55:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -2984,6 +2984,72 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,UU 加速器,macOS 开发</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊新西兰的工作和生活</title>
+            <itunes:episode>41</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 20 Aug 2019 07:55:00 CDT</pubDate>
+            <description>
+继续外国生活系列。
+
+新西兰也算是技术移民的热门国家，哪怕这几年要求提高，仍然有很大的吸引力。这期请到了交流群里的听众朋友 Ben，在新西兰工作多年，详细聊聊出国、学习和工作。
+
+最后有招聘信息，想去新西兰和 Ben 做同事的朋友可以联系他，主要招聘职位是 iOS 和安卓。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• Ben 的 wx：ben87nz
+• Ben 的 LinkedIn：https://www.linkedin.com/in/bennz/
+• Ben 女朋友的 wx：qq512646022，可以咨询留学问题和代购
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:05  自我介绍 + 开场闲聊
+• 05:20  最初为什么想出国
+• 11:48  准备出国的过程 + 英语考试讨论
+• 24:07  留学对应的时间节点
+• 28:22  到新西兰的第一印象 + 原住民 + “种族歧视”
+• 46:29  新西兰读书和国内读书的区别
+• 50:33  现在的工作 + 找工作难度 + IT 行业的现状 + 薪资
+• 01:01:31  新西兰的技术移民
+• 01:17:06  聊聊新西兰的生活
+• 01:35:19  有人想出国，有人想回国，你怎么看
+• 01:42:40  最后还有什么话想说（分享了一件有趣的事）
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/41.mp3" length="103768737" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/41.mp3</guid>
+            <itunes:duration>01:48:05</itunes:duration>
+            <itunes:summary>
+继续外国生活系列。
+
+新西兰也算是技术移民的热门国家，哪怕这几年要求提高，仍然有很大的吸引力。这期请到了交流群里的听众朋友 Ben，在新西兰工作多年，详细聊聊出国、学习和工作。
+
+最后有招聘信息，想去新西兰和 Ben 做同事的朋友可以联系他，主要招聘职位是 iOS 和安卓。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• Ben 的 wx：ben87nz
+• Ben 的 LinkedIn：https://www.linkedin.com/in/bennz/
+• Ben 女朋友的 wx：qq512646022，可以咨询留学问题和代购
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:05  自我介绍 + 开场闲聊
+• 05:20  最初为什么想出国
+• 11:48  准备出国的过程 + 英语考试讨论
+• 24:07  留学对应的时间节点
+• 28:22  到新西兰的第一印象 + 原住民 + “种族歧视”
+• 46:29  新西兰读书和国内读书的区别
+• 50:33  现在的工作 + 找工作难度 + IT 行业的现状 + 薪资
+• 01:01:31  新西兰的技术移民
+• 01:17:06  聊聊新西兰的生活
+• 01:35:19  有人想出国，有人想回国，你怎么看
+• 01:42:40  最后还有什么话想说（分享了一件有趣的事）
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,新西兰</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
