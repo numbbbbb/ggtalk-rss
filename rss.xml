@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Aug 2019 07:55:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2019 07:30:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -3050,6 +3050,60 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,新西兰</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>没事刷刷算法</title>
+            <itunes:episode>42</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 27 Aug 2019 07:30:00 CDT</pubDate>
+            <description>
+没有梁杰参与的第一期，终于不用听他（我）说话了！
+
+本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。
+
+这期的主持人是磊子，之前参与过大学生活的录制。磊子想帮忙承担一些播客的工作，我也想尝试下能否不参与录制过程，一拍即合，就有了这期实验性质的节目。由于是首次尝试这种形式，磊子和 wamaker 都比较紧张，压力很大。希望大家能多多鼓励他们。
+
+参考链接：
+• 刷题平台：LeetCode，LintCode
+• 磊子提到的资料：《剑指 Offer》、牛客网、九章算法、一亩三分地
+• 磊子的微博：@进击的磊子现已成为肚皮怪（https://www.weibo.com/u/1922768971）
+
+时间线：
+• 02:16  自我介绍 + 主题介绍
+• 03:47  算法初体验
+• 11:03  什么时候开始重视算法
+• 14:15  刷题 + 被难题卡住的经历
+• 19:22  印象深刻的算法题
+• 30:55  工作之后刷题还有没有必要
+• 39:39  对于初学者，如何入门算法
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/42.mp3" length="43398710" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/42.mp3</guid>
+            <itunes:duration>00:45:12</itunes:duration>
+            <itunes:summary>
+没有梁杰参与的第一期，终于不用听他（我）说话了！
+
+本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。
+
+这期的主持人是磊子，之前参与过大学生活的录制。磊子想帮忙承担一些播客的工作，我也想尝试下能否不参与录制过程，一拍即合，就有了这期实验性质的节目。由于是首次尝试这种形式，磊子和 wamaker 都比较紧张，压力很大。希望大家能多多鼓励他们。
+
+参考链接：
+• 刷题平台：LeetCode，LintCode
+• 磊子提到的资料：《剑指 Offer》、牛客网、九章算法、一亩三分地
+• 磊子的微博：@进击的磊子现已成为肚皮怪（https://www.weibo.com/u/1922768971）
+
+时间线：
+• 02:16  自我介绍 + 主题介绍
+• 03:47  算法初体验
+• 11:03  什么时候开始重视算法
+• 14:15  刷题 + 被难题卡住的经历
+• 19:22  印象深刻的算法题
+• 30:55  工作之后刷题还有没有必要
+• 39:39  对于初学者，如何入门算法
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,算法</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
