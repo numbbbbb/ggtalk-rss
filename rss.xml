@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Sep 2019 07:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 07:30:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -3260,6 +3260,84 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,加速器,游戏,远程工作,网络编程,创业</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊英国的工作和生活</title>
+            <itunes:episode>45</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 17 Sep 2019 07:30:00 CDT</pubDate>
+            <description>
+继续国外生活系列，这次聊英国！
+
+近几年英国取消了毕业工签，留学生毕业之后留在英国的难度大大增加，这也是为什么我一直都没找到合适的人。有一些同学或者朋友在英国读书，但是毕业之后都选择了回国。所以首先感谢喜力同学，帮忙请到了这期的嘉宾 lianlian。
+
+前半部分主要聊出国和留学。一年的学习生活压力重重又丰富多彩，不一样的教学机制给学生更大的自由，同时也对个人能力和主动性提出更高的要求。
+
+毕业之后，lianlian 留在英国从事 AI 相关的工作。之后换过一次工作，经历了传说中的“劳动力市场测试”，通俗点说就是“为了招外国人必须证明本地招不到合适的人”。在这个过程中，她也积累了不少找工作的经验，一起分享给大家。
+
+说明：
+• 录制这期节目之后，英国那边出了一条新闻，2020 年 PSW 签证有可能会再度回归！如果实施，留学生毕业后可以直接拿到两年工签，有充足的时间可以找工作。相关新闻：https://mp.weixin.qq.com/s/sYbpH2w4tRagnobyf9-TJg
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• lianlian 的邮箱：lianlianqi1127@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:51  自我介绍 + 闲聊
+• 05:46  最初为什么想到要出国
+• 08:15  为什么想去英国
+• 11:23  英国留学的申请过程
+• 18:37  到达英国的第一印象
+• 21:08  怎么适应生活和学习
+• 30:46  留学期间印象深刻的事
+• 36:33  英国工签的讨论
+• 40:14  工作经历 + 找工作经验分享
+• 01:02:10  工作内容 + 工作压力 + 薪资水平 + 职业发展
+• 01:07:49  衣、食、住
+• 01:13:10  总体来说是否符合预期 + 不喜欢的地方 + 脱欧对生活的影响
+• 01:20:14  出国和回国，到底如何选择
+• 01:24:40  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/45.mp3" length="82464521" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/45.mp3</guid>
+            <itunes:duration>01:25:53</itunes:duration>
+            <itunes:summary>
+继续国外生活系列，这次聊英国！
+
+近几年英国取消了毕业工签，留学生毕业之后留在英国的难度大大增加，这也是为什么我一直都没找到合适的人。有一些同学或者朋友在英国读书，但是毕业之后都选择了回国。所以首先感谢喜力同学，帮忙请到了这期的嘉宾 lianlian。
+
+前半部分主要聊出国和留学。一年的学习生活压力重重又丰富多彩，不一样的教学机制给学生更大的自由，同时也对个人能力和主动性提出更高的要求。
+
+毕业之后，lianlian 留在英国从事 AI 相关的工作。之后换过一次工作，经历了传说中的“劳动力市场测试”，通俗点说就是“为了招外国人必须证明本地招不到合适的人”。在这个过程中，她也积累了不少找工作的经验，一起分享给大家。
+
+说明：
+• 录制这期节目之后，英国那边出了一条新闻，2020 年 PSW 签证有可能会再度回归！如果实施，留学生毕业后可以直接拿到两年工签，有充足的时间可以找工作。相关新闻：https://mp.weixin.qq.com/s/sYbpH2w4tRagnobyf9-TJg
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• lianlian 的邮箱：lianlianqi1127@gmail.com
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:51  自我介绍 + 闲聊
+• 05:46  最初为什么想到要出国
+• 08:15  为什么想去英国
+• 11:23  英国留学的申请过程
+• 18:37  到达英国的第一印象
+• 21:08  怎么适应生活和学习
+• 30:46  留学期间印象深刻的事
+• 36:33  英国工签的讨论
+• 40:14  工作经历 + 找工作经验分享
+• 01:02:10  工作内容 + 工作压力 + 薪资水平 + 职业发展
+• 01:07:49  衣、食、住
+• 01:13:10  总体来说是否符合预期 + 不喜欢的地方 + 脱欧对生活的影响
+• 01:20:14  出国和回国，到底如何选择
+• 01:24:40  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,英国</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
