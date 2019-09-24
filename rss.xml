@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Sep 2019 07:30:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2019 07:10:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -3338,6 +3338,72 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,英国</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>从石油到 iOS，听听思琦的转行经历</title>
+            <itunes:episode>46</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 24 Sep 2019 07:10:00 CDT</pubDate>
+            <description>
+28 岁，油气储运专业研究生，没有 IT 工作经历。如果是你，会不会转行？
+
+这就是思琦当年面对的问题。
+
+在我认识的人当中，思琦绝对是最厉害的那一批。当然我说的不是天赋，有些人就是天才，你怎么努力也无法超越。思琦厉害的地方在于思考分析能力和执行力。从有转行想法开始，收集信息、了解行业、分析不同职位，最终确定 iOS。然后开始转行，培训班、自学、开源项目、发文章、准备面试、拿到 offer。入职美团之后，完善知识体系、尝试不同方向、不断给自己提出挑战，每一年都在飞速成长。
+
+每个人有自己的做事风格，不过无论你习惯什么，相信都可以从思琦的经历中学到东西，或者找到共鸣，毕竟转行从来都不是一件容易的事。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 提到的书：《啊哈！算法》（https://item.jd.com/11477302.html），《卓越工作》（https://item.jd.com/12501047.html），《刻意练习：如何从新手到大师》（https://item.jd.com/11990777.html）
+• 思琦提到的 iOS 面试题，来自孙源的博客《招聘一个靠谱的 iOS》：http://blog.sunnyxx.com/2015/07/04/ios-interview/
+• 对应的答案：https://github.com/ChenYilong/iOSInterviewQuestions
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:58  个人介绍
+• 01:52  大学为什么学石油
+• 04:13  毕业之后的几段工作
+• 09:23  为什么想到要转 IT + 为什么选择 iOS + 找工作的过程
+• 33:05  入职美团这三年都做了什么 + 未来的职业规划
+• 42:27  回顾整个过程，为什么你能成功转行
+• 50:48  如果有机会重来，哪些地方你可以做得更好
+• 55:58  现在这个时间点，转行还是不是一个好的选择
+• 01:01:32  如何确定自己是否要转行 + 对想转行的人有什么话想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/46.mp3" length="67366162" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/46.mp3</guid>
+            <itunes:duration>01:10:10</itunes:duration>
+            <itunes:summary>
+28 岁，油气储运专业研究生，没有 IT 工作经历。如果是你，会不会转行？
+
+这就是思琦当年面对的问题。
+
+在我认识的人当中，思琦绝对是最厉害的那一批。当然我说的不是天赋，有些人就是天才，你怎么努力也无法超越。思琦厉害的地方在于思考分析能力和执行力。从有转行想法开始，收集信息、了解行业、分析不同职位，最终确定 iOS。然后开始转行，培训班、自学、开源项目、发文章、准备面试、拿到 offer。入职美团之后，完善知识体系、尝试不同方向、不断给自己提出挑战，每一年都在飞速成长。
+
+每个人有自己的做事风格，不过无论你习惯什么，相信都可以从思琦的经历中学到东西，或者找到共鸣，毕竟转行从来都不是一件容易的事。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 提到的书：《啊哈！算法》（https://item.jd.com/11477302.html），《卓越工作》（https://item.jd.com/12501047.html），《刻意练习：如何从新手到大师》（https://item.jd.com/11990777.html）
+• 思琦提到的 iOS 面试题，来自孙源的博客《招聘一个靠谱的 iOS》：http://blog.sunnyxx.com/2015/07/04/ios-interview/
+• 对应的答案：https://github.com/ChenYilong/iOSInterviewQuestions
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 00:58  个人介绍
+• 01:52  大学为什么学石油
+• 04:13  毕业之后的几段工作
+• 09:23  为什么想到要转 IT + 为什么选择 iOS + 找工作的过程
+• 33:05  入职美团这三年都做了什么 + 未来的职业规划
+• 42:27  回顾整个过程，为什么你能成功转行
+• 50:48  如果有机会重来，哪些地方你可以做得更好
+• 55:58  现在这个时间点，转行还是不是一个好的选择
+• 01:01:32  如何确定自己是否要转行 + 对想转行的人有什么话想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,转行</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
