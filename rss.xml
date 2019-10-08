@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 1 Oct 2019 07:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 8 Oct 2019 07:20:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -3462,6 +3462,66 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,新加坡</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>互联网公司的开发流程</title>
+            <itunes:episode>48</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 8 Oct 2019 07:20:00 CDT</pubDate>
+            <description>
+最近几个月翻译组的大事之一，就是蓉老师的开发流程调研。为了获得最新最全的信息，专程去广州和各位大佬讨论开发流程。当然录节目时候才发现，蓉老师还借调研之名去北京玩了一圈，收集了不少信息。
+
+花了这么多工夫调研，那自然要请来 ggtalk 聊一聊。蓉老师基本聊遍了国内的一线互联网公司，整理了一份文档，会在这期中详细介绍。
+
+除了介绍流程，我们还讨论了一些相关内容，比如流程存在的问题、国内流程做的好的公司、研究流程对我们自己的意义等等。如果你的团队正面临流程问题，应该能从这期节目中获得一些灵感。
+
+这期讲的内容比较长，容易走神，大家可以对照着文字版来听：https://github.com/numbbbbb/ggtalk-rss/blob/master/development_process.md。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 蓉老师上次参与的节目：《2019 准备学什么新技术？》（https://talk.swift.gg/18）
+• 蓉老师提到的，Google 员工对敏捷开发的看法：https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:25  个人介绍
+• 02:18  什么是开发流程 + 为什么要调研开发流程 + 调研（吃喝玩乐）过程
+• 10:42  详细说说整理出来的开发流程
+• 01:04:13  这套流程目前还存在哪些问题
+• 01:05:45  国内互联网公司对开发流程的态度 + 哪些公司的开发流程比较好
+• 01:11:21  瞎聊敏捷开发（懂敏捷的专家请速与我联系！）
+• 01:14:59  听完之后的各种感想
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/48.mp3" length="83130330" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/48.mp3</guid>
+            <itunes:duration>01:26:35</itunes:duration>
+            <itunes:summary>
+最近几个月翻译组的大事之一，就是蓉老师的开发流程调研。为了获得最新最全的信息，专程去广州和各位大佬讨论开发流程。当然录节目时候才发现，蓉老师还借调研之名去北京玩了一圈，收集了不少信息。
+
+花了这么多工夫调研，那自然要请来 ggtalk 聊一聊。蓉老师基本聊遍了国内的一线互联网公司，整理了一份文档，会在这期中详细介绍。
+
+除了介绍流程，我们还讨论了一些相关内容，比如流程存在的问题、国内流程做的好的公司、研究流程对我们自己的意义等等。如果你的团队正面临流程问题，应该能从这期节目中获得一些灵感。
+
+这期讲的内容比较长，容易走神，大家可以对照着文字版来听：https://github.com/numbbbbb/ggtalk-rss/blob/master/development_process.md。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 蓉老师上次参与的节目：《2019 准备学什么新技术？》（https://talk.swift.gg/18）
+• 蓉老师提到的，Google 员工对敏捷开发的看法：https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:25  个人介绍
+• 02:18  什么是开发流程 + 为什么要调研开发流程 + 调研（吃喝玩乐）过程
+• 10:42  详细说说整理出来的开发流程
+• 01:04:13  这套流程目前还存在哪些问题
+• 01:05:45  国内互联网公司对开发流程的态度 + 哪些公司的开发流程比较好
+• 01:11:21  瞎聊敏捷开发（懂敏捷的专家请速与我联系！）
+• 01:14:59  听完之后的各种感想
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,开发流程</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
