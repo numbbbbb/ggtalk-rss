@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 8 Oct 2019 07:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2019 07:20:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -3522,6 +3522,96 @@ GILT 四个层次具体指什么？软件本地化具体是什么流程？目前
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,开发流程</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊美国的工作和生活</title>
+            <itunes:episode>49</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 15 Oct 2019 07:20:00 CDT</pubDate>
+            <description>
+终于说到了美国！这次请来了在微软工作的吕鹏，聊聊他的经历，以及在西雅图的生活体验。
+
+国外生活系列惯例要聊的内容我就不重复了，说几个本期的亮点吧。
+
+首先，吕鹏是从国内微软 transfer 去美国微软。大部分人应该都是留学出国，直接 transfer 的相对比较少，大家可以了解一下这种方式。
+
+其次，在我自己片面且狭隘的认知里，微软很长一段时间给人的感觉都是“不酷”。但是近几年，无论是软件还是硬件，微软似乎都在变得越来越酷。刚好这次请到微软内部的工程师，我们也一起讨论了一下为什么微软越来越酷。
+
+最后，曾经改变世界的各个科技巨头们，这几年都出过一些不太好的事，无论是大众还是开发者对他们的态度都在发生变化。吕鹏分享了他的看法，相信可以带给大家一些思考。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 提到的编辑器和相关框架：Atom，Electron，Nuclide，Monaco，Brackets，Sublime Text
+• 提到的 Google 用 Rust 开发的编辑器：Xi Editor（https://github.com/xi-editor/xi-editor）
+• 《WIRED》关于 Google 的长文：Three Years of Misery Inside Google, the Happiest Company in Tech（https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/）
+• 《WIRED》关于 Facebook 的长文：15 Months of Fresh Hell Inside Facebook（https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/）
+• 《WIRED》关于特斯拉的长文：Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell（https://www.wired.com/story/elon-musk-tesla-life-inside-gigafactory/）
+• Snowden 自传：《Permanent Record》（https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238/ref=sr_1_1?keywords=permanent+record&qid=1571142655&sr=8-1）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:23  自我介绍
+• 02:25  怎么想到要出国
+• 05:33  国内外企有没有“天花板”
+• 07:09  签证
+• 13:18  VS Code 以及那段时间的编辑器热潮
+• 16:51  比较特殊的 transfer 经历 + 对美国的第一印象 + 西雅图的天气
+• 26:52  如何适应工作和生活
+• 31:20  目前的工作内容 + 微软的工作体验
+• 41:51  为什么这几年微软越来越“酷” + 为什么重视开发者群体
+• 53:45  如果想去国外的大公司，有什么建议
+• 57:28  这几年科技巨头们都出过一些事，大家对他们的看法是不是正在发生改变
+• 01:07:53  现在的美国，什么公司或者什么城市是大家比较看好的 + 之后的职业发展规划
+• 01:13:43  西雅图的生活成本 + 孩子教育 + 吃饭 + 交通
+• 01:23:42  总体来说，现在的生活是否满足预期 + 不满意的地方
+• 01:29:56  如何考虑“出国”和“回国”
+• 01:40:51  最后还有什么想说
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/49.mp3" length="98656678" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/49.mp3</guid>
+            <itunes:duration>01:42:46</itunes:duration>
+            <itunes:summary>
+终于说到了美国！这次请来了在微软工作的吕鹏，聊聊他的经历，以及在西雅图的生活体验。
+
+国外生活系列惯例要聊的内容我就不重复了，说几个本期的亮点吧。
+
+首先，吕鹏是从国内微软 transfer 去美国微软。大部分人应该都是留学出国，直接 transfer 的相对比较少，大家可以了解一下这种方式。
+
+其次，在我自己片面且狭隘的认知里，微软很长一段时间给人的感觉都是“不酷”。但是近几年，无论是软件还是硬件，微软似乎都在变得越来越酷。刚好这次请到微软内部的工程师，我们也一起讨论了一下为什么微软越来越酷。
+
+最后，曾经改变世界的各个科技巨头们，这几年都出过一些不太好的事，无论是大众还是开发者对他们的态度都在发生变化。吕鹏分享了他的看法，相信可以带给大家一些思考。
+
+参考链接：
+• ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk
+• 提到的编辑器和相关框架：Atom，Electron，Nuclide，Monaco，Brackets，Sublime Text
+• 提到的 Google 用 Rust 开发的编辑器：Xi Editor（https://github.com/xi-editor/xi-editor）
+• 《WIRED》关于 Google 的长文：Three Years of Misery Inside Google, the Happiest Company in Tech（https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/）
+• 《WIRED》关于 Facebook 的长文：15 Months of Fresh Hell Inside Facebook（https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/）
+• 《WIRED》关于特斯拉的长文：Dr. Elon & Mr. Musk: Life Inside Tesla's Production Hell（https://www.wired.com/story/elon-musk-tesla-life-inside-gigafactory/）
+• Snowden 自传：《Permanent Record》（https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238/ref=sr_1_1?keywords=permanent+record&qid=1571142655&sr=8-1）
+• 梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
+
+时间线：
+• 01:23  自我介绍
+• 02:25  怎么想到要出国
+• 05:33  国内外企有没有“天花板”
+• 07:09  签证
+• 13:18  VS Code 以及那段时间的编辑器热潮
+• 16:51  比较特殊的 transfer 经历 + 对美国的第一印象 + 西雅图的天气
+• 26:52  如何适应工作和生活
+• 31:20  目前的工作内容 + 微软的工作体验
+• 41:51  为什么这几年微软越来越“酷” + 为什么重视开发者群体
+• 53:45  如果想去国外的大公司，有什么建议
+• 57:28  这几年科技巨头们都出过一些事，大家对他们的看法是不是正在发生改变
+• 01:07:53  现在的美国，什么公司或者什么城市是大家比较看好的 + 之后的职业发展规划
+• 01:13:43  西雅图的生活成本 + 孩子教育 + 吃饭 + 交通
+• 01:23:42  总体来说，现在的生活是否满足预期 + 不满意的地方
+• 01:29:56  如何考虑“出国”和“回国”
+• 01:40:51  最后还有什么想说
+            </itunes:summary>
+            <itunes:image href="https://talk.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,美国</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
