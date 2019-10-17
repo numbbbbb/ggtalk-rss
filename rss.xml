@@ -45,7 +45,7 @@
             <itunes:episode>1</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Sun, 28 Oct 2018 22:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。</p>
 
 <p>本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。</p>
@@ -56,7 +56,7 @@
 <li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>
 <li>星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/1.mp3" length="109921514" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/1.mp3</guid>
             <itunes:duration>00:57:15</itunes:duration>
@@ -82,7 +82,7 @@
             <itunes:episode>2</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 06 Nov 2018 23:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>每个女孩都有一个公主梦，每个程序员也都有一个博客梦（什么烂比喻！）。用 CSS 把自己的网站布局得漂漂亮亮，加上 Google Analytics 代码，等待着访问量暴涨的那一天。</p>
 
 <p>本期请到的嘉宾是 iOS 界的“灯塔”（为什么叫灯塔？请听本台独家揭秘），刚刚毕业一年的 Draveness。Draveness 的个人博客年 PV 已经超过百万，发布了大量高质量的技术文章。</p>
@@ -95,7 +95,7 @@
 <li>Draveness 的微博：@Draveness（https://www.weibo.com/u/5123574960）</li>
 <li>Draveness 的 GitHub：https://github.com/Draveness</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/2.mp3" length="91284713" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/2.mp3</guid>
             <itunes:duration>00:47:33</itunes:duration>
@@ -123,7 +123,7 @@
             <itunes:episode>3</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 13 Nov 2018 11:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。</p>
 
 <p>本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。</p>
@@ -140,7 +140,7 @@
 <li>第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources</li>
 <li>@Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/3.mp3" length="123336332" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/3.mp3</guid>
             <itunes:duration>01:04:14</itunes:duration>
@@ -172,7 +172,7 @@
             <itunes:episode>4</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Wed, 14 Nov 2018 15:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>关于技术大会的讨论已经够多了，有人喜欢，有人讨厌。不过这都不是本期重点，这次我们想换个角度，走进后台，看看到底如何办一场技术大会。</p>
 
 <p>本期的嘉宾是周裕波，w3ctech 的发起人，在过去的 9 年中组织了多场技术大会和技术分享，其中绝大多数都是非营利活动。</p>
@@ -189,7 +189,7 @@
 <li>第一届 @Swift 大会资源：https://github.com/atConf/atswift-2016-resources</li>
 <li>@Swift 大会微博：@Swift开发者大会：https://weibo.com/atswift</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/4.mp3" length="71436667" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/4.mp3</guid>
             <itunes:duration>00:37:12</itunes:duration>
@@ -221,7 +221,7 @@
             <itunes:episode>5</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 20 Nov 2018 08:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>是你期待已久的（下）期！</p>
 
 <p>作为 ggtalk 节目的第一个主题，只聊一期当然是不够的。在（上）中，翻译组的星星和 mm 分享了自己的转岗和升职经验。作为亲身经历的人，聊了很多有趣有价值的内容。</p>
@@ -235,7 +235,7 @@
 <li>莲叔的微博：@aaaron7_ （https://weibo.com/aaaron7）</li>
 <li>羊叔的微博：@shanksyang（https://weibo.com/shanksyang0）</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/5.mp3" length="45288304" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/5.mp3</guid>
             <itunes:duration>00:47:10</itunes:duration>
@@ -264,7 +264,7 @@
             <itunes:episode>6</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 27 Nov 2018 09:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。</p>
 
 <p>这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。（本期还有一段彩蛋，来自喵神的 Swift 开源解读！）</p>
@@ -311,7 +311,7 @@
 <li>48:04  Swift 开源的介绍和解析，神秘嘉宾喵神出场！</li>
 <li>54:26  星星给 Swift 项目提交的 PR 被合并</li>
 <li>57:58  2015 年大家的补充内容</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/6.mp3" length="62420451" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/6.mp3</guid>
             <itunes:duration>01:05:01</itunes:duration>
@@ -373,7 +373,7 @@
             <itunes:episode>7</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 04 Dec 2018 08:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>从 2014 年到现在，Swift 发布已经超过四年。从 Swift 文档翻译开始，我们翻译组也一路参与 Swift 的发展过程，做了很多有意思的事。Swift 5 预计会在 2019 发布，届时 ABI 将会稳定，开发者一直盼望的黎明即将到来。黎明前夕，我们想回忆一下过去，说说这四年发生过什么。</p>
 
 <p>这期节目我们请到了老朋友莲叔和星星，还在青总的帮助下请到了 Enjoy 团队的王雷，四个人站在四个不同的角度，聊聊我们的回忆和思考。</p>
@@ -411,7 +411,7 @@
 <li>39:40  Swift 5</li>
 <li>42:38  第三届 @Swift 开发者大会</li>
 <li>47:00  回顾和总结</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/7.mp3" length="51791749" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/7.mp3</guid>
             <itunes:duration>00:53:57</itunes:duration>
@@ -464,7 +464,7 @@
             <itunes:episode>8</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 11 Dec 2018 08:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>首先这期真不是广告，也没人赞助我们，如果 HHKB 官方想赞助请速与我联系……</p>
 
 <p>本期来详细的聊聊“程序员的最后一把键盘”——HHKB。目前翻译组里很多人都有 HHKB，有些人甚至有不止一把，使用时间从三个月到六年都有。于是我就想做这么一期节目，好好说说 HHKB。</p>
@@ -505,7 +505,7 @@
 <li>58:37  冬瓜的 HHKB 故事</li>
 <li>01:01:35  思琦的 HHKB 故事</li>
 <li>01:04:46  Cee 的 HHKB 故事</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/8.mp3" length="66747583" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/8.mp3</guid>
             <itunes:duration>01:09:31</itunes:duration>
@@ -561,7 +561,7 @@
             <itunes:episode>9</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 18 Dec 2018 06:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>翻译组里真是人才辈出啊，前几天 Cee 在群里说了个好消息，他拿到了美国 Google 的 Offer。群友们纷纷表示祝贺并进行了隆重的认哥仪式，将 SwiftGG 诞生以来第一个 GG（哥哥） 称号颁发给我们公认的大哥 Cee。</p>
 
 <p>我也在第一时间联系 Cee，邀请他来电台详细说说这个过程，让更多人能了解 Google 的面试流程，也给大家分享一些 Cee 的准备技巧和面试经验。</p>
@@ -604,7 +604,7 @@
 <li>44:26  出国留学的感受</li>
 <li>48:09  暑假在 Tumblr 的实习经历</li>
 <li>53:02  其他的出国工作渠道</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/9.mp3" length="57260745" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/9.mp3</guid>
             <itunes:duration>00:59:39</itunes:duration>
@@ -662,7 +662,7 @@
             <itunes:episode>10</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 25 Dec 2018 07:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>莲叔和羊叔是 SwiftGG 翻译组的真·大佬。成绩好，学历高，思维缜密，能力很强。听过《升职加薪》那期节目的朋友应该都有印象。作为标准的技术人才，在创业大潮中自然也想试试身手，打拼一番。</p>
 
 <p>直博休学，放弃大厂的稳定工作，签下第一份百万美金投资协议，App 霸占苹果免费榜第一名长达一周，招人烧钱……作为技术合伙人和 CTO，莲叔和羊叔在四五年的创业过程中经历过高峰，也遇到过低谷，有无奈，但更多的还是收获和感激。</p>
@@ -698,7 +698,7 @@
 <li>49:45  什么样的创业公司靠谱</li>
 <li>54:09  对正在创业的人有什么话想说</li>
 <li>55:34  节目最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/10.mp3" length="54597509" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/10.mp3</guid>
             <itunes:duration>00:56:52</itunes:duration>
@@ -749,7 +749,7 @@
             <itunes:episode>11</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 1 Jan 2019 15:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。</p>
 
 <p>本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。</p>
@@ -771,7 +771,7 @@
 <li>44:27  学到了什么东西？有什么收获？</li>
 <li>58:23  对于正在创业的人想说什么？</li>
 <li>01:00:00  节目最后有什么话想说？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/11.mp3" length="60674218" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/11.mp3</guid>
             <itunes:duration>01:03:12</itunes:duration>
@@ -808,7 +808,7 @@
             <itunes:episode>12</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 8 Jan 2019 08:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。</p>
 
 <p>这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。</p>
@@ -848,7 +848,7 @@
 <li>58:22  为什么没有选择融资？</li>
 <li>01:02:10  创业过程中印象深刻的事</li>
 <li>01:11:56  最后有什么话想说？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/12.mp3" length="73786016" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/12.mp3</guid>
             <itunes:duration>01:16:51</itunes:duration>
@@ -903,7 +903,7 @@
             <itunes:episode>13</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 15 Jan 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>又到年底了，除了春节抢票、年会抽奖，另一个不得不聊的事就是跳槽。这次我们请到了翻译组的三位同学，刚好能代表三个不同的状态。某 C 准备拿到年终奖后跳槽，钟同学是最近刚刚跳槽入职大厂，摸鱼则是一个新团队的面试官，最近几个月面试过很多人。</p>
 
 <p>本期我们不聊方法论，只讲他们真实经历的事。为什么决心跳槽？如何准备跳槽？大公司有什么利弊？寒冬是否已经来临？来听听他们怎么说。</p>
@@ -929,7 +929,7 @@
 <li>01:04:38  写代码开心吗？</li>
 <li>01:06:52  怎么去学习一门公司项目中用不到的新技术？</li>
 <li>01:14:23  最后有什么话想说？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/13.mp3" length="74428001" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/13.mp3</guid>
             <itunes:duration>01:17:31</itunes:duration>
@@ -970,7 +970,7 @@
             <itunes:episode>14</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 22 Jan 2019 07:40:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。</p>
 
 <p>Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。</p>
@@ -1018,7 +1018,7 @@
 <li>01:30:09  对未来有什么规划？</li>
 <li>01:34:59  最后有什么话想说？</li>
 <li>01:37:23  如何理性看待各种“方法论”</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/14.mp3" length="96041507" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/14.mp3</guid>
             <itunes:duration>01:40:02</itunes:duration>
@@ -1081,7 +1081,7 @@
             <itunes:episode>15</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 29 Jan 2019 07:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>快过年了，估计大家也没心情工作学习，准备进入放假状态。严肃的话题放到年后，这期我们请到了袁滚滚、张思琦和老朋友莲叔，围绕着春节轻松愉快的聊一期。</p>
 
 <p>这期真的是太欢乐了！聊的时候就一直在哈哈哈哈哈哈。剪节目时候又哈哈了一遍，对时间轴时候又哈哈了一遍，最后上线前完整听又哈哈了一遍，真的是听几遍都会笑，实在太逗了。</p>
@@ -1110,7 +1110,7 @@
 <li>01:19:32  最后还有什么想说的</li></ul>
 
 <p>时间线仅供参考，这期太多有意思的事没办法总结出来，大家直接听吧！</p>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/15.mp3" length="77685157" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/15.mp3</guid>
             <itunes:duration>01:20:55</itunes:duration>
@@ -1154,7 +1154,7 @@
             <itunes:episode>16</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Sun, 3 Feb 2019 18:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>
 亲爱的听众朋友们，新年好！拜年的话大家已经听了太多，我们换了一种形式，录了一首歌献给大家！</p>
 
@@ -1256,7 +1256,7 @@
 <p>七大天王有八个人不是常识吗？第八位是水水，多闪 ID：young027。这次的快歌并不适合他发挥，所以没有出现在歌曲中，期待他未来的表现。</p>
 
 <p>最后附上歌词的文字版本链接：https://shimo.im/docs/LW1nKcpQtfkhzI3g。</p>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/tlsdh.mp3" length="8508730" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/tlsdh.mp3</guid>
             <itunes:duration>00:04:25</itunes:duration>
@@ -1372,7 +1372,7 @@
             <itunes:episode>17</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Sat, 9 Feb 2019 08:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>之前闲聊崔轶提议增加“游戏”话题，刚好我最近沉迷了一段时间《空洞骑士》，就请崔轶过来深入聊聊《空洞骑士》为什么这么好玩。</p>
 
 <p>如果你玩过《空洞骑士》，可以听听我们的故事，看看是否有同感。如果你没玩过，也不用担心，我们会先介绍游戏背景和玩法，希望你也能感受到，为什么我们这么喜爱这个游戏。</p>
@@ -1405,7 +1405,7 @@
 <li>01:33:02  说说游戏速通</li>
 <li>01:39:28  Kickstarter 对新游戏的作用</li>
 <li>01:41:26  《空洞骑士》有什么缺点</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/16.mp3" length="103982732" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/16.mp3</guid>
             <itunes:duration>01:48:18</itunes:duration>
@@ -1453,7 +1453,7 @@
             <itunes:episode>18</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 12 Feb 2019 10:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>打通《空洞骑士》之后，我对这个独立游戏的开发团队产生了浓厚的兴趣。他们为什么想到开发《空洞骑士》？如何把一个想法变成现实？开发过程中有没有什么有意思的事？为了了解更多信息，我花了几天时间，把他们所有的访谈内容都看了一遍。</p>
 
 <p>在看/听访谈的过程中，我总结了一些我自己感兴趣的信息，比如《空洞骑士》的灵感来源、为什么选择虫子作为游戏角色和敌人、如何平衡游戏难度和乐趣等等。除此之外，我还发现了一个更深层的谜团：“三人团队”为什么永远只有两个人出现？我做了一些相关研究，给大家讲讲我的结论。</p>
@@ -1480,7 +1480,7 @@
 <li>26:46  如何控制游戏难度</li>
 <li>31:08  Team Cherry 的团队之谜</li>
 <li>44:18  各种零散知识</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/17.mp3" length="50460549" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/17.mp3</guid>
             <itunes:duration>00:52:33</itunes:duration>
@@ -1522,7 +1522,7 @@
             <itunes:episode>19</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 19 Feb 2019 07:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。</p>
 
 <p>如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。</p>
@@ -1545,7 +1545,7 @@
 <li>02:06  2018 年学了什么？做了什么项目？</li>
 <li>26:25  2019 年准备学什么？</li>
 <li>40:12  你对自己所在的领域有什么看法？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/18.mp3" length="53361186" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/18.mp3</guid>
             <itunes:duration>00:55:34</itunes:duration>
@@ -1583,7 +1583,7 @@
             <itunes:episode>20</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 26 Feb 2019 07:40:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>大概每个人都有过这种冲动，辞掉工作出去旅行，想去哪就去哪，再也不用赶需求修 bug 通宵加班。不过对大多数人来说，也就止步于“想想”，并不会付诸行动。但是我身边有一位朋友，真的做到了这件事：辞职一年环游中国！</p>
 
 <p>这期请到了一位和我有“小龙虾之交”的朋友 kittenyang，好好聊聊他这一年到底做了什么，想了什么，收获了什么。</p>
@@ -1618,7 +1618,7 @@
 <li>33:50  之后有什么计划？</li>
 <li>35:43  这趟旅程有什么收获</li>
 <li>42:50  最后还有什么话想说？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/20.mp3" length="42801029" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/20.mp3</guid>
             <itunes:duration>00:44:34</itunes:duration>
@@ -1668,7 +1668,7 @@
             <itunes:episode>21</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 5 Mar 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。</p>
 
 <p>这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。</p>
@@ -1714,7 +1714,7 @@
 <li>47:18  如果其他同学也想申请，有什么建议？</li>
 <li>48:20  未来有什么规划？</li>
 <li>49:42  最后有什么话想说？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/21.mp3" length="48819641" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/21.mp3</guid>
             <itunes:duration>00:50:50</itunes:duration>
@@ -1775,7 +1775,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>22</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 12 Mar 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>最近 Flutter 是如日中天，无论是不是做移动端开发，大家应该都对 Flutter 有所耳闻。这次我们请到了美团的宇杰（御姐）同学，一起聊聊 Flutter 的过去、现在和将来。</p>
 
 <p>这次的内容不会太深入技术细节，重点是介绍 Flutter 本身，让大家对 Flutter 能有一个宏观的了解。它的发展过程是什么？有什么亮点？使用体验如何？现在有什么缺点？未来会如何改进？听完这期节目，相信你会找到答案。</p>
@@ -1807,7 +1807,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>54:56  为什么 Flutter 这么火？</li>
 <li>01:01:49  为什么我们一直没有一个满意的跨平台方案？</li>
 <li>01:05:58  我们是不是真的需要跨平台？</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/22.mp3" length="65820549" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/22.mp3</guid>
             <itunes:duration>01:08:34</itunes:duration>
@@ -1855,7 +1855,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>23</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 19 Mar 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>区块链这个话题已经被无数人聊了无数次，但是说句实话，我依然不知道区块链到底能干嘛。最近刚好有机会，请到了赏味不足做客 ggtalk，让他给我上一课，看看能否解答我的各种疑惑。</p>
 
 <p>本期是目前为止时间最长的一期，录完之后感觉非常尽兴，每个问题都聊了很多有意思的内容。非常感谢赏哥。</p>
@@ -1890,7 +1890,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:43:26  赏哥目前在做什么</li>
 <li>01:52:52  这期节目到底值多少钱</li>
 <li>01:57:12  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/23.mp3" length="113612512" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/23.mp3</guid>
             <itunes:duration>01:58:20</itunes:duration>
@@ -1940,7 +1940,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>24</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 26 Mar 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>“读书”，或者说“买书”，应该是所有中国人的默认爱好。无论是学习还是娱乐，书都有它不可替代的特点。你有没有想过，一本书到底是如何出版的？如果想要成为作者或者译者，需要怎么做？这次我请到了一位在出版社工作 7 年的编辑朋友英姐，还有曾经出版和翻译过书的星星，一起聊聊出书的事。</p>
 
 <p>在这期节目中，英姐会介绍出版和翻译的标准流程，星星和我会聊聊我们自己出版和翻译书的经历。节目的后半段，我们三个人也尝试去讨论一些和书相关的话题，比如国内的出版现状、电子书、碎片化阅读等等。这些问题都很大，我们也只是各抒己见抛砖引玉，希望给大家带来一些不同的思考。</p>
@@ -1980,7 +1980,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:23:47  电子书对出版来说是好事还是坏事</li>
 <li>01:32:27  怎么看所谓的“碎片化阅读”</li>
 <li>01:38:31  为什么翻译的书普遍质量不高</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/24.mp3" length="102389889" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/24.mp3</guid>
             <itunes:duration>01:46:39</itunes:duration>
@@ -2035,7 +2035,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>25</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 2 Apr 2019 08:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>不上班是很多人的梦想，无论是传说中的“财富自由”，还是更实际的“远程工作”和“自由职业”，程序员们对自由的渴望永远不会消退，哪怕只是部分自由。</p>
 
 <p>这一次我们请到了两位正在“家里蹲”的程序员朋友：小鱼和冬菇桑。一起聊聊他们为什么进入这种状态、如何赚钱、遇到了哪些问题，以及最重要的，在家到底爽不爽。</p>
@@ -2067,7 +2067,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:08:18  这种状态会不会一直持续下去</li>
 <li>01:14:46  想法靠不靠谱，可能取决于看问题的角度</li>
 <li>01:18:23  最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/25.mp3" length="80633859" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/25.mp3</guid>
             <itunes:duration>01:23:59</itunes:duration>
@@ -2114,7 +2114,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>26</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 9 Apr 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。</p>
 
 <p>前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。</p>
@@ -2146,7 +2146,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:20:58  对于组织“收入”或者说“赚钱”的看法</li>
 <li>01:29:48  对于想成为组织者的人，有什么建议</li>
 <li>01:32:58  节目最后有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/26.mp3" length="92736286" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/26.mp3</guid>
             <itunes:duration>01:36:35</itunes:duration>
@@ -2193,7 +2193,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>27</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 16 Apr 2019 07:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>对于程序员来说，“架构师”一向是一个非常神秘的职位。大家都知道架构师很厉害，但是架构师到底在做什么？架构师和技术专家有什么区别？如何成为架构师？这期就请 Casa Taloyum 来详细聊聊这些问题。</p>
 
 <p>iOS 开发者应该或多或少对 Casa 有一些了解，尤其是他之前写过的一系列 iOS 应用架构文章。除了技术能力，Casa 还有一个特点，就是非常犀利。在这期节目中也是如此，不扯那些没用的套话，直接分享自己多年以来的思考和经验。</p>
@@ -2223,7 +2223,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:35:25  对跨平台的看法</li>
 <li>01:46:34  对区块链的看法</li>
 <li>02:14:43  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/27.mp3" length="131802096" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/27.mp3</guid>
             <itunes:duration>02:17:17</itunes:duration>
@@ -2268,7 +2268,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>28</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 23 Apr 2019 07:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。</p>
 
 <p>80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。</p>
@@ -2301,7 +2301,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:42:05  “追赶技术潮流”以及“正确的功利”</li>
 <li>01:55:04  小孩应该如何入门编程</li>
 <li>02:06:37  最后还有什么话要说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/28.mp3" length="122576901" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/28.mp3</guid>
             <itunes:duration>02:07:40</itunes:duration>
@@ -2349,7 +2349,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>29</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 30 Apr 2019 07:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。</p>
 
 <p>这期请到了我的老同学老朋友栾俊清，聊聊他这接近两年的法国生活。之所以第一期就录法国，其实也没什么特别的原因，主要是因为栾俊清马上要回国了，再不录就来不及了……</p>
@@ -2379,7 +2379,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:12:56  简单聊聊去法国的各种方式</li>
 <li>01:23:23  如果有机会还想不想回法国生活</li>
 <li>01:26:56  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/29.mp3" length="84628295" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/29.mp3</guid>
             <itunes:duration>01:28:09</itunes:duration>
@@ -2424,7 +2424,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>30</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 7 May 2019 07:40:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。</p>
 
 <p>一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。</p>
@@ -2450,7 +2450,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:06:32  本地化行业目前存在的问题和难点</li>
 <li>01:14:56  如何在开发过程中为本地化做好准备</li>
 <li>01:23:02  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/30.mp3" length="81323074" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/30.mp3</guid>
             <itunes:duration>01:24:42</itunes:duration>
@@ -2491,7 +2491,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>31</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Mon, 13 May 2019 18:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>跨平台系列的第二期，请莲叔来聊聊 Weex。</p>
 
 <p>从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。</p>
@@ -2517,7 +2517,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>38:20  Weex 到底出了什么问题</li>
 <li>44:50  如何推广一个开源框架</li>
 <li>50:20  Weex 的一个典型问题</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/31.mp3" length="53408833" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/31.mp3</guid>
             <itunes:duration>00:55:37</itunes:duration>
@@ -2558,7 +2558,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>32</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 21 May 2019 16:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>美学到底是什么？学习和研究美学到底有什么用？对于这类抽象的概念，我们总是觉得看不懂。其实美学并没有大家想的那么艰深晦涩，了解和学会感知“美”，能应用到生活中的很多领域。</p>
 
 <p>这期我们请到了小路。除了设计师的工作，她也对日本文化很感兴趣，读过不少书，有一些自己的理解和思考。</p>
@@ -2587,7 +2587,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>39:11  美学与机甲</li>
 <li>48:42  美学与人生观</li>
 <li>55:42  如何感知美</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/32.mp3" length="59519396" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/32.mp3</guid>
             <itunes:duration>01:01:59</itunes:duration>
@@ -2631,7 +2631,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>33</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 28 May 2019 05:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。</p>
 
 <p>可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。</p>
@@ -2658,7 +2658,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>43:52  现在还有哪些不足之处 + 未来的职业规划</li>
 <li>46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组</li>
 <li>58:51  最后还有什么话要说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/33.mp3" length="58972706" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/33.mp3</guid>
             <itunes:duration>01:01:26</itunes:duration>
@@ -2700,7 +2700,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>34</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 4 Jun 2019 08:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>上次录完《日式美学小记》之后，小路邀请到了一位做游戏设计和开发的朋友品，这次就请他来聊一聊概念设计和游戏开发。</p>
 
 <p>不怕大家笑话，我是一个写字（←因为这个被老师从小学骂到大学）和画画（←学到素描就彻底放弃）都特别差的人，一直以来都特别羡慕会画画的人。看了下品在微博发的图，感觉到了深深的羡慕和嫉妒，同样是手，我只会 Ctrl+C Ctrl+V，人家怎么就能画出来那么酷的图。</p>
@@ -2730,7 +2730,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:09:00  在设计行业中，概念设计的现状如何</li>
 <li>01:11:00  3D 对行业的影响</li>
 <li>01:19:00  最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/34.mp3" length="78500595" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/34.mp3</guid>
             <itunes:duration>01:21:46</itunes:duration>
@@ -2775,7 +2775,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>35</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 11 Jun 2019 08:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>首先，这期不是广告！也没有广告！相信我，我比你更反感广告，尤其是翻到结尾突然看到宣传图 + 二维码……（我不是针对谁）</p>
 
 <p>关注我微博的朋友应该有印象，前段时间转发过泽宇（@轻墨shellhue）的一条微博。说的是他有一个同事，用三个月时间成功转行深度学习，还找到了不错的工作。之后泽宇帮忙邀请到了这位同事，这也就是我们本期的录制阵容：嘉俊、泽宇、我。</p>
@@ -2810,7 +2810,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>35:44  深度学习的“转行窗口期”能持续多久</li>
 <li>48:08  如果有朋友也想转行，会给他们什么建议</li>
 <li>01:03:04  最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/35.mp3" length="65130917" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/35.mp3</guid>
             <itunes:duration>01:07:50</itunes:duration>
@@ -2860,7 +2860,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>36</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 25 Jun 2019 08:15:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>我有不少朋友都生活在国外，或者有过留学经历。在这个系列中，我会请他们来聊聊国外生活的方方面面，让大家从另一个角度了解真实的国外生活。</p>
 
 <p>日本可能是我们“最熟悉的陌生国”。日料、动漫、流行文化，随便找个年轻人都能说出来几样。但是真正的日本生活到底是什么样？日本的 IT 行业现状如何？这些大概只有真正在日本工作生活的人才能回答。</p>
@@ -2892,7 +2892,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:06:38  工资是否满意 + 日本 IT 行业现状</li>
 <li>01:26:09  聊聊入籍和永住</li>
 <li>01:35:12  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/36.mp3" length="96778369" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/36.mp3</guid>
             <itunes:duration>01:40:48</itunes:duration>
@@ -2939,7 +2939,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>37</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 23 Jul 2019 08:50:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>这期由思琦、磊子和梁杰录制。其实月初就录好了，由于我最近事情比较多，现在才剪好发出来。</p>
 
 <p>高考报志愿，以及快乐暑假之后的大学生活，应该是大部分人印象深刻的两件事。最近各个社交媒体上也都是相关讨论，有人说一定要学计算机，有人说一定别学计算机。当然这也是社交媒体的常态，基于个例得出结论，有冲突很正常。</p>
@@ -2967,7 +2967,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>56:40  社团/学生会到底要不要参加</li>
 <li>01:07:40  回顾大学阶段，有哪些满意的事，有哪些没做好的事</li>
 <li>01:32:02  最后有什么话要说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/37.mp3" length="91737781" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/37.mp3</guid>
             <itunes:duration>01:35:25</itunes:duration>
@@ -3010,7 +3010,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>38</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 30 Jul 2019 10:00:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>七月底了，2020 年毕业的学生们应该多多少少都开始准备校招了。刚好我们翻译组就有一个明年毕业的小伙子水水，从春招开始实习，现在手握多个 offer，也算是成功的迈出了第一步。</p>
 
 <p>在这期节目中，水水会详细分享下自己的校招过程，回顾自己的面试过程，分享经验和感想。除此之外，水水也会结合周围人的情况，聊聊今年整体的校招形式，包括大家最关心的薪资。</p>
@@ -3041,7 +3041,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>45:29  未来一两年，你觉得校招形式会有哪些变化</li>
 <li>50:47  iOS 应聘应该准备哪些知识</li>
 <li>01:04:15  最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/38.mp3" length="64322584" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/38.mp3</guid>
             <itunes:duration>01:07:00</itunes:duration>
@@ -3087,7 +3087,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>39</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 6 Aug 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>听众群有不少人对出国工作感兴趣，这期就继续聊出国。</p>
 
 <p>本期的嘉宾是关宇，目前在加拿大的蒙特利尔。在这期中，我们首先讨论了比较主流的几种出国途径，让大家有一个概念。接着听听关宇大哥的完整经历，从为什么出国，到出去之后的工作生活，再到现在的创业，借着故事来一窥加拿大的工作和生活。</p>
@@ -3112,7 +3112,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>52:06  创业的经历</li>
 <li>01:00:07  在加拿大生活感觉如何</li>
 <li>01:13:19  最后有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/39.mp3" length="71646065" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/39.mp3</guid>
             <itunes:duration>01:14:37</itunes:duration>
@@ -3152,7 +3152,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>40</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 13 Aug 2019 07:15:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>真不是广告。</p>
 
 <p>这期请到了 UU 加速器 macOS 客户端唯一指定开发，翻译组内尊称羊神的 Sunnyyoung。听他讲讲加速器开发背后的故事，顺便聊聊目前 macOS 开发的现状。</p>
@@ -3193,7 +3193,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>54:56  为什么要学习 macOS 开发</li>
 <li>59:04  聊聊兴趣爱好</li>
 <li>01:04:43  会不会有职业病？玩游戏时候还在想技术层面的事</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/40.mp3" length="64655279" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/40.mp3</guid>
             <itunes:duration>01:07:21</itunes:duration>
@@ -3249,7 +3249,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>41</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 20 Aug 2019 07:55:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>继续外国生活系列。</p>
 
 <p>新西兰也算是技术移民的热门国家，哪怕这几年要求提高，仍然有很大的吸引力。这期请到了交流群里的听众朋友 Ben，在新西兰工作多年，详细聊聊出国、学习和工作。</p>
@@ -3278,7 +3278,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:17:06  聊聊新西兰的生活</li>
 <li>01:35:19  有人想出国，有人想回国，你怎么看</li>
 <li>01:42:40  最后还有什么话想说（分享了一件有趣的事）</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/41.mp3" length="103768737" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/41.mp3</guid>
             <itunes:duration>01:48:05</itunes:duration>
@@ -3322,7 +3322,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>42</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 27 Aug 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>没有梁杰参与的第一期，终于不用听他（我）说话了！</p>
 
 <p>本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。</p>
@@ -3345,7 +3345,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>19:22  印象深刻的算法题</li>
 <li>30:55  工作之后刷题还有没有必要</li>
 <li>39:39  对于初学者，如何入门算法</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/42.mp3" length="43398710" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/42.mp3</guid>
             <itunes:duration>00:45:12</itunes:duration>
@@ -3383,7 +3383,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>43</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 3 Sep 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>继续国外生活系列！</p>
 
 <p>泰国物价低，可以落地签，离中国也很近，是一个热门的旅游国家。但是从工作角度来说，泰国并不在大部分人的考虑范围内。不过最近一段时间，我倒是看到几次对泰国工作生活的讨论，刚好发现一位朋友去了泰国工作，就请她来简单聊聊。</p>
@@ -3406,7 +3406,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>26:09  到达泰国的第一印象 + 印象深刻的事</li>
 <li>30:19  聊聊日常生活</li>
 <li>38:53  最后还有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/43.mp3" length="40045842" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/43.mp3</guid>
             <itunes:duration>00:41:42</itunes:duration>
@@ -3444,7 +3444,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>44</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 10 Sep 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>一期关于游戏、加速器和创业的杂谈，聊得非常过瘾，希望大家也能听得过瘾！</p>
 
 <p>“加速器只有两种，一种是没人用的，另一种是垃圾加速器。”</p>
@@ -3493,7 +3493,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:49:57  如何学习网络编程</li>
 <li>01:55:49  聊聊远程工作</li>
 <li>02:16:58  聊聊创业</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/44.mp3" length="142121509" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/44.mp3</guid>
             <itunes:duration>02:28:02</itunes:duration>
@@ -3557,7 +3557,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>45</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 17 Sep 2019 07:30:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>继续国外生活系列，这次聊英国！</p>
 
 <p>近几年英国取消了毕业工签，留学生毕业之后留在英国的难度大大增加，这也是为什么我一直都没找到合适的人。有一些同学或者朋友在英国读书，但是毕业之后都选择了回国。所以首先感谢喜力同学，帮忙请到了这期的嘉宾 lianlian。</p>
@@ -3591,7 +3591,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:13:10  总体来说是否符合预期 + 不喜欢的地方 + 脱欧对生活的影响</li>
 <li>01:20:14  出国和回国，到底如何选择</li>
 <li>01:24:40  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/45.mp3" length="82464521" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/45.mp3</guid>
             <itunes:duration>01:25:53</itunes:duration>
@@ -3640,7 +3640,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>46</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 24 Sep 2019 07:10:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>28 岁，油气储运专业研究生，没有 IT 工作经历。如果是你，会不会转行？</p>
 
 <p>这就是思琦当年面对的问题。</p>
@@ -3670,7 +3670,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>50:48  如果有机会重来，哪些地方你可以做得更好</li>
 <li>55:58  现在这个时间点，转行还是不是一个好的选择</li>
 <li>01:01:32  如何确定自己是否要转行 + 对想转行的人有什么话想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/46.mp3" length="67366162" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/46.mp3</guid>
             <itunes:duration>01:10:10</itunes:duration>
@@ -3715,7 +3715,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>47</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 1 Oct 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>前段时间发现翻译组一位老成员小乔去了新加坡工作，刚好请他过来录一期节目。</p>
 
 <p>除了聊经历，这期还讨论了一些我比较感兴趣的话题。比如新加坡的特色——组屋，小面积国家的生活会不会比较枯燥，国外工作太轻松会不会有危机感，以及为什么不想生孩子。</p>
@@ -3739,7 +3739,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>39:13  为什么年轻人不想生孩子</li>
 <li>40:57  简单聊聊衣食住行</li>
 <li>52:36  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/47.mp3" length="53551357" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/47.mp3</guid>
             <itunes:duration>00:55:46</itunes:duration>
@@ -3778,7 +3778,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>48</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 8 Oct 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>最近几个月翻译组的大事之一，就是蓉老师的开发流程调研。为了获得最新最全的信息，专程去广州和各位大佬讨论开发流程。当然录节目时候才发现，蓉老师还借调研之名去北京玩了一圈，收集了不少信息。</p>
 
 <p>花了这么多工夫调研，那自然要请来 ggtalk 聊一聊。蓉老师基本聊遍了国内的一线互联网公司，整理了一份文档，会在这期中详细介绍。</p>
@@ -3804,7 +3804,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:05:45  国内互联网公司对开发流程的态度 + 哪些公司的开发流程比较好</li>
 <li>01:11:21  瞎聊敏捷开发（懂敏捷的专家请速与我联系！）</li>
 <li>01:14:59  听完之后的各种感想</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/48.mp3" length="83130330" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/48.mp3</guid>
             <itunes:duration>01:26:35</itunes:duration>
@@ -3845,7 +3845,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>49</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 15 Oct 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>终于说到了美国！这次请来了在微软工作的吕鹏，聊聊他的经历，以及在西雅图的生活体验。</p>
 
 <p>国外生活系列惯例要聊的内容我就不重复了，说几个本期的亮点吧。</p>
@@ -3886,7 +3886,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>01:23:42  总体来说，现在的生活是否满足预期 + 不满意的地方</li>
 <li>01:29:56  如何考虑“出国”和“回国”</li>
 <li>01:40:51  最后还有什么想说</li></ul>
-            </description>
+            ]]></description>
             <enclosure url="https://talkcdn.swift.gg/audio/49.mp3" length="98656678" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/49.mp3</guid>
             <itunes:duration>01:42:46</itunes:duration>
