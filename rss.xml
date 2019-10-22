@@ -910,7 +910,6 @@
 
 <p>参考链接：</p>
 <ul>
-<li>钟同学</li>
 <li>摸鱼的博客：http://khala-wan.com/</li>
 <li>摸鱼的邮箱（想投简历的可以直接发）：wansheng@vipkid.com.cn</li>
 <li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>
@@ -941,7 +940,6 @@
 
 &lt;p&gt;参考链接：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;钟同学&lt;/li&gt;
 &lt;li&gt;摸鱼的博客：http://khala-wan.com/&lt;/li&gt;
 &lt;li&gt;摸鱼的邮箱（想投简历的可以直接发）：wansheng@vipkid.com.cn&lt;/li&gt;
 &lt;li&gt;梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）&lt;/li&gt;
@@ -3935,6 +3933,96 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,美国</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>什么叫技术宅啊.gif</title>
+            <itunes:episode>50</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 15 Oct 2019 07:20:00 CDT</pubDate>
+            <description>
+<p>本期专属<a target="_blank" href="https://talkcdn.swift.gg/jishuzhai_min.gif"> GIF 动图</a>。</p>
+
+<p>先说一个事，从这期开始，我给音频加上了章节功能（感谢马达的建议）。在支持章节功能的应用中，可以直接点击跳转到对应的位置播放。</p>
+
+<p>这期请到了 Yuu，他的另一个昵称是@提拉拉拉就是技术宅。其实很早就关注了微博，看他发了很多游戏、技术和外企福利。</p>
+
+<p>在我的印象中 Yuu 是一个活泼开朗，对技术生活都充满热情的人。和之前的<a target="_blank" href="https://talk.swift.gg/19">小 K </a>一样，我觉得这种生活态度很棒，值得学习。</p>
+
+<p>最后，这期录出来真的不容易！全程我这经历了三次断电。录制结束之后不到五分钟，经历第四次断电，并且持续了几个小时。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a target="_blank" href="https://talk.swift.gg/27">聊聊我们的编程启蒙经历</a></li>
+<li><a target="_blank" href="https://www.weibo.com/1401527553/GfJW8trpz">宇宙射线导致的位反转</a></li>
+<li><a target="_blank" href="https://www.zhihu.com/question/21747929/answer/310031007">《青藏高原》共振导致的硬盘 bug</a></li>
+<li>Yuu 的<a target="_blank" href="https://blog.yuusann.com">博客首页</a></li>
+<li>那篇<a target="_blank" href="https://blog.yuusann.com/posts/article/19006">讲框架的博文</a></li>
+<li>尼尔机械纪元<a target="_blank" href="https://www.bilibili.com/video/av39660438/?p=11">最后一集</a>，26 分开始弹幕游戏</li>
+<li>Yuu 的微博：<a target="_blank" href="https://www.weibo.com/trmbhs">@提拉拉拉就是技术宅</a></li>
+<li>梁杰的微博：<a target="_blank" href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>时间线：</p>
+<ul>
+<li>00:28  ggtalk 近期的三个优化</li>
+<li>02:18  个人介绍</li>
+<li>04:09  到底什么叫“技术宅”</li>
+<li>05:43  都有什么爱好</li>
+<li>13:31  大学做过什么有意思的事</li>
+<li>18:28  学硬件 vs 学软件</li>
+<li>25:15  工作经历 + 跳槽 LinkedIn + 外企的工作体验 + 职业规划</li>
+<li>44:21  个人博客的开发过程 + 为此开发的前后端框架</li>
+<li>58:46  最近在玩什么游戏 + 爱玩什么游戏</li>
+<li>01:10:25  为什么要做游戏直播 + 直播过程中有意思的事</li>
+<li>01:22:04  最后还有什么想说</li>
+</ul>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/50.mp3" length="81398018" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/50.mp3</guid>
+            <itunes:duration>01:24:39</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;本期专属&lt;a target=&quot;_blank&quot; href=&quot;https://talkcdn.swift.gg/jishuzhai_min.gif&quot;&gt; GIF 动图&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;先说一个事，从这期开始，我给音频加上了章节功能（感谢马达的建议）。在支持章节功能的应用中，可以直接点击跳转到对应的位置播放。&lt;/p&gt;
+
+&lt;p&gt;这期请到了 Yuu，他的另一个昵称是@提拉拉拉就是技术宅。其实很早就关注了微博，看他发了很多游戏、技术和外企福利。&lt;/p&gt;
+
+&lt;p&gt;在我的印象中 Yuu 是一个活泼开朗，对技术生活都充满热情的人。和之前的&lt;a target=&quot;_blank&quot; href=&quot;https://talk.swift.gg/19&quot;&gt;小 K &lt;/a&gt;一样，我觉得这种生活态度很棒，值得学习。&lt;/p&gt;
+
+&lt;p&gt;最后，这期录出来真的不容易！全程我这经历了三次断电。录制结束之后不到五分钟，经历第四次断电，并且持续了几个小时。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://talk.swift.gg/27&quot;&gt;聊聊我们的编程启蒙经历&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.weibo.com/1401527553/GfJW8trpz&quot;&gt;宇宙射线导致的位反转&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/question/21747929/answer/310031007&quot;&gt;《青藏高原》共振导致的硬盘 bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yuu 的&lt;a target=&quot;_blank&quot; href=&quot;https://blog.yuusann.com&quot;&gt;博客首页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;那篇&lt;a target=&quot;_blank&quot; href=&quot;https://blog.yuusann.com/posts/article/19006&quot;&gt;讲框架的博文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;尼尔机械纪元&lt;a target=&quot;_blank&quot; href=&quot;https://www.bilibili.com/video/av39660438/?p=11&quot;&gt;最后一集&lt;/a&gt;，26 分开始弹幕游戏&lt;/li&gt;
+&lt;li&gt;Yuu 的微博：&lt;a target=&quot;_blank&quot; href=&quot;https://www.weibo.com/trmbhs&quot;&gt;@提拉拉拉就是技术宅&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a target=&quot;_blank&quot; href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:28  ggtalk 近期的三个优化&lt;/li&gt;
+&lt;li&gt;02:18  个人介绍&lt;/li&gt;
+&lt;li&gt;04:09  到底什么叫“技术宅”&lt;/li&gt;
+&lt;li&gt;05:43  都有什么爱好&lt;/li&gt;
+&lt;li&gt;13:31  大学做过什么有意思的事&lt;/li&gt;
+&lt;li&gt;18:28  学硬件 vs 学软件&lt;/li&gt;
+&lt;li&gt;25:15  工作经历 + 跳槽 LinkedIn + 外企的工作体验 + 职业规划&lt;/li&gt;
+&lt;li&gt;44:21  个人博客的开发过程 + 为此开发的前后端框架&lt;/li&gt;
+&lt;li&gt;58:46  最近在玩什么游戏 + 爱玩什么游戏&lt;/li&gt;
+&lt;li&gt;01:10:25  为什么要做游戏直播 + 直播过程中有意思的事&lt;/li&gt;
+&lt;li&gt;01:22:04  最后还有什么想说&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,技术宅</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
