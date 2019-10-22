@@ -3940,7 +3940,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:episode>50</itunes:episode>
             <link>https://talk.swift.gg</link>
             <pubDate>Tue, 22 Oct 2019 07:20:00 CDT</pubDate>
-            <description>
+            <description><![CDATA[
 <p>本期专属<a target="_blank" href="https://talkcdn.swift.gg/jishuzhai_min.gif"> GIF 动图</a>。</p>
 
 <p>先说一个事，从这期开始，我给音频加上了章节功能（感谢马达的建议）。在支持章节功能的应用中，可以直接点击跳转到对应的位置播放。</p>
@@ -3977,7 +3977,7 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <li>58:46  最近在玩什么游戏 + 爱玩什么游戏</li>
 <li>01:10:25  为什么要做游戏直播 + 直播过程中有意思的事</li>
 <li>01:22:04  最后还有什么想说</li>
-</ul>
+</ul>]]>
             </description>
             <enclosure url="https://talkcdn.swift.gg/audio/50.mp3" length="81398018" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/50.mp3</guid>
