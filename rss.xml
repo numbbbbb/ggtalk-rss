@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 22 Oct 2019 07:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2019 03:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4025,6 +4025,93 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,技术宅</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊金融业务及系统</title>
+            <itunes:episode>51</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 29 Oct 2019 03:0
+                0:00 CDT</pubDate>
+            <description><![CDATA[
+<p>这期请来了在银行工作的普老师和星星，一块聊聊银行系统、银行工作体验、金融领域的外包以及各种趣事。</p>
+
+<p>第一部分介绍金融和银行系统。一个银行背后有多少套系统？系统之前如何交互？如何保证安全？除了这些大问题，我还问了一些开发人员感兴趣的小问题，比如银行系统如何处理精度问题，除不尽怎么办，金额字段在数据库里是什么类型等等。</p>
+
+<p>第二部分主要聊工作经历。普老师在行业内工作多年，从乙方外包公司一直做到甲方银行，积累了丰富的经验。星星虽然工作时间不长，但也参与了很多开发，接触过各种技术。在这部分中，我们重点讨论金融行业的外包机制，以及外包人员未来的发展方向。这部分延伸出来很多内容，哪怕不在金融行业工作，也推荐大家听听，很有意思。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>讨论中提到的各种东西：银保监会，ESB（Enterprise Service Bus），DB2，LPR（Loan Prime Rate 市场报价利率），麦肯锡，普华永道，德勤，毕马威，恒生电子</li>
+<li>星星的微博：<a href="https://www.weibo.com/moonisky">@星夜暮晨</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>时间线：</p>
+<ul>
+<li>00:42  个人介绍</li>
+<li>03:10  金融到底是什么</li>
+<li>06:14  常见的金融服务</li>
+<li>08:06  银行系统介绍</li>
+<li>12:19  银行系统的数据库</li>
+<li>14:47  各种安全措施</li>
+<li>18:26  数据库如何存“钱数” + 开发和运维隔离 + 金额精度问题</li>
+<li>32:14  ESB（企业服务总线）介绍</li>
+<li>39:18  银行 IT 建设的思路 + 哪些银行做得比较好</li>
+<li>42:30  中国人民银行的特殊之处</li>
+<li>51:09  支付宝这类平台到底是如何操作的</li>
+<li>55:16  传统银行和互联网银行的区别</li>
+<li>59:54  聊聊自己的工作经历 + 印象深刻的事</li>
+<li>01:13:51  金融行业的外包机制</li>
+<li>01:23:37  外包人员的发展方向</li>
+<li>01:30:03  咨询公司到底是做什么的</li>
+<li>01:41:26  如何处理甲方乙方的关系</li>
+<li>02:02:21  有没有什么理财建议 + 钱不多到底有没有必要理财 + 多少钱算大客户</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/51.mp3" length="127835459" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/51.mp3</guid>
+            <itunes:duration>02:13:02</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;这期请来了在银行工作的普老师和星星，一块聊聊银行系统、银行工作体验、金融领域的外包以及各种趣事。&lt;/p&gt;
+
+&lt;p&gt;第一部分介绍金融和银行系统。一个银行背后有多少套系统？系统之前如何交互？如何保证安全？除了这些大问题，我还问了一些开发人员感兴趣的小问题，比如银行系统如何处理精度问题，除不尽怎么办，金额字段在数据库里是什么类型等等。&lt;/p&gt;
+
+&lt;p&gt;第二部分主要聊工作经历。普老师在行业内工作多年，从乙方外包公司一直做到甲方银行，积累了丰富的经验。星星虽然工作时间不长，但也参与了很多开发，接触过各种技术。在这部分中，我们重点讨论金融行业的外包机制，以及外包人员未来的发展方向。这部分延伸出来很多内容，哪怕不在金融行业工作，也推荐大家听听，很有意思。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;讨论中提到的各种东西：银保监会，ESB（Enterprise Service Bus），DB2，LPR（Loan Prime Rate 市场报价利率），麦肯锡，普华永道，德勤，毕马威，恒生电子&lt;/li&gt;
+&lt;li&gt;星星的微博：&lt;a href=&quot;https://www.weibo.com/moonisky&quot;&gt;@星夜暮晨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:42  个人介绍&lt;/li&gt;
+&lt;li&gt;03:10  金融到底是什么&lt;/li&gt;
+&lt;li&gt;06:14  常见的金融服务&lt;/li&gt;
+&lt;li&gt;08:06  银行系统介绍&lt;/li&gt;
+&lt;li&gt;12:19  银行系统的数据库&lt;/li&gt;
+&lt;li&gt;14:47  各种安全措施&lt;/li&gt;
+&lt;li&gt;18:26  数据库如何存“钱数” + 开发和运维隔离 + 金额精度问题&lt;/li&gt;
+&lt;li&gt;32:14  ESB（企业服务总线）介绍&lt;/li&gt;
+&lt;li&gt;39:18  银行 IT 建设的思路 + 哪些银行做得比较好&lt;/li&gt;
+&lt;li&gt;42:30  中国人民银行的特殊之处&lt;/li&gt;
+&lt;li&gt;51:09  支付宝这类平台到底是如何操作的&lt;/li&gt;
+&lt;li&gt;55:16  传统银行和互联网银行的区别&lt;/li&gt;
+&lt;li&gt;59:54  聊聊自己的工作经历 + 印象深刻的事&lt;/li&gt;
+&lt;li&gt;01:13:51  金融行业的外包机制&lt;/li&gt;
+&lt;li&gt;01:23:37  外包人员的发展方向&lt;/li&gt;
+&lt;li&gt;01:30:03  咨询公司到底是做什么的&lt;/li&gt;
+&lt;li&gt;01:41:26  如何处理甲方乙方的关系&lt;/li&gt;
+&lt;li&gt;02:02:21  有没有什么理财建议 + 钱不多到底有没有必要理财 + 多少钱算大客户&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,金融服务,银行</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
