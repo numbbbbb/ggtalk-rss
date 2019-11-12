@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 5 Nov 2019 05:10:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2019 03:40:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4179,6 +4179,84 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,音视频技术</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>ggtalk 一周年！</title>
+            <itunes:episode>53</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 12 Nov 2019 03:40:00 CDT</pubDate>
+            <description><![CDATA[
+<p>稍微有点迟到的一周年特别节目！</p>
+
+<p>先和大家说声抱歉。最近由于升级为父亲，忙的焦头烂额，身体也非常虚弱，录制的时候状态不是很好，希望大家理解。如果这期听我说话别扭，可以试试加速。</p>
+
+<p>然后再说第二声抱歉，最近一两个月可能更新会不太稳定，还是同样的原因，我需要先把家人照顾好。如果顺利的话，我会尽快恢复更新，还有很多很多有意思的话题想聊。</p>
+
+<p>最后，感谢所有嘉宾，所有听众，还有翻译组的各位小伙伴。没有大家的支持，ggtalk 走不到今天，希望我们还能一起走更远。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>我们使用的<a href="https://github.com/numbbbbb/ggtalk-rss/blob/master/IPN%20%E5%BD%95%E9%9F%B3%E6%8C%87%E5%8D%97.md">录音说明</a></li>
+<li>我用到的剪辑软件：GarageBand，Audacity</li>
+<li>提到的其他播客：IT 那些事儿，捕蛇者说</li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>时间线：</p>
+<ul>
+<li>02:28  个人介绍</li>
+<li>03:40  为什么要做 ggtalk</li>
+<li>09:36  想把 ggtalk 做成什么样</li>
+<li>11:41  每期节目是怎么录制出来的</li>
+<li>20:18  一年来印象深刻的事</li>
+<li>47:09  这一年 ggtalk 的各项数据</li>
+<li>50:50  聊聊“钱”</li>
+<li>59:57  我对于邀请知名嘉宾的思考和顾虑</li>
+<li>01:02:06  目前 ggtalk 的短板、不足 + 如何克服</li>
+<li>01:08:36  读读听众反馈 + 回答各种问题</li>
+<li>01:28:27  各种感谢</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/53.mp3" length="89194572" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/53.mp3</guid>
+            <itunes:duration>01:32:46</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;稍微有点迟到的一周年特别节目！&lt;/p&gt;
+
+&lt;p&gt;先和大家说声抱歉。最近由于升级为父亲，忙的焦头烂额，身体也非常虚弱，录制的时候状态不是很好，希望大家理解。如果这期听我说话别扭，可以试试加速。&lt;/p&gt;
+
+&lt;p&gt;然后再说第二声抱歉，最近一两个月可能更新会不太稳定，还是同样的原因，我需要先把家人照顾好。如果顺利的话，我会尽快恢复更新，还有很多很多有意思的话题想聊。&lt;/p&gt;
+
+&lt;p&gt;最后，感谢所有嘉宾，所有听众，还有翻译组的各位小伙伴。没有大家的支持，ggtalk 走不到今天，希望我们还能一起走更远。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;我们使用的&lt;a href=&quot;https://github.com/numbbbbb/ggtalk-rss/blob/master/IPN%20%E5%BD%95%E9%9F%B3%E6%8C%87%E5%8D%97.md&quot;&gt;录音说明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;我用到的剪辑软件：GarageBand，Audacity&lt;/li&gt;
+&lt;li&gt;提到的其他播客：IT 那些事儿，捕蛇者说&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;02:28  个人介绍&lt;/li&gt;
+&lt;li&gt;03:40  为什么要做 ggtalk&lt;/li&gt;
+&lt;li&gt;09:36  想把 ggtalk 做成什么样&lt;/li&gt;
+&lt;li&gt;11:41  每期节目是怎么录制出来的&lt;/li&gt;
+&lt;li&gt;20:18  一年来印象深刻的事&lt;/li&gt;
+&lt;li&gt;47:09  这一年 ggtalk 的各项数据&lt;/li&gt;
+&lt;li&gt;50:50  聊聊“钱”&lt;/li&gt;
+&lt;li&gt;59:57  我对于邀请知名嘉宾的思考和顾虑&lt;/li&gt;
+&lt;li&gt;01:02:06  目前 ggtalk 的短板、不足 + 如何克服&lt;/li&gt;
+&lt;li&gt;01:08:36  读读听众反馈 + 回答各种问题&lt;/li&gt;
+&lt;li&gt;01:28:27  各种感谢&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,ggtalk</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
