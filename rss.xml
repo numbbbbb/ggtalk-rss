@@ -16,8 +16,8 @@
         </description>
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
-        <atom:link href="https://talk.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Nov 2019 03:40:00 CDT</lastBuildDate>
+        <atom:link href="https://talkcdn.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 19 Nov 2019 01:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4257,6 +4257,100 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,ggtalk</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>继续深造还是步入社会，好难选啊！</title>
+            <itunes:episode>54</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 19 Nov 2019 01:50:00 CDT</pubDate>
+            <description><![CDATA[
+<p>最近有听众问我，作为应届生，是否应该选择继续读研。这确实是个值得一说的话题，本期我们就来好好聊聊，工作、读研、留学，到底如何选择。</p>
+
+<p>首先掌声欢迎主持人磊子（a.k.a. 瓜神全球粉丝后援团团长）！在节目更新即将进入叠加态前，磊子出手进行了观测，于是节目更新暂时回归稳定。</p>
+
+<p>这里顺便再说一下，目前合适的主题很多，但是我自己很难找到合适的时间录制，万事俱备只欠主持。所以如果有人想来尝试下做主持人，可以和我联系，我会给你足够的指导和帮助。</p>
+
+<p>本期参与录制的是（微软）磊子，（字节跳动）冬瓜，（Google）Cee。他们三人刚好对应三种选择：直接工作、继续读研和出国留学。我们无法简单的给出答案，但是可以给大家讲讲自己的亲身经历，讲讲我们做了什么想了什么，希望能给大家一些启发。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>蓉老师联系方式，微信：saitjr123，QQ：291767410，邮箱：tangjiarong@bytedance.com</li>
+<li>瓜神邮箱：harry.duan@bytedance.com</li>
+<li>节目里提到的各种东西：Nest Hub，Nest Mini，Coursera，edX，ACM ICPC</li>
+<li>Cee 之前的节目：<a href="https://talk.swift.gg/8">和 Cee 聊聊如何拿 Google Offer</a></li>
+<li>Yuu 之前的节目：<a href="https://talk.swift.gg/49">什么叫技术宅啊.gif</a></li>
+<li>瓜神公众号：让技术一瓜共食（tech_gua）</li>
+<li>瓜神的刷题网站：<a href="http://disscode.com/">DissCode</a></li>
+<li>磊子的微博：<a href="https://www.weibo.com/u/1922768971">@进击的磊子现已成为肚皮怪</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>时间线：</p>
+<ul>
+<li>02:37  个人介绍</li>
+<li>05:00  本科毕业时候是如何选择的</li>
+<li>10:57  为此做了哪些准备工作</li>
+<li>24:10  回顾本科毕业这几年，有什么印象深刻的事</li>
+<li>34:25  聊聊周围的同学朋友，他们当年如何选择，现状是什么样</li>
+<li>43:51  如果再给你一次机会，你还会做同样的选择吗</li>
+<li>54:24  找工作时，学历到底重要不重要</li>
+<li>01:00:00  读研和留学性价比高不高，对自己的提升大不大</li>
+<li>01:04:34  学历对未来的职业发展有多大影响</li>
+<li>01:11:01  做选择之前要先了解自己，如何对自己有清晰的定位</li>
+<li>01:17:34  作为学生，有哪些渠道可以了解就业市场</li>
+<li>01:28:08  分享一些职场经验</li>
+<li>01:39:07  最后有什么想说</li>
+<li>01:48:20  瓜神最近在做的两个事情</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/54.mp3" length="106672269" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/54.mp3</guid>
+            <itunes:duration>01:50:59</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;最近有听众问我，作为应届生，是否应该选择继续读研。这确实是个值得一说的话题，本期我们就来好好聊聊，工作、读研、留学，到底如何选择。&lt;/p&gt;
+
+&lt;p&gt;首先掌声欢迎主持人磊子（a.k.a. 瓜神全球粉丝后援团团长）！在节目更新即将进入叠加态前，磊子出手进行了观测，于是节目更新暂时回归稳定。&lt;/p&gt;
+
+&lt;p&gt;这里顺便再说一下，目前合适的主题很多，但是我自己很难找到合适的时间录制，万事俱备只欠主持。所以如果有人想来尝试下做主持人，可以和我联系，我会给你足够的指导和帮助。&lt;/p&gt;
+
+&lt;p&gt;本期参与录制的是（微软）磊子，（字节跳动）冬瓜，（Google）Cee。他们三人刚好对应三种选择：直接工作、继续读研和出国留学。我们无法简单的给出答案，但是可以给大家讲讲自己的亲身经历，讲讲我们做了什么想了什么，希望能给大家一些启发。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;蓉老师联系方式，微信：saitjr123，QQ：291767410，邮箱：tangjiarong@bytedance.com&lt;/li&gt;
+&lt;li&gt;瓜神邮箱：harry.duan@bytedance.com&lt;/li&gt;
+&lt;li&gt;节目里提到的各种东西：Nest Hub，Nest Mini，Coursera，edX，ACM ICPC&lt;/li&gt;
+&lt;li&gt;Cee 之前的节目：&lt;a href=&quot;https://talk.swift.gg/8&quot;&gt;和 Cee 聊聊如何拿 Google Offer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yuu 之前的节目：&lt;a href=&quot;https://talk.swift.gg/49&quot;&gt;什么叫技术宅啊.gif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;瓜神公众号：让技术一瓜共食（tech_gua）&lt;/li&gt;
+&lt;li&gt;瓜神的刷题网站：&lt;a href=&quot;http://disscode.com/&quot;&gt;DissCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;磊子的微博：&lt;a href=&quot;https://www.weibo.com/u/1922768971&quot;&gt;@进击的磊子现已成为肚皮怪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;02:37  个人介绍&lt;/li&gt;
+&lt;li&gt;05:00  本科毕业时候是如何选择的&lt;/li&gt;
+&lt;li&gt;10:57  为此做了哪些准备工作&lt;/li&gt;
+&lt;li&gt;24:10  回顾本科毕业这几年，有什么印象深刻的事&lt;/li&gt;
+&lt;li&gt;34:25  聊聊周围的同学朋友，他们当年如何选择，现状是什么样&lt;/li&gt;
+&lt;li&gt;43:51  如果再给你一次机会，你还会做同样的选择吗&lt;/li&gt;
+&lt;li&gt;54:24  找工作时，学历到底重要不重要&lt;/li&gt;
+&lt;li&gt;01:00:00  读研和留学性价比高不高，对自己的提升大不大&lt;/li&gt;
+&lt;li&gt;01:04:34  学历对未来的职业发展有多大影响&lt;/li&gt;
+&lt;li&gt;01:11:01  做选择之前要先了解自己，如何对自己有清晰的定位&lt;/li&gt;
+&lt;li&gt;01:17:34  作为学生，有哪些渠道可以了解就业市场&lt;/li&gt;
+&lt;li&gt;01:28:08  分享一些职场经验&lt;/li&gt;
+&lt;li&gt;01:39:07  最后有什么想说&lt;/li&gt;
+&lt;li&gt;01:48:20  瓜神最近在做的两个事情&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,毕业,读研,研究生,留学,工作</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
