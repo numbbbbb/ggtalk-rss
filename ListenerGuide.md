@@ -12,7 +12,7 @@
 >
 >     ——梁杰
 
-莲叔是 ggtalk 的命名人，也是 ggtalk 乃至 SwiftGG 翻译组的核心人物。莲叔技术实力过硬，谈吐风趣幽默，能把各种复杂的问题用简单直接的方式讲明白。如果你还没听过莲叔节目，可以从[《创业那点事：听莲叔和羊叔回忆峥嵘岁月》](https://talk.swift.gg/9)开始听起。
+莲叔是 ggtalk 的命名人，也是 ggtalk 乃至 SwiftGG 翻译组的核心人物。莲叔技术实力过硬，谈吐风趣幽默，能把各种复杂的问题用简单直接的方式讲明白。如果你还没听过莲叔节目，可以从[《创业那点事：听莲叔和羊叔回忆峥嵘岁月》](https://talk.swift.gg/8)开始听起。
 
 [莲叔的所有节目](https://talk.swift.gg/search?q=莲叔)
 
@@ -22,58 +22,58 @@
 
 套用那句俗话：工作这件事没有银弹。但是我们有许多经验丰富的朋友，在 ggtalk 分享他们的经历和思考。迷茫的时候听听过来人的建议，相信会对你有帮助。
 
-- [《聊聊程序员的升职加薪（上）》](https://talk.swift.gg/1)
-- [《聊聊程序员的升职加薪（下）》](https://talk.swift.gg/5)
-- [《狭义跳槽论：面试官，大厂新人和准备起跳的某 C》](https://talk.swift.gg/13)
-- [《广义跳槽论：简洁明了的方法论》](https://talk.swift.gg/14)
-- [《向架构进发》](https://talk.swift.gg/27)
-- [《某 C 的微信入职经验分享》](https://talk.swift.gg/33)
+- [《聊聊程序员的升职加薪（上）》](https://talk.swift.gg/0)
+- [《聊聊程序员的升职加薪（下）》](https://talk.swift.gg/4)
+- [《狭义跳槽论：面试官，大厂新人和准备起跳的某 C》](https://talk.swift.gg/12)
+- [《广义跳槽论：简洁明了的方法论》](https://talk.swift.gg/13)
+- [《向架构进发》](https://talk.swift.gg/26)
+- [《某 C 的微信入职经验分享》](https://talk.swift.gg/32)
 
 ### 创业
 
 创业还是不创业，这是一个问题。每个年轻人都有一个创业梦，每个不年轻的人都有一段惨痛的创业经历。听听我们的创业故事，在欢声笑语中认清残酷的现实。
 
-- [《创业那点事：听莲叔和羊叔回忆峥嵘岁月》](https://talk.swift.gg/10)
-- [《创业那点事：普通开发者的回忆、反思和迷茫》](https://talk.swift.gg/11)
-- [《创业那点事：逆流而上的泊学》](https://talk.swift.gg/12)
+- [《创业那点事：听莲叔和羊叔回忆峥嵘岁月》](https://talk.swift.gg/9)
+- [《创业那点事：普通开发者的回忆、反思和迷茫》](https://talk.swift.gg/10)
+- [《创业那点事：逆流而上的泊学》](https://talk.swift.gg/11)
 
 ### 国外生活
 
 ggtalk 真正意义上的第一个系列话题，邀请在国外学习、工作和生活的朋友来分享自己的所见所得。出国没有好不好，只有合适不合适，希望大家都能过上自己想要的生活。
 
-- [《聊聊英国的工作和生活》](https://talk.swift.gg/45)
+- [《聊聊英国的工作和生活》](https://talk.swift.gg/44)
 - [国外生活的所有节目](https://talk.swift.gg/search?q=国外生活)
 
 ### 如果你还没毕业……
 
 那这些话题你应该会感兴趣：
 
-- [《和 Cee 聊聊如何拿 Google Offer》](https://talk.swift.gg/9)
-- [《如何（连续两次）获得 WWDC Scholarship》](https://talk.swift.gg/21)
-- [《聊聊高考报志愿和我们的大学生活》](https://talk.swift.gg/37)
-- [《水水的 2020 校招经历》](https://talk.swift.gg/38)
-- [《继续深造还是步入社会，好难选啊！》](https://talk.swift.gg/54)
+- [《和 Cee 聊聊如何拿 Google Offer》](https://talk.swift.gg/8)
+- [《如何（连续两次）获得 WWDC Scholarship》](https://talk.swift.gg/20)
+- [《聊聊高考报志愿和我们的大学生活》](https://talk.swift.gg/36)
+- [《水水的 2020 校招经历》](https://talk.swift.gg/37)
+- [《继续深造还是步入社会，好难选啊！》](https://talk.swift.gg/53)
 
 ### 转行
 
 正在进行中的新系列，后续会录制更多有意思的内容：
 
-- [《如何用三个月转行深度学习》](https://talk.swift.gg/35)
-- [《从石油到 iOS，听听思琦的转行经历》](https://talk.swift.gg/46)
+- [《如何用三个月转行深度学习》](https://talk.swift.gg/34)
+- [《从石油到 iOS，听听思琦的转行经历》](https://talk.swift.gg/45)
 
 ### 如果以上内容你都不感兴趣……
 
 那就从下面的列表中随便选一个听吧！ggtalk 最不缺的就是有趣的人和有趣的事，无论标题是否吸引你，先听再下结论。
 
-- [《我都花时间搭博客了，为什么还要花时间写？》](https://talk.swift.gg/2)
-- [《程序员的春节趣事》](https://talk.swift.gg/15)
-- [《辞职环游中国的程序员小 K》](https://talk.swift.gg/20)
-- [《区块链到底能干嘛？》](https://talk.swift.gg/23)
-- [《“家里蹲”到底什么感觉》](https://talk.swift.gg/25)
-- [《聊聊我们的编程启蒙经历》](https://talk.swift.gg/28)
-- [《日式美学小记》](https://talk.swift.gg/32)
-- [《游戏加速纵横谈》](https://talk.swift.gg/44)
-- [《什么叫技术宅啊.gif》](https://talk.swift.gg/50)
+- [《我都花时间搭博客了，为什么还要花时间写？》](https://talk.swift.gg/1)
+- [《程序员的春节趣事》](https://talk.swift.gg/14)
+- [《辞职环游中国的程序员小 K》](https://talk.swift.gg/19)
+- [《区块链到底能干嘛？》](https://talk.swift.gg/22)
+- [《“家里蹲”到底什么感觉》](https://talk.swift.gg/24)
+- [《聊聊我们的编程启蒙经历》](https://talk.swift.gg/27)
+- [《日式美学小记》](https://talk.swift.gg/31)
+- [《游戏加速纵横谈》](https://talk.swift.gg/43)
+- [《什么叫技术宅啊.gif》](https://talk.swift.gg/49)
 
 ---
 
