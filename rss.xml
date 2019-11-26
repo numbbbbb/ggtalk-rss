@@ -16,8 +16,8 @@
         </description>
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
-        <atom:link href="https://talkcdn.swift.gg/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Nov 2019 01:50:00 CDT</lastBuildDate>
+        <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 26 Nov 2019 03:40:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4355,6 +4355,90 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,毕业,读研,研究生,留学,工作</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊跑步这件小事</title>
+            <itunes:episode>55</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 26 Nov 2019 03:40:00 CDT</pubDate>
+            <description><![CDATA[
+<p>感谢 Eroys 主持和录制本期节目！这期 Eroys 和小曾同学聊聊跑步、马拉松和徒步。</p>
+
+<p>作为一个不再年轻的程序员，除了头发变少，最明显的感受就是健康状况越来越差。跑几步就喘，爬几层就累。身体不仅是革命的本钱，也是幸福生活、努力工作的基础。借着这期节目，希望大家也都能运动起来。</p>
+
+<p>最后想说，是真的羡慕身体好的年轻人。想想我上学时候，跑个 1000 米都要命……</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://talk.swift.gg/guide">新听众指南</a></li>
+<li><a href="https://www.zhihu.com/question/36708791
+">马拉松的“撞墙”</a></li>
+<li><a href="https://www.zhihu.com/question/22507326
+">马拉松关门时间</a></li>
+<li><a href="http://sports.sina.com.cn/run/2016-12-23/doc-ifxyxusa4959323.shtml
+">世界马拉松大满贯</a></li>
+<li><a href="http://www.autourdumontblanc.com/en/
+">徒步勃朗峰-官网</a></li>
+<li><a href="http://www.autourdumontblanc.com/en/">环勃朗峰超级越野耐力赛-官网</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>时间线：</p>
+<ul>
+<li>02:40  个人介绍</li>
+<li>06:01  从什么时候开始跑步 + 有趣的事</li>
+<li>13:20  为什么想跑马拉松 + 第一次马拉松的经历</li>
+<li>24:07  其他四场马拉松 + 如何选择马拉松</li>
+<li>31:37  马拉松完赛时间的变化 + 下一场想去哪里跑</li>
+<li>38:41  减肥的成果如何 + 国内外的跑步风气</li>
+<li>46:54  怎么想到去徒步勃朗峰 + 徒步经历 + 之后的徒步计划</li>
+<li>01:06:05  不擅长运动的人，如何开始运动</li>
+<li>01:11:52  最后有什么想说</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/55.mp3" length="71196753" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/55.mp3</guid>
+            <itunes:duration>01:14:02</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;感谢 Eroys 主持和录制本期节目！这期 Eroys 和小曾同学聊聊跑步、马拉松和徒步。&lt;/p&gt;
+
+&lt;p&gt;作为一个不再年轻的程序员，除了头发变少，最明显的感受就是健康状况越来越差。跑几步就喘，爬几层就累。身体不仅是革命的本钱，也是幸福生活、努力工作的基础。借着这期节目，希望大家也都能运动起来。&lt;/p&gt;
+
+&lt;p&gt;最后想说，是真的羡慕身体好的年轻人。想想我上学时候，跑个 1000 米都要命……&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/question/36708791
+&quot;&gt;马拉松的“撞墙”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/question/22507326
+&quot;&gt;马拉松关门时间&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sports.sina.com.cn/run/2016-12-23/doc-ifxyxusa4959323.shtml
+&quot;&gt;世界马拉松大满贯&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.autourdumontblanc.com/en/
+&quot;&gt;徒步勃朗峰-官网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.autourdumontblanc.com/en/&quot;&gt;环勃朗峰超级越野耐力赛-官网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;02:40  个人介绍&lt;/li&gt;
+&lt;li&gt;06:01  从什么时候开始跑步 + 有趣的事&lt;/li&gt;
+&lt;li&gt;13:20  为什么想跑马拉松 + 第一次马拉松的经历&lt;/li&gt;
+&lt;li&gt;24:07  其他四场马拉松 + 如何选择马拉松&lt;/li&gt;
+&lt;li&gt;31:37  马拉松完赛时间的变化 + 下一场想去哪里跑&lt;/li&gt;
+&lt;li&gt;38:41  减肥的成果如何 + 国内外的跑步风气&lt;/li&gt;
+&lt;li&gt;46:54  怎么想到去徒步勃朗峰 + 徒步经历 + 之后的徒步计划&lt;/li&gt;
+&lt;li&gt;01:06:05  不擅长运动的人，如何开始运动&lt;/li&gt;
+&lt;li&gt;01:11:52  最后有什么想说&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,跑步,马拉松,徒步</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
