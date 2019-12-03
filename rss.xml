@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 26 Nov 2019 03:40:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 3 Dec 2019 03:40:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4439,6 +4439,88 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,swift,swiftgg,跑步,马拉松,徒步</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>法律维权，其实离你我都不遥远</title>
+            <itunes:episode>56</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 3 Dec 2019 03:40:00 CDT</pubDate>
+            <description><![CDATA[
+<p>这期还是 Eroys 来主持，和《捕蛇者说》的主持人之一 Manjusaka 一起聊聊维权。</p>
+
+<p>印象中在朋友圈看到过三四次 Manjusaka 的维权经历，买到过期商品、滴滴擅自修改默认车型、商家擅自加微信宣传等等。看起来都是小事，但每次都看到 Manjusaka 严肃的表明态度，列出商家违反的法律法规，都让我很是佩服。</p>
+
+<p>法律和维权，离我们普通人似乎非常遥远。但 Manjusaka 的经历让我意识到，法律和每个人息息相关。我们应该具备基础的法律知识和维权意识，做一个“较真”的人，用自己的努力去影响和改变环境。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://pythonhunter.org/">《捕蛇者说》</a></li>
+<li>Manjusaka 之前写过的：<a href="https://github.com/numbbbbb/ggtalk-rss/blob/master/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BB%B4%E6%9D%83%E7%BB%8F%E5%8E%86%20-%20Manjusaka.png?raw=true">《记录一次维权经历》</a></li>
+<li>和客服沟通的：<a href="https://shimo.im/docs/h9Q9yyTgcdCwCcdG/">模板</a></li>
+<li><a href="http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=da814402b7af4f2a9f2aa8cc0010dbb4">GPL 协议的判例</a></li>
+<li><a href="https://splcgk.court.gov.cn/gzfwww//sszn">GPL 民事诉讼相关服务指南</a></li>
+<li>三星手机爆炸事件当事人：<a href="https://www.zhihu.com/people/husky0708/activities">@不老的老回-知乎</a></li>
+<li><a href="https://m.sohu.com/a/357545257_120146415?spm=smwp.media.fd-s.1.1575213210479oXmIope">《华为前员工获30万离职补偿后被控敲诈勒索-被羁押251天》</a></li>
+<li><a href="http://www.court.gov.cn">中华人民共和国最高人民法院</a>，有很多有用的链接</li>
+<li>Manjusaka 的：<a href="https://manjusaka.itscoder.com/">博客</a>，<a href="https://www.zhihu.com/people/li-zhe-ao/activities">知乎</a>，<a href="https://twitter.com/Manjusaka_Lee?s=09">Twitter</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>00:45  个人介绍</li>
+<li>02:44  维权的经历</li>
+<li>09:53  如何判断自己的权益受到侵犯 + 常见的维权流程和方式</li>
+<li>30:28  维权过程中遇到过什么不顺利的事 + 关于理性和感性的讨论</li>
+<li>37:01  最早是因为什么维权 + 维权的意义</li>
+<li>48:18  还有什么维权的 tips 可以分享</li>
+<li>55:29  最后有什么想说</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/56.mp3" length="55503891" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/56.mp3</guid>
+            <itunes:duration>00:57:41</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;这期还是 Eroys 来主持，和《捕蛇者说》的主持人之一 Manjusaka 一起聊聊维权。&lt;/p&gt;
+
+&lt;p&gt;印象中在朋友圈看到过三四次 Manjusaka 的维权经历，买到过期商品、滴滴擅自修改默认车型、商家擅自加微信宣传等等。看起来都是小事，但每次都看到 Manjusaka 严肃的表明态度，列出商家违反的法律法规，都让我很是佩服。&lt;/p&gt;
+
+&lt;p&gt;法律和维权，离我们普通人似乎非常遥远。但 Manjusaka 的经历让我意识到，法律和每个人息息相关。我们应该具备基础的法律知识和维权意识，做一个“较真”的人，用自己的努力去影响和改变环境。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pythonhunter.org/&quot;&gt;《捕蛇者说》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Manjusaka 之前写过的：&lt;a href=&quot;https://github.com/numbbbbb/ggtalk-rss/blob/master/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E7%BB%B4%E6%9D%83%E7%BB%8F%E5%8E%86%20-%20Manjusaka.png?raw=true&quot;&gt;《记录一次维权经历》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;和客服沟通的：&lt;a href=&quot;https://shimo.im/docs/h9Q9yyTgcdCwCcdG/&quot;&gt;模板&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=da814402b7af4f2a9f2aa8cc0010dbb4&quot;&gt;GPL 协议的判例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://splcgk.court.gov.cn/gzfwww//sszn&quot;&gt;GPL 民事诉讼相关服务指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;三星手机爆炸事件当事人：&lt;a href=&quot;https://www.zhihu.com/people/husky0708/activities&quot;&gt;@不老的老回-知乎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.sohu.com/a/357545257_120146415?spm=smwp.media.fd-s.1.1575213210479oXmIope&quot;&gt;《华为前员工获30万离职补偿后被控敲诈勒索-被羁押251天》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.court.gov.cn&quot;&gt;中华人民共和国最高人民法院&lt;/a&gt;，有很多有用的链接&lt;/li&gt;
+&lt;li&gt;Manjusaka 的：&lt;a href=&quot;https://manjusaka.itscoder.com/&quot;&gt;博客&lt;/a&gt;，&lt;a href=&quot;https://www.zhihu.com/people/li-zhe-ao/activities&quot;&gt;知乎&lt;/a&gt;，&lt;a href=&quot;https://twitter.com/Manjusaka_Lee?s=09&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:45  个人介绍&lt;/li&gt;
+&lt;li&gt;02:44  维权的经历&lt;/li&gt;
+&lt;li&gt;09:53  如何判断自己的权益受到侵犯 + 常见的维权流程和方式&lt;/li&gt;
+&lt;li&gt;30:28  维权过程中遇到过什么不顺利的事 + 关于理性和感性的讨论&lt;/li&gt;
+&lt;li&gt;37:01  最早是因为什么维权 + 维权的意义&lt;/li&gt;
+&lt;li&gt;48:18  还有什么维权的 tips 可以分享&lt;/li&gt;
+&lt;li&gt;55:29  最后有什么想说&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,法律维权</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
