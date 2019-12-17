@@ -17,7 +17,7 @@
             <language>zh-cn</language>
             <copyright>Swift.GG copyright 2019</copyright>
             <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-            <lastBuildDate>Tue, 3 Dec 2019 03:40:00 CDT</lastBuildDate>
+            <lastBuildDate>Tue, 16 Dec 2019 06:15:00 CDT</lastBuildDate>
             <itunes:author>梁杰</itunes:author>
             <itunes:summary>
     接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4523,5 +4523,87 @@
                 <itunes:keywords>程序员,开发,开发者,swift,swiftgg,法律维权</itunes:keywords>
               <itunes:explicit>no</itunes:explicit>
             </item>
+            <item>
+            <title>/德国/博士/开源/写书/Go</title>
+            <itunes:episode>57</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 16 Dec 2019 06:15:00 CDT</pubDate>
+            <description><![CDATA[
+<p>这期请到了在德国读博的欧长坤。Go contributor，C++ 教程作者，德语教程作者，正在写 Go 的书籍。话题很多，这也是为什么这期的标题如此特殊。</p>
+
+<p>这期我们也有了一位新主持人 Jake，感谢他抽出时间准备的录制这期节目。Jake 是第一次尝试做主持人，有什么不足之处也希望大家理解。每次录完我们都会总结存在的问题，讨论改进的方法，把节目办得更好。</p>
+
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://changkun.de">欧长坤的主页</a></li>
+<li><a href="https://changkun.us">欧长坤的博客</a></li>
+<li><a href="https://changkun.de/modern-cpp">现代 C++ 教程</a></li>
+<li><a href="https://changkun.de/golang">Go 语言原本</a></li>
+<li><a href="https://github.com/changkun/german-tutorial">德语教程</a></li>
+<li><a href="https://github.com/golang/dep">dep 包管理工具</a></li>
+<li><a href="https://research.swtch.com/vgo">vgo 系列文章</a></li>
+<li><a href="https://arewefastyet.com/">浏览器性能比较</a></li>
+<li>“了解一门学科未来最好的办法，就是去了解它的历史。” ——<a https://book.douban.com/subject/1049136/">《数学：确定性的丧失》</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>01:16  个人介绍</li>
+<li>01:38  为什么出国 + 出国的过程</li>
+<li>07:20  为什么决定读博 + 经验分享</li>
+<li>28:13  在德国找工作的难度</li>
+<li>29:42  德国生活的方方面面</li>
+<li>53:04  开源项目和 Go</li>
+<li>01:27:01  对未来有什么计划</li>
+<li>01:32:22  是否应该出国</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/57.mp3" length="92382091" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/57.mp3</guid>
+            <itunes:duration>01:36:05</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;这期请到了在德国读博的欧长坤。Go contributor，C++ 教程作者，德语教程作者，正在写 Go 的书籍。话题很多，这也是为什么这期的标题如此特殊。&lt;/p&gt;
+
+&lt;p&gt;这期我们也有了一位新主持人 Jake，感谢他抽出时间准备的录制这期节目。Jake 是第一次尝试做主持人，有什么不足之处也希望大家理解。每次录完我们都会总结存在的问题，讨论改进的方法，把节目办得更好。&lt;/p&gt;
+
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://changkun.de&quot;&gt;欧长坤的主页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://changkun.us&quot;&gt;欧长坤的博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://changkun.de/modern-cpp&quot;&gt;现代 C++ 教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://changkun.de/golang&quot;&gt;Go 语言原本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/changkun/german-tutorial&quot;&gt;德语教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/golang/dep&quot;&gt;dep 包管理工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://research.swtch.com/vgo&quot;&gt;vgo 系列文章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://arewefastyet.com/&quot;&gt;浏览器性能比较&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“了解一门学科未来最好的办法，就是去了解它的历史。” ——&lt;a https://book.douban.com/subject/1049136/&quot;&gt;《数学：确定性的丧失》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01:16  个人介绍&lt;/li&gt;
+&lt;li&gt;01:38  为什么出国 + 出国的过程&lt;/li&gt;
+&lt;li&gt;07:20  为什么决定读博 + 经验分享&lt;/li&gt;
+&lt;li&gt;28:13  在德国找工作的难度&lt;/li&gt;
+&lt;li&gt;29:42  德国生活的方方面面&lt;/li&gt;
+&lt;li&gt;53:04  开源项目和 Go&lt;/li&gt;
+&lt;li&gt;01:27:01  对未来有什么计划&lt;/li&gt;
+&lt;li&gt;01:32:22  是否应该出国&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,swift,swiftgg,德国,博士,Go</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
         </channel>
     </rss>
