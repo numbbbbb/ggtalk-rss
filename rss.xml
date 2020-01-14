@@ -17,7 +17,7 @@
             <language>zh-cn</language>
             <copyright>Swift.GG copyright 2019</copyright>
             <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-            <lastBuildDate>Tue, 31 Dec 2019 06:55:00 CDT</lastBuildDate>
+            <lastBuildDate>Tue, 14 Jan 2019 04:40:00 CDT</lastBuildDate>
             <itunes:author>梁杰</itunes:author>
             <itunes:summary>
     接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4663,6 +4663,78 @@
                 </itunes:summary>
                 <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
                 <itunes:keywords>程序员,开发,开发者,swift,swiftgg,苏州,微软</itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+            <item>
+                <title>从 PHP 开发到腾讯教育云技术负责人，SwiftGG 真·大佬——羊叔的故事</title>
+                <itunes:episode>59</itunes:episode>
+                <link>https://talk.swift.gg</link>
+                <pubDate>Tue, 14 Jan 2019 04:40:00 CDT</pubDate>
+                <description><![CDATA[
+    <p>各位听众朋友好久不见！我又回来啦！这期请来了翻译组资深成员，翻译组和 ggtalk 的（金钱）支柱，我曾经的老大，现腾讯教育云技术负责人，技术能力和业务能力都很强并且有丰富的创业经历，虽然自称失败人士但生活事业资产都在群里名列前茅的——羊叔，来好好聊聊他的故事。</p>
+
+    <p>羊叔的经历很神奇，高考选专业阴差阳错读了计算机，第一次上机都找不到开机键在哪。 07 年研究生毕业加入腾讯，工作四年之后离职，投身移动互联网的创业浪潮。创业四年，试过了各种方向都没有成功，最后再次回到腾讯，在产业互联网这条新赛道上继续策马扬鞭。</p>
+
+    <p>除了丰富的工作经历，作为已经跨过 35 岁大坎的人，羊叔还会和我们分享关于中年危机的感受和思考。没必要过度夸大，但确实应该做好准备，找到自己心灵的支点。</p>
+
+    <p>最后，羊叔的团队在招聘运营，感兴趣的朋友可以发邮件咨询。羊叔的邮箱：beyondstorm@gmail.com。</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+    </ul>
+
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+    <p>时间线：</p>
+    <ul>
+    <li>01:20  个人介绍 + 本期背景介绍</li>
+    <li>10:59  一个亿的大项目！</li>
+    <li>15:48  职业生涯的开始：刚毕业的时候是什么状态</li>
+    <li>28:31  职业生涯的现状：目前是什么状态</li>
+    <li>36:42  中间的故事：腾讯，创业，再回腾讯</li>
+    <li>01:18:31  回顾整个职业生涯，有哪些影响重大的转折点</li>
+    <li>01:24:59  中年危机</li>
+    <li>01:41:23  对之后的发展有什么规划</li>
+    <li>01:46:02  对年轻人有什么想说的</li>
+    </ul>]]>
+                </description>
+                <enclosure url="https://talkcdn.swift.gg/audio/59.mp3" length="105196484" type="audio/mpeg" />
+                <guid>https://talkcdn.swift.gg/audio/59.mp3</guid>
+                <itunes:duration>01:49:27</itunes:duration>
+                <itunes:summary>
+    &lt;p&gt;各位听众朋友好久不见！我又回来啦！这期请来了翻译组资深成员，翻译组和 ggtalk 的（金钱）支柱，我曾经的老大，现腾讯教育云技术负责人，技术能力和业务能力都很强并且有丰富的创业经历，虽然自称失败人士但生活事业资产都在群里名列前茅的——羊叔，来好好聊聊他的故事。&lt;/p&gt;
+
+    &lt;p&gt;羊叔的经历很神奇，高考选专业阴差阳错读了计算机，第一次上机都找不到开机键在哪。 07 年研究生毕业加入腾讯，工作四年之后离职，投身移动互联网的创业浪潮。创业四年，试过了各种方向都没有成功，最后再次回到腾讯，在产业互联网这条新赛道上继续策马扬鞭。&lt;/p&gt;
+
+    &lt;p&gt;除了丰富的工作经历，作为已经跨过 35 岁大坎的人，羊叔还会和我们分享关于中年危机的感受和思考。没必要过度夸大，但确实应该做好准备，找到自己心灵的支点。&lt;/p&gt;
+
+    &lt;p&gt;最后，羊叔的团队在招聘运营，感兴趣的朋友可以发邮件咨询。羊叔的邮箱：beyondstorm@gmail.com。&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;时间线：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;01:20  个人介绍 + 本期背景介绍&lt;/li&gt;
+    &lt;li&gt;10:59  一个亿的大项目！&lt;/li&gt;
+    &lt;li&gt;15:48  职业生涯的开始：刚毕业的时候是什么状态&lt;/li&gt;
+    &lt;li&gt;28:31  职业生涯的现状：目前是什么状态&lt;/li&gt;
+    &lt;li&gt;36:42  中间的故事：腾讯，创业，再回腾讯&lt;/li&gt;
+    &lt;li&gt;01:18:31  回顾整个职业生涯，有哪些影响重大的转折点&lt;/li&gt;
+    &lt;li&gt;01:24:59  中年危机&lt;/li&gt;
+    &lt;li&gt;01:41:23  对之后的发展有什么规划&lt;/li&gt;
+    &lt;li&gt;01:46:02  对年轻人有什么想说的&lt;/li&gt;
+    &lt;/ul&gt;
+                </itunes:summary>
+                <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+                <itunes:keywords>程序员,开发,开发者,swift,羊叔</itunes:keywords>
               <itunes:explicit>no</itunes:explicit>
             </item>
         </channel>
