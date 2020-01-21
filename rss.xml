@@ -17,7 +17,7 @@
             <language>zh-cn</language>
             <copyright>Swift.GG copyright 2019</copyright>
             <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-            <lastBuildDate>Tue, 14 Jan 2020 04:40:00 CDT</lastBuildDate>
+            <lastBuildDate>Tue, 21 Jan 2020 05:20:00 CDT</lastBuildDate>
             <itunes:author>梁杰</itunes:author>
             <itunes:summary>
     接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4739,6 +4739,43 @@
                 </itunes:summary>
                 <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
                 <itunes:keywords>程序员,开发,开发者,swift,羊叔</itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+            <item>
+                <title>2020 春节特别节目：Eroys，Lianlian</title>
+                <itunes:episode>60</itunes:episode>
+                <link>https://talk.swift.gg</link>
+                <pubDate>Tue, 21 Jan 2020 05:20:00 CDT</pubDate>
+                <description><![CDATA[
+    <p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li><a href="https://talk.swift.gg/44">《聊聊英国的工作和生活》</a></li>
+    </ul>
+
+    <br/>
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+    ]]>
+                </description>
+                <enclosure url="https://talkcdn.swift.gg/audio/2020_chunjie_2.mp3" length="57498564" type="audio/mpeg" />
+                <guid>https://talkcdn.swift.gg/audio/2020_chunjie_2.mp3</guid>
+                <itunes:duration>00:59:53</itunes:duration>
+                <itunes:summary>
+    &lt;p&gt;听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://talk.swift.gg/44&quot;&gt;《聊聊英国的工作和生活》&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+                </itunes:summary>
+                <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+                <itunes:keywords>程序员,开发,开发者,swift,2020春节特别节目</itunes:keywords>
               <itunes:explicit>no</itunes:explicit>
             </item>
         </channel>
