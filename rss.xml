@@ -17,7 +17,7 @@
             <language>zh-cn</language>
             <copyright>Swift.GG copyright 2019</copyright>
             <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-            <lastBuildDate>Tue, 21 Jan 2020 05:20:00 CDT</lastBuildDate>
+            <lastBuildDate>Tue, 22 Jan 2020 09:00:00 CDT</lastBuildDate>
             <itunes:author>梁杰</itunes:author>
             <itunes:summary>
     接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4769,6 +4769,49 @@
     &lt;ul&gt;
     &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://talk.swift.gg/44&quot;&gt;《聊聊英国的工作和生活》&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+                </itunes:summary>
+                <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+                <itunes:keywords>程序员,开发,开发者,swift,2020春节特别节目</itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+            <item>
+                <title>2020 春节特别节目：磊子，Draveness，冬瓜</title>
+                <itunes:episode>61</itunes:episode>
+                <link>https://talk.swift.gg</link>
+                <pubDate>Tue, 22 Jan 2020 09:00:00 CDT</pubDate>
+                <description><![CDATA[
+    <p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li>Draveness 的 2019 总结：<a href="https://draveness.me/2019-summary">《2019 年总结 · 拥抱变化》</a></li>
+    <li>冬瓜的 2019 总结：<a href="https://www.desgard.com/summary-2019/">《立志欲坚不欲锐 - 2019 年小结》</a></li>
+    <li><a href="https://talk.swift.gg/53">《继续深造还是步入社会，好难选啊！》</a></li>
+    <li><a href="https://item.jd.com/12437624.html">《数据密集型应用系统设计》</a></li>
+    </ul>
+
+    <br/>
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+    ]]>
+                </description>
+                <enclosure url="https://talkcdn.swift.gg/audio/2020_chunjie_1.mp3" length="68626309" type="audio/mpeg" />
+                <guid>https://talkcdn.swift.gg/audio/2020_chunjie_1.mp3</guid>
+                <itunes:duration>01:11:28</itunes:duration>
+                <itunes:summary>
+    &lt;p&gt;听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;Draveness 的 2019 总结：&lt;a href=&quot;https://draveness.me/2019-summary&quot;&gt;《2019 年总结 · 拥抱变化》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;冬瓜的 2019 总结：&lt;a href=&quot;https://www.desgard.com/summary-2019/&quot;&gt;《立志欲坚不欲锐 - 2019 年小结》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://talk.swift.gg/53&quot;&gt;《继续深造还是步入社会，好难选啊！》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://item.jd.com/12437624.html&quot;&gt;《数据密集型应用系统设计》&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 
     &lt;br/&gt;
