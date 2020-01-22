@@ -256,8 +256,12 @@
   "episode": 58,
   "title": "从 PHP 开发到腾讯教育云技术负责人，SwiftGG 真·大佬——羊叔的故事",
   "tags": ["羊叔", "腾讯云", "大佬", "PHP 开发"]
-},  {
+}, {
   "episode": 59,
   "title": "2020 春节特别节目：Eroys，Lianlian",
   "tags": ["2020", "春节特别节目", "Eroys", "Lianlian"]
+}, {
+  "episode": 60,
+  "title": "2020 春节特别节目：磊子，Draveness，冬瓜",
+  "tags": ["2020", "春节特别节目", "磊子", "Draveness", "冬瓜"]
 }]
