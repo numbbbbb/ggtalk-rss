@@ -17,7 +17,7 @@
             <language>zh-cn</language>
             <copyright>Swift.GG copyright 2019</copyright>
             <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-            <lastBuildDate>Tue, 22 Jan 2020 09:00:00 CDT</lastBuildDate>
+            <lastBuildDate>Thu, 23 Jan 2020 07:50:00 CDT</lastBuildDate>
             <itunes:author>梁杰</itunes:author>
             <itunes:summary>
     接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4782,7 +4782,7 @@
                 <title>2020 春节特别节目：磊子，Draveness，冬瓜</title>
                 <itunes:episode>61</itunes:episode>
                 <link>https://talk.swift.gg</link>
-                <pubDate>Tue, 22 Jan 2020 09:00:00 CDT</pubDate>
+                <pubDate>Wed, 22 Jan 2020 09:00:00 CDT</pubDate>
                 <description><![CDATA[
     <p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>
 
@@ -4812,6 +4812,63 @@
     &lt;li&gt;冬瓜的 2019 总结：&lt;a href=&quot;https://www.desgard.com/summary-2019/&quot;&gt;《立志欲坚不欲锐 - 2019 年小结》&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://talk.swift.gg/53&quot;&gt;《继续深造还是步入社会，好难选啊！》&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://item.jd.com/12437624.html&quot;&gt;《数据密集型应用系统设计》&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+                </itunes:summary>
+                <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+                <itunes:keywords>程序员,开发,开发者,swift,2020春节特别节目</itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+            <item>
+                <title>2020 春节特别节目：梁杰，思琦，爆炸</title>
+                <itunes:episode>62</itunes:episode>
+                <link>https://talk.swift.gg</link>
+                <pubDate>Thu, 23 Jan 2020 07:50:00 CDT</pubDate>
+                <description><![CDATA[
+    <p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li>思琦的邮箱：zhangsiqi1988@gmail.com</li>
+    <li>提到的东西：白马湖红枫赛道 1999，Prolog，Brainfuck</li>
+    <li>思琦参与的节目：<a href="https://talk.swift.gg/14">《程序员的春节趣事》</a></li>
+    <li>去年的春节节目：<a href="https://talk.swift.gg/18">《2019 准备学什么新技术？》</a></li>
+    <li>思琦参与的节目：<a href="https://talk.swift.gg/45">《从石油到 iOS，听听思琦的转行经历
+    》</a></li>
+    <li>爆炸参与的节目：<a href="https://talk.swift.gg/43">《游戏加速纵横谈》</a></li>
+    <li><a href="https://github.com/ibireme/YYKit">YYKit</a></li>
+    <li>提到的书：<a href="https://item.jd.com/10977149.html">《七周七语言：理解多种编程范型》</a></li>
+    <li>思琦推荐的文章：<a href="https://zhuanlan.zhihu.com/p/88616149">现代Web开发的现状与未来</a></li>
+    <li>思琦推荐的文章：<a href="https://www.thoughtworks.com/radar/techniques">ThoughtWorks 技术雷达</a></li>
+    </ul>
+
+    <br/>
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+    ]]>
+                </description>
+                <enclosure url="https://talkcdn.swift.gg/audio/2020_chunjie_3.mp3" length="125810233" type="audio/mpeg" />
+                <guid>https://talkcdn.swift.gg/audio/2020_chunjie_3.mp3</guid>
+                <itunes:duration>02:11:02</itunes:duration>
+                <itunes:summary>
+    &lt;p&gt;听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;思琦的邮箱：zhangsiqi1988@gmail.com&lt;/li&gt;
+    &lt;li&gt;提到的东西：白马湖红枫赛道 1999，Prolog，Brainfuck&lt;/li&gt;
+    &lt;li&gt;思琦参与的节目：&lt;a href=&quot;https://talk.swift.gg/14&quot;&gt;《程序员的春节趣事》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;去年的春节节目：&lt;a href=&quot;https://talk.swift.gg/18&quot;&gt;《2019 准备学什么新技术？》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;思琦参与的节目：&lt;a href=&quot;https://talk.swift.gg/45&quot;&gt;《从石油到 iOS，听听思琦的转行经历
+    》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;爆炸参与的节目：&lt;a href=&quot;https://talk.swift.gg/43&quot;&gt;《游戏加速纵横谈》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://github.com/ibireme/YYKit&quot;&gt;YYKit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;提到的书：&lt;a href=&quot;https://item.jd.com/10977149.html&quot;&gt;《七周七语言：理解多种编程范型》&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;思琦推荐的文章：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/88616149&quot;&gt;现代Web开发的现状与未来&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;思琦推荐的文章：&lt;a href=&quot;https://www.thoughtworks.com/radar/techniques&quot;&gt;ThoughtWorks 技术雷达&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 
     &lt;br/&gt;
