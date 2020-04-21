@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 29 Mar 2020 20:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2020 06:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -4879,194 +4879,414 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
           <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-        <title>道长三十：工科生如何去美国读研？</title>
-        <itunes:episode>63</itunes:episode>
-        <link>https://talk.swift.gg</link>
-        <pubDate>Sun, 29 Mar 2020 19:40:00 CDT</pubDate>
-        <description><![CDATA[
-&lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
+            <title>道长三十：工科生如何去美国读研？</title>
+            <itunes:episode>63</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 29 Mar 2020 19:40:00 CDT</pubDate>
+            <description><![CDATA[
+    &lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
 
-&lt;p&gt;第一期主要和道长聊聊读研的过程。道长读书是在传说中的 CMU，从准备到申请，再到入学之后的各种经历，听道长好好聊聊。&lt;/p&gt;
+    &lt;p&gt;第一期主要和道长聊聊读研的过程。道长读书是在传说中的 CMU，从准备到申请，再到入学之后的各种经历，听道长好好聊聊。&lt;/p&gt;
 
-&lt;p&gt;参考链接：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
-&lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
 
-&lt;br/&gt;
-&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;时间线：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;00:48  个人介绍 + 本期背景介绍&lt;/li&gt;
-&lt;li&gt;03:16  CMU！&lt;/li&gt;
-&lt;li&gt;11:12  为什么想出国&lt;/li&gt;
-&lt;li&gt;15:48  准备过程 + 申请过程&lt;/li&gt;
-&lt;li&gt;34:25  CMU 上学的体验&lt;/li&gt;
-&lt;/ul&gt;]]>
-        </description>
-        <enclosure url="https://talkcdn.swift.gg/audio/daozhang1.mp3" length="50937055" type="audio/mpeg" />
-        <guid>https://talkcdn.swift.gg/audio/daozhang1.mp3</guid>
-        <itunes:duration>00:52:55</itunes:duration>
-        <itunes:summary>
-&lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
+    &lt;p&gt;时间线：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;00:48  个人介绍 + 本期背景介绍&lt;/li&gt;
+    &lt;li&gt;03:16  CMU！&lt;/li&gt;
+    &lt;li&gt;11:12  为什么想出国&lt;/li&gt;
+    &lt;li&gt;15:48  准备过程 + 申请过程&lt;/li&gt;
+    &lt;li&gt;34:25  CMU 上学的体验&lt;/li&gt;
+    &lt;/ul&gt;]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/daozhang1.mp3" length="50937055" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/daozhang1.mp3</guid>
+            <itunes:duration>00:52:55</itunes:duration>
+            <itunes:summary>
+    &lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
 
-&lt;p&gt;第一期主要和道长聊聊读研的过程。道长读书是在传说中的 CMU，从准备到申请，再到入学之后的各种经历，听道长好好聊聊。&lt;/p&gt;
+    &lt;p&gt;第一期主要和道长聊聊读研的过程。道长读书是在传说中的 CMU，从准备到申请，再到入学之后的各种经历，听道长好好聊聊。&lt;/p&gt;
 
-&lt;p&gt;参考链接：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
-&lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
 
-&lt;br/&gt;
-&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;时间线：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;00:48  个人介绍 + 本期背景介绍&lt;/li&gt;
-&lt;li&gt;03:16  CMU！&lt;/li&gt;
-&lt;li&gt;11:12  为什么想出国&lt;/li&gt;
-&lt;li&gt;15:48  准备过程 + 申请过程&lt;/li&gt;
-&lt;li&gt;34:25  CMU 上学的体验&lt;/li&gt;
-&lt;/ul&gt;
-        </itunes:summary>
-        <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
-        <itunes:keywords>程序员,开发,开发者,故胤道长,美国读研<zhang></zhang></itunes:keywords>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>道长三十：在硅谷工作是怎样一种体验？</title>
-        <itunes:episode>64</itunes:episode>
-        <link>https://talk.swift.gg</link>
-        <pubDate>Sun, 29 Mar 2020 19:50:00 CDT</pubDate>
-        <description><![CDATA[
-<p>好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。</p>
+    &lt;p&gt;时间线：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;00:48  个人介绍 + 本期背景介绍&lt;/li&gt;
+    &lt;li&gt;03:16  CMU！&lt;/li&gt;
+    &lt;li&gt;11:12  为什么想出国&lt;/li&gt;
+    &lt;li&gt;15:48  准备过程 + 申请过程&lt;/li&gt;
+    &lt;li&gt;34:25  CMU 上学的体验&lt;/li&gt;
+    &lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,故胤道长,美国读研<zhang></zhang></itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>道长三十：在硅谷工作是怎样一种体验？</title>
+            <itunes:episode>64</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 29 Mar 2020 19:50:00 CDT</pubDate>
+            <description><![CDATA[
+    <p>好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。</p>
 
-<p>第二期是最长的一期。道长先后就职于 Uber、Amazon、Quora 和 Netflix，在这期里会详细介绍每一段工作经历。除了这四家，道长还谈到了其他几个知名互联网公司，帮助大家更好的了解这些巨头的特点和现状。</p>
+    <p>第二期是最长的一期。道长先后就职于 Uber、Amazon、Quora 和 Netflix，在这期里会详细介绍每一段工作经历。除了这四家，道长还谈到了其他几个知名互联网公司，帮助大家更好的了解这些巨头的特点和现状。</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li>Netflix 的 <a href="https://igormroz.com/documents/netflix_culture.pdf">Freedom and Responsibility</a></li>
+    <li>道长微博：<a href="https://www.weibo.com/soapyigu?refer_flag=1005055013_">故胤道长</a></li>
+    <li>道长的<a href="https://www.jianshu.com/u/8d5b91490ca5">博客</a></li>
+    </ul>
+
+    <br/>
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+    <p>时间线：</p>
+    <ul>
+    <li>00:15  面试</li>
+    <li>04:31  Uber 工作经历 + 聊聊 Google</li>
+    <li>22:14  Amazon 工作经历</li>
+    <li>49:17  Quora 工作经历</li>
+    <li>01:28:12  进入 Netflix</li>
+    <li>01:50:15  硅谷的薪资水平和生活成本</li>
+    </ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/daozhang2.mp3" length="120699555" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/daozhang2.mp3</guid>
+            <itunes:duration>02:05:35</itunes:duration>
+            <itunes:summary>
+    &lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
+
+    &lt;p&gt;第二期是最长的一期。道长先后就职于 Uber、Amazon、Quora 和 Netflix，在这期里会详细介绍每一段工作经历。除了这四家，道长还谈到了其他几个知名互联网公司，帮助大家更好的了解这些巨头的特点和现状。&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;Netflix 的 &lt;a href=&quot;https://igormroz.com/documents/netflix_culture.pdf&quot;&gt;Freedom and Responsibility&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;时间线：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;00:15  面试&lt;/li&gt;
+    &lt;li&gt;04:31  Uber 工作经历 + 聊聊 Google&lt;/li&gt;
+    &lt;li&gt;22:14  Amazon 工作经历&lt;/li&gt;
+    &lt;li&gt;49:17  Quora 工作经历&lt;/li&gt;
+    &lt;li&gt;01:28:12  进入 Netflix&lt;/li&gt;
+    &lt;li&gt;01:50:15  硅谷的薪资水平和生活成本&lt;/li&gt;
+    &lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,故胤道长,硅谷工作<zhang></zhang></itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>道长三十：程序员的美国生活真的很香吗？</title>
+            <itunes:episode>65</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 29 Mar 2020 20:00:00 CDT</pubDate>
+            <description><![CDATA[
+    <p>好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。</p>
+
+    <p>第三期聊聊生活。在硅谷工作，业余时间都做什么？买房买车压力大不大？除了编程，道长还有什么兴趣爱好？节目的最后，道长还回答了几个大家关心的问题。在这里感谢道长参与这期节目的录制，也祝道长生日快乐！</p>
+
+    <p>参考链接：</p>
+    <ul>
+    <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+    <li>道长微博：<a href="https://www.weibo.com/soapyigu?refer_flag=1005055013_">故胤道长</a></li>
+    <li>道长的<a href="https://www.jianshu.com/u/8d5b91490ca5">博客</a></li>
+    </ul>
+
+    <br/>
+    <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+    <p>时间线：</p>
+    <ul>
+    <li>00:32  美国安全吗</li>
+    <li>13:20  代码和博客</li>
+    <li>20:53  兴趣爱好</li>
+    <li>34:40  “故胤道长”名字由来</li>
+    <li>35:31  择偶</li>
+    <li>39:58  回顾过去，最正确的选择 + 不太满意的事</li>
+    <li>46:07  有没有考虑回国</li>
+    <li>48:52  怎么认识牛人</li>
+    </ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/daozhang3.mp3" length="56548760" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/daozhang3.mp3</guid>
+            <itunes:duration>00:58:46</itunes:duration>
+            <itunes:summary>
+    &lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
+
+    &lt;p&gt;第三期聊聊生活。在硅谷工作，业余时间都做什么？买房买车压力大不大？除了编程，道长还有什么兴趣爱好？节目的最后，道长还回答了几个大家关心的问题。在这里感谢道长参与这期节目的录制，也祝道长生日快乐！&lt;/p&gt;
+
+    &lt;p&gt;参考链接：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+    &lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;时间线：&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;00:32  美国安全吗&lt;/li&gt;
+    &lt;li&gt;13:20  代码和博客&lt;/li&gt;
+    &lt;li&gt;20:53  兴趣爱好&lt;/li&gt;
+    &lt;li&gt;34:40  “故胤道长”名字由来&lt;/li&gt;
+    &lt;li&gt;35:31  择偶&lt;/li&gt;
+    &lt;li&gt;39:58  回顾过去，最正确的选择 + 不太满意的事&lt;/li&gt;
+    &lt;li&gt;46:07  有没有考虑回国&lt;/li&gt;
+    &lt;li&gt;48:52  怎么认识牛人&lt;/li&gt;
+    &lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,故胤道长,美国生活<zhang></zhang></itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>聊聊程序员的办公装备</title>
+            <itunes:episode>66</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 21 Apr 2020 06:50:00 CDT</pubDate>
+            <description><![CDATA[
+<p>程序员们对设备多多少少有些追求。键盘鼠标、桌椅台灯、显示器和支架，办公环境里能聊的东西实在太多了。这期我们请来三位老朋友，莲叔、崔轶和 Cee，一起聊聊我们几个的办公装备。</p>
+
+<p>下面是节目配套的照片，强烈推荐大家看着照片听节目，能直观看到我们讨论的都是什么。</p>
+
+<p>办公环境的照片：</p>
+<ul>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%AE%B6.jpg?raw=truee">莲叔家</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%85%AC%E5%8F%B8.jpg?raw=true">莲叔公司</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B61.jpg?raw=true">崔轶 1</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B62.jpg?raw=true">崔轶 2</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true">Cee</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true">Cee 的椅子</a></li>
+<li><a href="https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E6%A2%81%E6%9D%B0.jpg?raw=true">梁杰</a></li>
+</ul>
+<br/>
+
+<p>遍历完每个人的办公环境之后，我们针对几个话题展开进行了讨论。首当其冲的就是键盘，程序员每天打交道最多的东西，必须好好聊聊。然后是椅子，为了在漫长的办公时间中保护好身体，合适的桌椅必不可少。最后聊聊本期 MVP，Cee 的 34 寸显示器，以及后续我们准备做的优（败）化（家）。</p>
+
+<p>下面会列出本期重点的设备名称和型号，大家可以自行搜索了解详情。顺便说一句，录完节目查了一下 Cee 显示器的价格，查完之后感觉我的 2K 屏幕其实也挺清晰的。</p>
+
+<p>尝试创建了一个<a href="https://github.com/SwiftGGTeam/hardware-for-programmers">GitHub Repo</a>，分享我们的装备。欢迎大家来提交自己的办公装备，一起交流。</p>
+
+<p>莲叔的装备：</p>
+<ul>
+<li>桌子：宜家 伊朵森 坐站两用式办公桌 120x70 货号：292.809.53</li>
+<li>椅子：Herman Miller Embody，达宝利 金卓 B-HAM</li>
+<li>耳机：QC35</li>
+<li>显示器：LG UL850-W 27" - 60Hz 5K2K，DELL U2718QM</li>
+<li>键盘：Filco Minila 有线，Magic Keyboard 2</li>
+</ul>
+<br/>
+
+<p>崔轶的装备：</p>
+<ul>
+<li>升降台：<a href="https://item.jd.com/3973379.html">乐歌站立办公升降台M1M
+</a></li>
+<li>打印机：<a href="https://item.jd.com/4182530.html
+">佳能（Canon）MF232w imageCLASS 智能黑立方</a></li>
+<li>显示器：DELL 2715Q，LG UK850</li>
+<li>键盘：Magic Keyboard 2</li>
+</ul>
+<br/>
+
+<p>Cee 的装备：</p>
+<ul>
+<li>桌子：<a href="https://www.evodesk.com/">Evodesk</a></li>
+<li>椅子：<a href="https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/">Herman Miller Sayl</a>，另外一个牌子是 Steelcase</li>
+<li>显示器：LG 34WK95U-W 34" - 60Hz 5K2K，写代码；LG 32GK65B-B 32" - 144Hz 4K，打游戏</li>
+<li>键盘：HHKB Pro 2</li>
+<li>鼠标：Logitech G603</li>
+<li>Dock Belkin Thunderbolt 3 Dock Pro</li>
+<li>屏幕灯：明基 Screenbar</li>
+<li>音响：真力 Genelec 8010A（注意是单个卖的）</li>
+<li>话筒：Blue Yeti</li>
+<li>无线充电：Pixel Stand</li>
+<li>Nest Hub Max</li>
+</ul>
+<br/>
+
+<p>梁杰的装备：</p>
+<ul>
+<li>自制升降桌的<a href="https://sh7ne.com/2019/04/20/SitStandDesk/">教学文章</a></li>
+<li><a href="https://www.primecables.ca/p-359309-cab-stm01-1-anti-fatigue-standing-mat-multi-purpose-comfort-mat-primecables-">站立脚垫/抗疲劳脚垫</a></li>
+<li>那本黑书：《S. 忒修斯之船》</li>
+<li>移动硬盘：SAMSUNG Portable SSD T5</li>
+<li>相机：FUJI X100F</li>
+</ul>
+<br/>
 
 <p>参考链接：</p>
 <ul>
 <li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
-<li>Netflix 的 <a href="https://igormroz.com/documents/netflix_culture.pdf">Freedom and Responsibility</a></li>
-<li>道长微博：<a href="https://www.weibo.com/soapyigu?refer_flag=1005055013_">故胤道长</a></li>
-<li>道长的<a href="https://www.jianshu.com/u/8d5b91490ca5">博客</a></li>
+<li>Cee 提到的，修改键盘映射的软件：<a href="https://karabiner-elements.pqrs.org/">Karabiner-Elements</a></li>
+<li>梁杰提到的，超小 47 键键盘：<a href="https://ergodox-ez.com/pages/planck">Karabiner-Elements</a>Planck EZ</li>
+<li><a href="https://www.amazon.ca/Engineered-Headrest-Herman-Miller-Aeron/dp/B005L9ATK6">Aeron 椅子的头枕</a></li>
+<li>Mac 上两个设置应用窗口位置尺寸的工具：Spectacle，ShiftIt</li>
+<li><a href="https://www.bilibili.com/video/av57715127/">静脉曲张竟然引起大喷血？李永乐老师告诉你如何治疗和预防？</a></li>
+<li>莲叔的<a href="http://aaaron7.github.io/">博客</a></li>
+<li>Cee 的微博：<a href="https://www.weibo.com/acgcee?is_all=1">@西姨姨</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
 </ul>
-
 <br/>
+
 <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
 
 <p>时间线：</p>
 <ul>
-<li>00:15  面试</li>
-<li>04:31  Uber 工作经历 + 聊聊 Google</li>
-<li>22:14  Amazon 工作经历</li>
-<li>49:17  Quora 工作经历</li>
-<li>01:28:12  进入 Netflix</li>
-<li>01:50:15  硅谷的薪资水平和生活成本</li>
+<li>01:34  个人介绍 + 闲聊现状</li>
+<li>17:49  莲叔的办公装备</li>
+<li>24:46  崔轶的办公装备</li>
+<li>33:29  Cee 的办公装备</li>
+<li>44:34  梁杰的办公装备</li>
+<li>56:38  聊聊 HHKB 以及键盘</li>
+<li>01:14:30  莲叔的多个屏幕怎么分配</li>
+<li>01:20:56  椅子的选择</li>
+<li>01:54:21  站立办公的时间</li>
+<li>02:03:52  Cee 的 34 寸显示器</li>
+<li>02:07:42  总体来说，办公环境你最需要的是什么</li>
+<li>02:13:25  目前还存在的问题，之后准备如何优化</li>
+<li>02:23:27  推荐三个物品</li>
+<li>02:34:59  最后想说什么</li>
 </ul>]]>
-        </description>
-        <enclosure url="https://talkcdn.swift.gg/audio/daozhang2.mp3" length="120699555" type="audio/mpeg" />
-        <guid>https://talkcdn.swift.gg/audio/daozhang2.mp3</guid>
-        <itunes:duration>02:05:35</itunes:duration>
-        <itunes:summary>
-&lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/bangongshebei.mp3" length="152323289" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/bangongshebei.mp3</guid>
+            <itunes:duration>02:38:32</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;程序员们对设备多多少少有些追求。键盘鼠标、桌椅台灯、显示器和支架，办公环境里能聊的东西实在太多了。这期我们请来三位老朋友，莲叔、崔轶和 Cee，一起聊聊我们几个的办公装备。&lt;/p&gt;
 
-&lt;p&gt;第二期是最长的一期。道长先后就职于 Uber、Amazon、Quora 和 Netflix，在这期里会详细介绍每一段工作经历。除了这四家，道长还谈到了其他几个知名互联网公司，帮助大家更好的了解这些巨头的特点和现状。&lt;/p&gt;
+&lt;p&gt;下面是节目配套的照片，强烈推荐大家看着照片听节目，能直观看到我们讨论的都是什么。&lt;/p&gt;
+
+&lt;p&gt;办公环境的照片：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%AE%B6.jpg?raw=truee&quot;&gt;莲叔家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%85%AC%E5%8F%B8.jpg?raw=true&quot;&gt;莲叔公司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B61.jpg?raw=true&quot;&gt;崔轶 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B62.jpg?raw=true&quot;&gt;崔轶 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true&quot;&gt;Cee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true&quot;&gt;Cee 的椅子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E6%A2%81%E6%9D%B0.jpg?raw=true&quot;&gt;梁杰&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;遍历完每个人的办公环境之后，我们针对几个话题展开进行了讨论。首当其冲的就是键盘，程序员每天打交道最多的东西，必须好好聊聊。然后是椅子，为了在漫长的办公时间中保护好身体，合适的桌椅必不可少。最后聊聊本期 MVP，Cee 的 34 寸显示器，以及后续我们准备做的优（败）化（家）。&lt;/p&gt;
+
+&lt;p&gt;下面会列出本期重点的设备名称和型号，大家可以自行搜索了解详情。顺便说一句，录完节目查了一下 Cee 显示器的价格，查完之后感觉我的 2K 屏幕其实也挺清晰的。&lt;/p&gt;
+
+&lt;p&gt;尝试创建了一个&lt;a href=&quot;https://github.com/SwiftGGTeam/hardware-for-programmers&quot;&gt;GitHub Repo&lt;/a&gt;，分享我们的装备。欢迎大家来提交自己的办公装备，一起交流。&lt;/p&gt;
+
+&lt;p&gt;莲叔的装备：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;桌子：宜家 伊朵森 坐站两用式办公桌 120x70 货号：292.809.53&lt;/li&gt;
+&lt;li&gt;椅子：Herman Miller Embody，达宝利 金卓 B-HAM&lt;/li&gt;
+&lt;li&gt;耳机：QC35&lt;/li&gt;
+&lt;li&gt;显示器：LG UL850-W 27&quot; - 60Hz 5K2K，DELL U2718QM&lt;/li&gt;
+&lt;li&gt;键盘：Filco Minila 有线，Magic Keyboard 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;崔轶的装备：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;升降台：&lt;a href=&quot;https://item.jd.com/3973379.html&quot;&gt;乐歌站立办公升降台M1M
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;打印机：&lt;a href=&quot;https://item.jd.com/4182530.html
+&quot;&gt;佳能（Canon）MF232w imageCLASS 智能黑立方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;显示器：DELL 2715Q，LG UK850&lt;/li&gt;
+&lt;li&gt;键盘：Magic Keyboard 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;Cee 的装备：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;桌子：&lt;a href=&quot;https://www.evodesk.com/&quot;&gt;Evodesk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;椅子：&lt;a href=&quot;https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/&quot;&gt;Herman Miller Sayl&lt;/a&gt;，另外一个牌子是 Steelcase&lt;/li&gt;
+&lt;li&gt;显示器：LG 34WK95U-W 34&quot; - 60Hz 5K2K，写代码；LG 32GK65B-B 32&quot; - 144Hz 4K，打游戏&lt;/li&gt;
+&lt;li&gt;键盘：HHKB Pro 2&lt;/li&gt;
+&lt;li&gt;鼠标：Logitech G603&lt;/li&gt;
+&lt;li&gt;Dock Belkin Thunderbolt 3 Dock Pro&lt;/li&gt;
+&lt;li&gt;屏幕灯：明基 Screenbar&lt;/li&gt;
+&lt;li&gt;音响：真力 Genelec 8010A（注意是单个卖的）&lt;/li&gt;
+&lt;li&gt;话筒：Blue Yeti&lt;/li&gt;
+&lt;li&gt;无线充电：Pixel Stand&lt;/li&gt;
+&lt;li&gt;Nest Hub Max&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;梁杰的装备：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自制升降桌的&lt;a href=&quot;https://sh7ne.com/2019/04/20/SitStandDesk/&quot;&gt;教学文章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.primecables.ca/p-359309-cab-stm01-1-anti-fatigue-standing-mat-multi-purpose-comfort-mat-primecables-&quot;&gt;站立脚垫/抗疲劳脚垫&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;那本黑书：《S. 忒修斯之船》&lt;/li&gt;
+&lt;li&gt;移动硬盘：SAMSUNG Portable SSD T5&lt;/li&gt;
+&lt;li&gt;相机：FUJI X100F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
 
 &lt;p&gt;参考链接：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
-&lt;li&gt;Netflix 的 &lt;a href=&quot;https://igormroz.com/documents/netflix_culture.pdf&quot;&gt;Freedom and Responsibility&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cee 提到的，修改键盘映射的软件：&lt;a href=&quot;https://karabiner-elements.pqrs.org/&quot;&gt;Karabiner-Elements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰提到的，超小 47 键键盘：&lt;a href=&quot;https://ergodox-ez.com/pages/planck&quot;&gt;Karabiner-Elements&lt;/a&gt;Planck EZ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.ca/Engineered-Headrest-Herman-Miller-Aeron/dp/B005L9ATK6&quot;&gt;Aeron 椅子的头枕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mac 上两个设置应用窗口位置尺寸的工具：Spectacle，ShiftIt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/av57715127/&quot;&gt;静脉曲张竟然引起大喷血？李永乐老师告诉你如何治疗和预防？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;莲叔的&lt;a href=&quot;http://aaaron7.github.io/&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cee 的微博：&lt;a href=&quot;https://www.weibo.com/acgcee?is_all=1&quot;&gt;@西姨姨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;br/&gt;
+
 &lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;时间线：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;00:15  面试&lt;/li&gt;
-&lt;li&gt;04:31  Uber 工作经历 + 聊聊 Google&lt;/li&gt;
-&lt;li&gt;22:14  Amazon 工作经历&lt;/li&gt;
-&lt;li&gt;49:17  Quora 工作经历&lt;/li&gt;
-&lt;li&gt;01:28:12  进入 Netflix&lt;/li&gt;
-&lt;li&gt;01:50:15  硅谷的薪资水平和生活成本&lt;/li&gt;
+&lt;li&gt;01:34  个人介绍 + 闲聊现状&lt;/li&gt;
+&lt;li&gt;17:49  莲叔的办公装备&lt;/li&gt;
+&lt;li&gt;24:46  崔轶的办公装备&lt;/li&gt;
+&lt;li&gt;33:29  Cee 的办公装备&lt;/li&gt;
+&lt;li&gt;44:34  梁杰的办公装备&lt;/li&gt;
+&lt;li&gt;56:38  聊聊 HHKB 以及键盘&lt;/li&gt;
+&lt;li&gt;01:14:30  莲叔的多个屏幕怎么分配&lt;/li&gt;
+&lt;li&gt;01:20:56  椅子的选择&lt;/li&gt;
+&lt;li&gt;01:54:21  站立办公的时间&lt;/li&gt;
+&lt;li&gt;02:03:52  Cee 的 34 寸显示器&lt;/li&gt;
+&lt;li&gt;02:07:42  总体来说，办公环境你最需要的是什么&lt;/li&gt;
+&lt;li&gt;02:13:25  目前还存在的问题，之后准备如何优化&lt;/li&gt;
+&lt;li&gt;02:23:27  推荐三个物品&lt;/li&gt;
+&lt;li&gt;02:34:59  最后想说什么&lt;/li&gt;
 &lt;/ul&gt;
-        </itunes:summary>
-        <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
-        <itunes:keywords>程序员,开发,开发者,故胤道长,硅谷工作<zhang></zhang></itunes:keywords>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>道长三十：程序员的美国生活真的很香吗？</title>
-        <itunes:episode>65</itunes:episode>
-        <link>https://talk.swift.gg</link>
-        <pubDate>Sun, 29 Mar 2020 20:00:00 CDT</pubDate>
-        <description><![CDATA[
-<p>好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。</p>
-
-<p>第三期聊聊生活。在硅谷工作，业余时间都做什么？买房买车压力大不大？除了编程，道长还有什么兴趣爱好？节目的最后，道长还回答了几个大家关心的问题。在这里感谢道长参与这期节目的录制，也祝道长生日快乐！</p>
-
-<p>参考链接：</p>
-<ul>
-<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
-<li>道长微博：<a href="https://www.weibo.com/soapyigu?refer_flag=1005055013_">故胤道长</a></li>
-<li>道长的<a href="https://www.jianshu.com/u/8d5b91490ca5">博客</a></li>
-</ul>
-
-<br/>
-<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
-
-<p>时间线：</p>
-<ul>
-<li>00:32  美国安全吗</li>
-<li>13:20  代码和博客</li>
-<li>20:53  兴趣爱好</li>
-<li>34:40  “故胤道长”名字由来</li>
-<li>35:31  择偶</li>
-<li>39:58  回顾过去，最正确的选择 + 不太满意的事</li>
-<li>46:07  有没有考虑回国</li>
-<li>48:52  怎么认识牛人</li>
-</ul>]]>
-        </description>
-        <enclosure url="https://talkcdn.swift.gg/audio/daozhang3.mp3" length="56548760" type="audio/mpeg" />
-        <guid>https://talkcdn.swift.gg/audio/daozhang3.mp3</guid>
-        <itunes:duration>00:58:46</itunes:duration>
-        <itunes:summary>
-&lt;p&gt;好久不见！经过漫长的春节，我们的节目终于更新了。这期的嘉宾是故胤道长，目前在美国工作。这期算是特别特别节目，第一个特别是发布日期，3.30，是道长 30 岁的生日；第二个特别，是这期录了破纪录的接近五个小时，为了便于收听按照内容分成了三期。&lt;/p&gt;
-
-&lt;p&gt;第三期聊聊生活。在硅谷工作，业余时间都做什么？买房买车压力大不大？除了编程，道长还有什么兴趣爱好？节目的最后，道长还回答了几个大家关心的问题。在这里感谢道长参与这期节目的录制，也祝道长生日快乐！&lt;/p&gt;
-
-&lt;p&gt;参考链接：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
-&lt;li&gt;道长微博：&lt;a href=&quot;https://www.weibo.com/soapyigu?refer_flag=1005055013_&quot;&gt;故胤道长&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;道长的&lt;a href=&quot;https://www.jianshu.com/u/8d5b91490ca5&quot;&gt;博客&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;br/&gt;
-&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;时间线：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;00:32  美国安全吗&lt;/li&gt;
-&lt;li&gt;13:20  代码和博客&lt;/li&gt;
-&lt;li&gt;20:53  兴趣爱好&lt;/li&gt;
-&lt;li&gt;34:40  “故胤道长”名字由来&lt;/li&gt;
-&lt;li&gt;35:31  择偶&lt;/li&gt;
-&lt;li&gt;39:58  回顾过去，最正确的选择 + 不太满意的事&lt;/li&gt;
-&lt;li&gt;46:07  有没有考虑回国&lt;/li&gt;
-&lt;li&gt;48:52  怎么认识牛人&lt;/li&gt;
-&lt;/ul&gt;
-        </itunes:summary>
-        <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
-        <itunes:keywords>程序员,开发,开发者,故胤道长,美国生活<zhang></zhang></itunes:keywords>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,办公装备</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
