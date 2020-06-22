@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Apr 2020 06:50:00 CDT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 18:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5286,6 +5286,78 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,办公装备</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>职业病</title>
+            <itunes:episode>67</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Mon, 22 Jun 2020 18:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>程序员的健康问题一直都备受关注，这次我们三位病友也来交流下病情，顺带分享一些经验和感想。</p>
+
+<p>这次选了三个比较有代表性的病友，春光是颈椎病，我是背部顽疾，绿洲是腰间盘部分退化和腰间盘突出。从上到下，一条龙。</p>
+
+<p>强调一下，这期并没有相关专家，也没有专业建议。祝各位听众，以及我们自己，都能越来越健康。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://zhuanlan.zhihu.com/p/24836362">麸质过敏</a>，我们不是相关专家，本文仅供参考，请大家理性判断</li>
+<li><a href="http://www.chinacdc.cn/mtbd_8067/201908/t20190805_204454.html">职业病相关的文章</a></li>
+<li><a href="https://github.com/numbbbbb/ggtalk-rss/blob/master/xray.jpg">春光的颈椎 X 光</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>00:45  个人介绍 + 主题介绍</li>
+<li>05:05  遍历一下每个人的病</li>
+<li>23:44  重点介绍职业相关的病情</li>
+<li>46:22  为什么我们会得这些“职业病”</li>
+<li>55:33  如何保持身体健康</li>
+<li>01:15:52  身体健康对工作生活的影响 + 痛风</li>
+<li>01:38:29  最后还有什么想说的</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/zhiyebing.mp3" length="50031050" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/zhiyebing.mp3</guid>
+            <itunes:duration>01:43:58</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;程序员的健康问题一直都备受关注，这次我们三位病友也来交流下病情，顺带分享一些经验和感想。&lt;/p&gt;
+
+&lt;p&gt;这次选了三个比较有代表性的病友，春光是颈椎病，我是背部顽疾，绿洲是腰间盘部分退化和腰间盘突出。从上到下，一条龙。&lt;/p&gt;
+
+&lt;p&gt;强调一下，这期并没有相关专家，也没有专业建议。祝各位听众，以及我们自己，都能越来越健康。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/24836362&quot;&gt;麸质过敏&lt;/a&gt;，我们不是相关专家，本文仅供参考，请大家理性判断&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chinacdc.cn/mtbd_8067/201908/t20190805_204454.html&quot;&gt;职业病相关的文章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/numbbbbb/ggtalk-rss/blob/master/xray.jpg&quot;&gt;春光的颈椎 X 光&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:45  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;05:05  遍历一下每个人的病&lt;/li&gt;
+&lt;li&gt;23:44  重点介绍职业相关的病情&lt;/li&gt;
+&lt;li&gt;46:22  为什么我们会得这些“职业病”&lt;/li&gt;
+&lt;li&gt;55:33  如何保持身体健康&lt;/li&gt;
+&lt;li&gt;01:15:52  身体健康对工作生活的影响 + 痛风&lt;/li&gt;
+&lt;li&gt;01:38:29  最后还有什么想说的&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,职业病,颈椎病</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
