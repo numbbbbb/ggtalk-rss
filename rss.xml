@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Jun 2020 18:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 8 Sep 2020 07:35:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5358,6 +5358,70 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,职业病,颈椎病</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>在国外生孩子</title>
+            <itunes:episode>68</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 8 Sep 2020 07:35:00 CDT</pubDate>
+            <description><![CDATA[
+<p>早就说了要聊聊生孩子，终于把节目录出来了！这次还是请来了我们的老朋友吕鹏，聊聊我们两家生孩子的过程和印象深刻的事。</p>
+
+<p>之后准备尽量减少每期节目的时长，一方面减轻我的录制和后期剪辑压力，另一方面也让大家听起来更轻松，虽然这期没控制住又录了两个小时……孩子这个话题很大，后面应该还有 2-3 期，聊聊带孩子以及教育孩子。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>育儿书籍领域的权威：《美国儿科学会育儿百科
+（Caring for Your Baby and Young Child）》</li>
+<li>吕鹏的微博：<a href="https://weibo.com/uittgbaby">@甩甩鸟哥很严肃</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>03:09  个人介绍 + 主题介绍</li>
+<li>05:04  到底要不要生孩子</li>
+<li>25:51  知道怀孕的时候是什么心情 + 备孕小知识</li>
+<li>35:45  怀孕期间的大事小事</li>
+<li>01:09:09  生孩子的过程 + 聊聊费用和医保</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/shenghaizi.mp3" length="124119632" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/shenghaizi.mp3</guid>
+            <itunes:duration>02:09:10</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;早就说了要聊聊生孩子，终于把节目录出来了！这次还是请来了我们的老朋友吕鹏，聊聊我们两家生孩子的过程和印象深刻的事。&lt;/p&gt;
+
+&lt;p&gt;之后准备尽量减少每期节目的时长，一方面减轻我的录制和后期剪辑压力，另一方面也让大家听起来更轻松，虽然这期没控制住又录了两个小时……孩子这个话题很大，后面应该还有 2-3 期，聊聊带孩子以及教育孩子。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;育儿书籍领域的权威：《美国儿科学会育儿百科
+（Caring for Your Baby and Young Child）》&lt;/li&gt;
+&lt;li&gt;吕鹏的微博：&lt;a href=&quot;https://weibo.com/uittgbaby&quot;&gt;@甩甩鸟哥很严肃&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;03:09  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;05:04  到底要不要生孩子&lt;/li&gt;
+&lt;li&gt;25:51  知道怀孕的时候是什么心情 + 备孕小知识&lt;/li&gt;
+&lt;li&gt;35:45  怀孕期间的大事小事&lt;/li&gt;
+&lt;li&gt;01:09:09  生孩子的过程 + 聊聊费用和医保&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,国外生孩子</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
