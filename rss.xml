@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 8 Sep 2020 07:35:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 07:35:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5422,6 +5422,78 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,国外生孩子</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>在国外带孩子</title>
+            <itunes:episode>69</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 22 Sep 2020 07:35:00 CDT</pubDate>
+            <description><![CDATA[
+<p>【碰到了录音事故，这次只能用备用的通话录音，音质不是太好。】上期聊了生孩子，这期接着聊带孩子。成长总是伴随着痛苦，婴儿阶段有非常多的困难和挑战，作为父母我们能聊的可太多了。</p>
+
+<p>这期我们先讲讲整体的经历，然后分别从安全、吃、睡、健康几个方面聊聊我们的经验和感受。随着孩子慢慢长大，好玩的事也越来越多。我们会讲到一些有趣的事，希望给各位新手父母一些鼓励。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://item.jd.com/12306961.html">《美国儿科学会育儿百科（Caring for Your Baby and Young Child）》</a></li>
+<li>梁杰提到的睡眠书：<a href="https://www.preciouslittlesleep.com/book/">The Precious Little Sleep</a></li>
+<li>记录孩子信息的应用：Baby Tracker（宝宝生活记录）</li>
+<li>吕鹏的<a href="https://rebornix.com/">个人网站</a></li>
+<li>吕鹏的微博：<a href="https://weibo.com/uittgbaby">@甩甩鸟哥很严肃</a></li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>03:03  个人介绍 + 主题介绍 + 国籍小知识</li>
+<li>15:12  带孩子的经历</li>
+<li>45:42  安全</li>
+<li>59:16  吃</li>
+<li>01:06:49  睡</li>
+<li>01:22:56  健康</li>
+<li>01:49:36  最后的三个小事</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/daihaizi.mp3" length="63000758" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/daihaizi.mp3</guid>
+            <itunes:duration>02:10:59</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;【碰到了录音事故，这次只能用备用的通话录音，音质不是太好。】上期聊了生孩子，这期接着聊带孩子。成长总是伴随着痛苦，婴儿阶段有非常多的困难和挑战，作为父母我们能聊的可太多了。&lt;/p&gt;
+
+&lt;p&gt;这期我们先讲讲整体的经历，然后分别从安全、吃、睡、健康几个方面聊聊我们的经验和感受。随着孩子慢慢长大，好玩的事也越来越多。我们会讲到一些有趣的事，希望给各位新手父母一些鼓励。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://item.jd.com/12306961.html&quot;&gt;《美国儿科学会育儿百科（Caring for Your Baby and Young Child）》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰提到的睡眠书：&lt;a href=&quot;https://www.preciouslittlesleep.com/book/&quot;&gt;The Precious Little Sleep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;记录孩子信息的应用：Baby Tracker（宝宝生活记录）&lt;/li&gt;
+&lt;li&gt;吕鹏的&lt;a href=&quot;https://rebornix.com/&quot;&gt;个人网站&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;吕鹏的微博：&lt;a href=&quot;https://weibo.com/uittgbaby&quot;&gt;@甩甩鸟哥很严肃&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;03:03  个人介绍 + 主题介绍 + 国籍小知识&lt;/li&gt;
+&lt;li&gt;15:12  带孩子的经历&lt;/li&gt;
+&lt;li&gt;45:42  安全&lt;/li&gt;
+&lt;li&gt;59:16  吃&lt;/li&gt;
+&lt;li&gt;01:06:49  睡&lt;/li&gt;
+&lt;li&gt;01:22:56  健康&lt;/li&gt;
+&lt;li&gt;01:49:36  最后的三个小事&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,国外带孩子</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
