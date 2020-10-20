@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 22 Sep 2020 07:35:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2020 08:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5494,6 +5494,72 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,国外带孩子</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>装修那点事儿</title>
+            <itunes:episode>70</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 20 Oct 2020 08:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>前段时间听了津津乐道的装修节目，刚好有朋友最近在装修，也有朋友在装修行业工作，这期把他们请过来聊聊天。</p>
+
+<p>刘鹏新房的装修即将完成，三个多月的装修过程，踩了很多坑，费了很多心，这期的前半段我们来听听他的故事。吕文翰参与的创业公司在装修领域已经做了五年，虽然负责的是技术，但这些年接触下来，他也了解了很多“行业内幕”，这期的后半段会和我们分享。</p>
+
+<p>这期内容不是广告，但这里出于朋友关系帮吕神打个广告：装修可以找住范儿，不能保证不出问题，但能保证解决问题。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>梁杰的微博：<a href="https://www.weibo.com/numbbbbb">@梁杰_numbbbbb</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>00:41  个人介绍 + 主题介绍</li>
+<li>04:33  神秘的北京户口</li>
+<li>20:33  刘鹏的装修历险记</li>
+<li>50:28  吕文翰的工作经历</li>
+<li>01:11:42  从装修材料开始，聊聊各种“行业内幕”</li>
+<li>01:17:48  装修相关的污染和环保</li>
+<li>01:29:02  在装修行业工作多年，有什么印象深刻的事 + 继续各种闲聊</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/zhuangxiu.mp3" length="52111579" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/zhuangxiu.mp3</guid>
+            <itunes:duration>01:48:18</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;前段时间听了津津乐道的装修节目，刚好有朋友最近在装修，也有朋友在装修行业工作，这期把他们请过来聊聊天。&lt;/p&gt;
+
+&lt;p&gt;刘鹏新房的装修即将完成，三个多月的装修过程，踩了很多坑，费了很多心，这期的前半段我们来听听他的故事。吕文翰参与的创业公司在装修领域已经做了五年，虽然负责的是技术，但这些年接触下来，他也了解了很多“行业内幕”，这期的后半段会和我们分享。&lt;/p&gt;
+
+&lt;p&gt;这期内容不是广告，但这里出于朋友关系帮吕神打个广告：装修可以找住范儿，不能保证不出问题，但能保证解决问题。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;梁杰的微博：&lt;a href=&quot;https://www.weibo.com/numbbbbb&quot;&gt;@梁杰_numbbbbb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:41  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;04:33  神秘的北京户口&lt;/li&gt;
+&lt;li&gt;20:33  刘鹏的装修历险记&lt;/li&gt;
+&lt;li&gt;50:28  吕文翰的工作经历&lt;/li&gt;
+&lt;li&gt;01:11:42  从装修材料开始，聊聊各种“行业内幕”&lt;/li&gt;
+&lt;li&gt;01:17:48  装修相关的污染和环保&lt;/li&gt;
+&lt;li&gt;01:29:02  在装修行业工作多年，有什么印象深刻的事 + 继续各种闲聊&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,装修,买房</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
