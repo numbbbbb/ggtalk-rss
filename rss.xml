@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Nov 2020 07:15:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 1 Dec 2020 10:10:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5616,6 +5616,78 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,新加坡</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>欧洲硅谷都柏林</title>
+            <itunes:episode>72</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 1 Dec 2020 10:10:00 CDT</pubDate>
+            <description><![CDATA[
+<p>都柏林在爱尔兰，先给和我一样对欧洲不太了解的听众解释一下。这期的嘉宾小魏目前在微软工作，会和我们分享下在爱尔兰的留学和工作经历，以及生活体验。</p>
+
+<p>录节目那天嗓子有点哑，请大家见谅。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>Code: The Hidden Language of Computer Hardware and Software，中文名《编码：隐匿在计算机软硬件背后的语言》</li>
+<li>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems，中文名《数据密集型应用系统设计》</li>
+<li>小魏的<a href="www.linkedin.com/in/zc-wei">LinkedIn</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>00:45  个人介绍 + 主题介绍</li>
+<li>03:06  怎么想到要出国</li>
+<li>08:19  聊聊留学申请和中介</li>
+<li>18:02  在爱尔兰的读书体验</li>
+<li>37:23  毕业之后的工作经历</li>
+<li>01:01:59  都柏林的衣食住行</li>
+<li>01:15:06  英国、北爱尔兰、爱尔兰</li>
+<li>01:22:14  疫情对工作生活的影响</li>
+<li>01:29:27  爱尔兰的永居</li>
+<li>01:34:35  最后推荐两本书</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/dubolin.mp3" length="47023050" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/dubolin.mp3</guid>
+            <itunes:duration>01:37:42</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;都柏林在爱尔兰，先给和我一样对欧洲不太了解的听众解释一下。这期的嘉宾小魏目前在微软工作，会和我们分享下在爱尔兰的留学和工作经历，以及生活体验。&lt;/p&gt;
+
+&lt;p&gt;录节目那天嗓子有点哑，请大家见谅。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;Code: The Hidden Language of Computer Hardware and Software，中文名《编码：隐匿在计算机软硬件背后的语言》&lt;/li&gt;
+&lt;li&gt;Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems，中文名《数据密集型应用系统设计》&lt;/li&gt;
+&lt;li&gt;小魏的&lt;a href=&quot;www.linkedin.com/in/zc-wei&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:45  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;03:06  怎么想到要出国&lt;/li&gt;
+&lt;li&gt;08:19  聊聊留学申请和中介&lt;/li&gt;
+&lt;li&gt;18:02  在爱尔兰的读书体验&lt;/li&gt;
+&lt;li&gt;37:23  毕业之后的工作经历&lt;/li&gt;
+&lt;li&gt;01:01:59  都柏林的衣食住行&lt;/li&gt;
+&lt;li&gt;01:15:06  英国、北爱尔兰、爱尔兰&lt;/li&gt;
+&lt;li&gt;01:22:14  疫情对工作生活的影响&lt;/li&gt;
+&lt;li&gt;01:29:27  爱尔兰的永居&lt;/li&gt;
+&lt;li&gt;01:34:35  最后推荐两本书&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,爱尔兰,都柏林</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
