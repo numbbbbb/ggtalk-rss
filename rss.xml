@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 1 Dec 2020 10:10:00 CDT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2020 06:20:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5688,6 +5688,90 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,爱尔兰,都柏林</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>我的 2020</title>
+            <itunes:episode>73</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Wed, 30 Dec 2020 06:20:00 CDT</pubDate>
+            <description><![CDATA[
+<p>*此处插入一段 2020 回顾和感慨文字，以对 2021 的展望和期待结束。*</p>
+
+<p>这期再次尝试单口，聊聊这一年来我都忙了啥，发生了什么大的变化，以及一个新兴趣和一个英语学习技巧。说是聊事，更多的还是从事出发聊聊我的各种胡思乱想。</p>
+
+<p>每次整这些思想汇报都很矛盾。很早之前看到一句话，是韩寒还是谁说的来着，有些人就是放个屁都能感悟出一堆人生大道理。我一直在努力避免成为这种人，但屁放多了（今年吃蔬菜真的很多）难免还是要发表点感想，提前和大家说声抱歉。</p>
+
+<p>建议是加速听，或者不听，你省了时间我省了 CDN 流量，双赢。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>孩子教育相关的三本书，列出顺序就是我推荐的阅读顺序：</li>
+<li>《如何说孩子才会听、怎么听孩子才肯说》（How to Talk So Kids Will Listen & Listen So Kids Will Talk）</li>
+<li>《正面管教》（Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills）</li>
+<li>《去情绪化管教》（No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind）</li>
+<li>Keep 课程：有氧操·全身燃动（怀旧版）</li>
+<li>健康相关的网站：<a href="https://www.healthline.com/">healthline</a></li>
+<li>红肉相关的<a href="https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good#TOC_TITLE_HDR_4">文章</a>，这里没提建议的量，大家可以自行搜索更多内容</li>
+<li>肉类烹饪方法比较的<a href="https://www.healthline.com/nutrition/healthiest-way-to-cook-meat#TOC_TITLE_HDR_4">文章</a></li>
+<li>推荐做 shadowing 的播客：<a href="https://www.codenewbie.org/podcast">CodeNewbie</a></li>
+<li>推荐做 shadowing 的播客：<a href="https://learntocodewith.me/podcast/">Learn to Code With Me</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>01:12  听众来信</li>
+<li>05:21  主题介绍</li>
+<li>08:49  第一部分：忙碌（带孩子）</li>
+<li>23:57  第二部分：变化（社交、互联网、健康和饮食）</li>
+<li>55:34  第三部分：手工皮具，学习英语</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/2020.mp3" length="33197016" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/2020.mp3</guid>
+            <itunes:duration>01:08:54</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;*此处插入一段 2020 回顾和感慨文字，以对 2021 的展望和期待结束。*&lt;/p&gt;
+
+&lt;p&gt;这期再次尝试单口，聊聊这一年来我都忙了啥，发生了什么大的变化，以及一个新兴趣和一个英语学习技巧。说是聊事，更多的还是从事出发聊聊我的各种胡思乱想。&lt;/p&gt;
+
+&lt;p&gt;每次整这些思想汇报都很矛盾。很早之前看到一句话，是韩寒还是谁说的来着，有些人就是放个屁都能感悟出一堆人生大道理。我一直在努力避免成为这种人，但屁放多了（今年吃蔬菜真的很多）难免还是要发表点感想，提前和大家说声抱歉。&lt;/p&gt;
+
+&lt;p&gt;建议是加速听，或者不听，你省了时间我省了 CDN 流量，双赢。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;孩子教育相关的三本书，列出顺序就是我推荐的阅读顺序：&lt;/li&gt;
+&lt;li&gt;《如何说孩子才会听、怎么听孩子才肯说》（How to Talk So Kids Will Listen &amp; Listen So Kids Will Talk）&lt;/li&gt;
+&lt;li&gt;《正面管教》（Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills）&lt;/li&gt;
+&lt;li&gt;《去情绪化管教》（No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind）&lt;/li&gt;
+&lt;li&gt;Keep 课程：有氧操·全身燃动（怀旧版）&lt;/li&gt;
+&lt;li&gt;健康相关的网站：&lt;a href=&quot;https://www.healthline.com/&quot;&gt;healthline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;红肉相关的&lt;a href=&quot;https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good#TOC_TITLE_HDR_4&quot;&gt;文章&lt;/a&gt;，这里没提建议的量，大家可以自行搜索更多内容&lt;/li&gt;
+&lt;li&gt;肉类烹饪方法比较的&lt;a href=&quot;https://www.healthline.com/nutrition/healthiest-way-to-cook-meat#TOC_TITLE_HDR_4&quot;&gt;文章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;推荐做 shadowing 的播客：&lt;a href=&quot;https://www.codenewbie.org/podcast&quot;&gt;CodeNewbie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;推荐做 shadowing 的播客：&lt;a href=&quot;https://learntocodewith.me/podcast/&quot;&gt;Learn to Code With Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01:12  听众来信&lt;/li&gt;
+&lt;li&gt;05:21  主题介绍&lt;/li&gt;
+&lt;li&gt;08:49  第一部分：忙碌（带孩子）&lt;/li&gt;
+&lt;li&gt;23:57  第二部分：变化（社交、互联网、健康和饮食）&lt;/li&gt;
+&lt;li&gt;55:34  第三部分：手工皮具，学习英语&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,2020</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
