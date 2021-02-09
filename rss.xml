@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 30 Dec 2020 06:20:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 9 Feb 2021 08:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5772,6 +5772,56 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,2020</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>新年闲聊</title>
+            <itunes:episode>74</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 9 Feb 2021 08:50:00 CDT</pubDate>
+            <description><![CDATA[
+<p>这期和爆炸大哥闲聊了两个小时，说说 2020 的生活，讲讲玩了什么学了什么，最后再来点真心话。过年了嘛，还是祝大家身体健康，开心快乐。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>01:20  个人介绍 + 主题介绍</li>
+<li>04:35  疫情 + 生活 + 一些开心的事</li>
+<li>01:02:35  学了什么技术</li>
+<li>01:29:37  容易挨骂的真心话，建议跳过</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/2021chunjie.mp3" length="63477260" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/2021chunjie.mp3</guid>
+            <itunes:duration>02:11:59</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;这期和爆炸大哥闲聊了两个小时，说说 2020 的生活，讲讲玩了什么学了什么，最后再来点真心话。过年了嘛，还是祝大家身体健康，开心快乐。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01:20  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;04:35  疫情 + 生活 + 一些开心的事&lt;/li&gt;
+&lt;li&gt;01:02:35  学了什么技术&lt;/li&gt;
+&lt;li&gt;01:29:37  容易挨骂的真心话，建议跳过&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,春节,新年</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
