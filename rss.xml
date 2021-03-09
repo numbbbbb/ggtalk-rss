@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 9 Feb 2021 08:50:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 9 Mar 2021 07:10:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5824,6 +5824,128 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,春节,新年</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>还要聊非自然死亡？都 2021 年了！</title>
+            <itunes:episode>75</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 9 Mar 2021 07:10:00 CDT</pubDate>
+            <description><![CDATA[
+<p>结果其实非自然死亡只聊了一个小时，后面两个半小时都是聊日剧话题。是的你没看错，这期剪辑之后的长度是三个半小时！没记错的话是 ggtalk 目前时长最长的一期。</p>
+
+<p>最近梁杰看完了《非自然死亡》，非常喜欢，非常想表达这种喜欢，于是就有了这期节目。本来只是想找人闲聊，没想到找到了真正懂日剧的十元，给我好好上了一课。日剧的历史、分类、各个剧场，以及知名的作家、脚本家、演员，学到了很多。</p>
+
+<p>除了日剧，还请十元讲了讲她在日本真实的工作体验。对我们这些不熟悉的人来说，一提起日本的工作环境，总是让人想到死板、压力大、加班，老员工还会欺负新员工。到底是不是这样？请听十元分解。</p>
+
+<p>虽然已经在节目里说过几遍了，这里还是再次免责：我们不是专业影评、分析，只是作为普通观众（我）和专业观众（十元）的闲聊。欢迎交流、补充、指出错误，不欢迎极端粉丝和冷嘲热讽的“专家”们。</p>
+
+<p>前 80 分钟主要是梁杰的低质量扯淡，如果你不熟悉他或者不喜欢他，或者既不熟悉也不喜欢他，那建议从 01:22:39 开始收听，后两个小时质量还是很高的。</p>
+
+<p>参考链接（这期提到的剧名太多，就不一个一个加书名号了）：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>石原里美：有钱男与粉红女，朝五晚九，失恋巧克力职人，校对女孩，灰姑娘药剂师</li>
+<li>野木亚纪子：逃避可耻但有用，无法成为野兽的我们</li>
+<li>洼田正孝：为了 N</li>
+<li>日九：半泽直树，下町火箭，仁医，黑色止血钳</li>
+<li>土十：女王的教室，极道鲜师</li>
+<li>木九：Doctor-X～外科医·大门未知子～，紧急取调室</li>
+<li>月九：东京爱情故事，101 次求婚，爱情白皮书，悠长假期，极恶乱暴者</li>
+<li>WOWOW：真实之门，坡道上的家，马赛克日本，贤者之爱</li>
+<li>提到的一些：海女，胜者即是正义，东野圭吾，宫部美雪</li>
+<li>大河剧：真田丸，坂上之云，龙马传，笃姬，八重之樱，利家与松</li>
+<li>深夜剧：深夜食堂，桃花期，Around 30 无修正，真幌站前番外地</li>
+<li>导演：黑泽明，小津安二郎，北野武，岩井俊二，是枝裕和，园子温，三谷幸喜</li>
+<li>电影：罗生门，东京物语</li>
+<li>——下面是结尾部分十元的推荐——</li>
+<li>◼︎脚本家</li>
+<li>-古沢良太：《胜者即是正义》</li>
+<li>-宫藤官九郎：《虎与龙》《海女》《宽松世代又如何》</li>
+<li>-三谷幸喜：《古畑任三郎》（别名：绅士刑警）《新选组》《真田丸》，电影作品有《笑之大学》《广播室时间》《太空港2013》（著名的一镜到底）</li>
+<li>-坂元裕二：《mother》《woman》《即便如此也要活下去》《最完美的离婚》《问题餐厅》</li>
+<li>-野岛伸司：《未成年》《高校教师》《人间失格》《没有家的孩子》《明天，妈妈不在》（监修）</li>
+<li>◼︎作家</li>
+<li>-山崎丰子：《白色巨塔》《华丽一族》《不毛地带》</li>
+<li>-池井户润：《半泽直树》《陆王》《下町火箭》</li>
+<li>-松本清张：《黑色皮革手册》</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+
+<p>时间线：</p>
+<ul>
+<li>00:15  超长的前奏</li>
+<li>03:48  个人介绍</li>
+<li>08:38  聊聊非自然死亡，如何了解到这部剧，每集的亮点，看完的感想</li>
+<li>01:22:39  日剧的历史，分类，经典剧场，以及为什么日剧这么好看</li>
+<li>02:08:54  真实的日本职场到底是什么样</li>
+<li>02:41:22  日剧和美剧</li>
+<li>02:46:03  日本电影和韩国电影</li>
+<li>02:54:49  推荐一些日剧</li>
+</ul>]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/unnatural.mp3" length="99594804" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/unnatural.mp3</guid>
+            <itunes:duration>03:27:13</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;结果其实非自然死亡只聊了一个小时，后面两个半小时都是聊日剧话题。是的你没看错，这期剪辑之后的长度是三个半小时！没记错的话是 ggtalk 目前时长最长的一期。&lt;/p&gt;
+
+&lt;p&gt;最近梁杰看完了《非自然死亡》，非常喜欢，非常想表达这种喜欢，于是就有了这期节目。本来只是想找人闲聊，没想到找到了真正懂日剧的十元，给我好好上了一课。日剧的历史、分类、各个剧场，以及知名的作家、脚本家、演员，学到了很多。&lt;/p&gt;
+
+&lt;p&gt;除了日剧，还请十元讲了讲她在日本真实的工作体验。对我们这些不熟悉的人来说，一提起日本的工作环境，总是让人想到死板、压力大、加班，老员工还会欺负新员工。到底是不是这样？请听十元分解。&lt;/p&gt;
+
+&lt;p&gt;虽然已经在节目里说过几遍了，这里还是再次免责：我们不是专业影评、分析，只是作为普通观众（我）和专业观众（十元）的闲聊。欢迎交流、补充、指出错误，不欢迎极端粉丝和冷嘲热讽的“专家”们。&lt;/p&gt;
+
+&lt;p&gt;前 80 分钟主要是梁杰的低质量扯淡，如果你不熟悉他或者不喜欢他，或者既不熟悉也不喜欢他，那建议从 01:22:39 开始收听，后两个小时质量还是很高的。&lt;/p&gt;
+
+&lt;p&gt;参考链接（这期提到的剧名太多，就不一个一个加书名号了）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;石原里美：有钱男与粉红女，朝五晚九，失恋巧克力职人，校对女孩，灰姑娘药剂师&lt;/li&gt;
+&lt;li&gt;野木亚纪子：逃避可耻但有用，无法成为野兽的我们&lt;/li&gt;
+&lt;li&gt;洼田正孝：为了 N&lt;/li&gt;
+&lt;li&gt;日九：半泽直树，下町火箭，仁医，黑色止血钳&lt;/li&gt;
+&lt;li&gt;土十：女王的教室，极道鲜师&lt;/li&gt;
+&lt;li&gt;木九：Doctor-X～外科医·大门未知子～，紧急取调室&lt;/li&gt;
+&lt;li&gt;月九：东京爱情故事，101 次求婚，爱情白皮书，悠长假期，极恶乱暴者&lt;/li&gt;
+&lt;li&gt;WOWOW：真实之门，坡道上的家，马赛克日本，贤者之爱&lt;/li&gt;
+&lt;li&gt;提到的一些：海女，胜者即是正义，东野圭吾，宫部美雪&lt;/li&gt;
+&lt;li&gt;大河剧：真田丸，坂上之云，龙马传，笃姬，八重之樱，利家与松&lt;/li&gt;
+&lt;li&gt;深夜剧：深夜食堂，桃花期，Around 30 无修正，真幌站前番外地&lt;/li&gt;
+&lt;li&gt;导演：黑泽明，小津安二郎，北野武，岩井俊二，是枝裕和，园子温，三谷幸喜&lt;/li&gt;
+&lt;li&gt;电影：罗生门，东京物语&lt;/li&gt;
+&lt;li&gt;——下面是结尾部分十元的推荐——&lt;/li&gt;
+&lt;li&gt;◼︎脚本家&lt;/li&gt;
+&lt;li&gt;-古沢良太：《胜者即是正义》&lt;/li&gt;
+&lt;li&gt;-宫藤官九郎：《虎与龙》《海女》《宽松世代又如何》&lt;/li&gt;
+&lt;li&gt;-三谷幸喜：《古畑任三郎》（别名：绅士刑警）《新选组》《真田丸》，电影作品有《笑之大学》《广播室时间》《太空港2013》（著名的一镜到底）&lt;/li&gt;
+&lt;li&gt;-坂元裕二：《mother》《woman》《即便如此也要活下去》《最完美的离婚》《问题餐厅》&lt;/li&gt;
+&lt;li&gt;-野岛伸司：《未成年》《高校教师》《人间失格》《没有家的孩子》《明天，妈妈不在》（监修）&lt;/li&gt;
+&lt;li&gt;◼︎作家&lt;/li&gt;
+&lt;li&gt;-山崎丰子：《白色巨塔》《华丽一族》《不毛地带》&lt;/li&gt;
+&lt;li&gt;-池井户润：《半泽直树》《陆王》《下町火箭》&lt;/li&gt;
+&lt;li&gt;-松本清张：《黑色皮革手册》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:15  超长的前奏&lt;/li&gt;
+&lt;li&gt;03:48  个人介绍&lt;/li&gt;
+&lt;li&gt;08:38  聊聊非自然死亡，如何了解到这部剧，每集的亮点，看完的感想&lt;/li&gt;
+&lt;li&gt;01:22:39  日剧的历史，分类，经典剧场，以及为什么日剧这么好看&lt;/li&gt;
+&lt;li&gt;02:08:54  真实的日本职场到底是什么样&lt;/li&gt;
+&lt;li&gt;02:41:22  日剧和美剧&lt;/li&gt;
+&lt;li&gt;02:46:03  日本电影和韩国电影&lt;/li&gt;
+&lt;li&gt;02:54:49  推荐一些日剧&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,非自然死亡,日剧</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
