@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 23 Mar 2021 13:40:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 08:40:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -5965,11 +5965,55 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
 <br/>
 
 <p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
-</ul>]]>
+]]>
             </description>
             <enclosure url="https://talkcdn.swift.gg/audio/xiache_xuequfang.mp3" length="9848707" type="audio/mpeg" />
             <guid>https://talkcdn.swift.gg/audio/xiache_xuequfang.mp3</guid>
             <itunes:duration>10:15</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;灵感就像 bug，总在你意想不到的时候出现。发个微博呢懒得打字，找人录一期节目呢又不够长不够全面细致。尝试一下新形式吧，聊十块钱的，我就这么一说，您就这么一听。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,学区房,私立学校</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Daycare | Preschool | 蒙特梭利——聊聊我们的选择经历</title>
+            <itunes:episode>77</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 13 Apr 2021 08:40:00 CDT</pubDate>
+            <description><![CDATA[
+<p>灵感就像 bug，总在你意想不到的时候出现。发个微博呢懒得打字，找人录一期节目呢又不够长不够全面细致。尝试一下新形式吧，聊十块钱的，我就这么一说，您就这么一听。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+<p>梁杰提到的书：<a href="https://item.jd.com/12935732.html">《异类 不一样的成功启示录（Outliers: Story of Success）》</a></p>
+<p>时间线：</p>
+<ul>
+<li>00:34  个人介绍 + 主题介绍</li>
+<li>04:20  年龄划分 + 学校类型 + 学费</li>
+<li>25:45  讲讲我们的选择过程</li>
+<li>56:35  学前阶段看重的是什么</li>
+<li>01:04:40  聊聊蒙特梭利</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/daycare.mp3" length="40663241" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/daycare.mp3</guid>
+            <itunes:duration>01:24:27</itunes:duration>
             <itunes:summary>
 &lt;p&gt;灵感就像 bug，总在你意想不到的时候出现。发个微博呢懒得打字，找人录一期节目呢又不够长不够全面细致。尝试一下新形式吧，聊十块钱的，我就这么一说，您就这么一听。&lt;/p&gt;
 
