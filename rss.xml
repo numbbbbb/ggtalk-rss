@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 13 Apr 2021 08:40:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6028,6 +6028,65 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,学区房,私立学校</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>某 C：两年前从合肥去广州，两年后从广州回合肥，我为什么放弃一线城市和一线大厂</title>
+            <itunes:episode>78</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 27 Apr 2021 07:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>大厂，一线城市，有人想去，有人想走。这期巧了，我们请到的嘉宾是先去了大厂和一线城市，然后又选择离开，回到自己的家乡。更巧的是，之前他准备跳槽和刚刚入职大厂时也来录了节目，加上这期就是完整的三部曲。</p>
+
+<p>前两期都只说某 C，这期可以说全称了，BNC。B 哥首先会讲讲为什么离开微信，然后聊聊微信的工作体验，接着作为微信前员工，讨论一下微信为什么总挨骂，最后聊聊现在的工作和对未来的展望。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>《<a href="https://talk.swift.gg/12">狭义跳槽论：面试官，大厂新人和准备起跳的某 C</a>》</li>
+<li>《<a href="https://talk.swift.gg/32">某 C 的微信入职经验分享</a>》</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+<p>时间线：</p>
+<ul>
+<li>00:38  个人介绍 + 主题介绍</li>
+<li>04:01  为什么离开微信</li>
+<li>17:23  在微信的工作体验</li>
+<li>40:10  聊聊微信为什么总被人骂</li>
+<li>01:05:59  聊聊现状和未来的计划</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/weixin.mp3" length="47296965" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/weixin.mp3</guid>
+            <itunes:duration>01:38:16</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;大厂，一线城市，有人想去，有人想走。这期巧了，我们请到的嘉宾是先去了大厂和一线城市，然后又选择离开，回到自己的家乡。更巧的是，之前他准备跳槽和刚刚入职大厂时也来录了节目，加上这期就是完整的三部曲。&lt;/p&gt;
+
+&lt;p&gt;前两期都只说某 C，这期可以说全称了，BNC。B 哥首先会讲讲为什么离开微信，然后聊聊微信的工作体验，接着作为微信前员工，讨论一下微信为什么总挨骂，最后聊聊现在的工作和对未来的展望。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;《&lt;a href=&quot;https://talk.swift.gg/12&quot;&gt;狭义跳槽论：面试官，大厂新人和准备起跳的某 C&lt;/a&gt;》&lt;/li&gt;
+&lt;li&gt;《&lt;a href=&quot;https://talk.swift.gg/32&quot;&gt;某 C 的微信入职经验分享&lt;/a&gt;》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:38  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;04:01  为什么离开微信&lt;/li&gt;
+&lt;li&gt;17:23  在微信的工作体验&lt;/li&gt;
+&lt;li&gt;40:10  聊聊微信为什么总被人骂&lt;/li&gt;
+&lt;li&gt;01:05:59  聊聊现状和未来的计划&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,微信</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
