@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 27 Apr 2021 07:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:40:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6087,6 +6087,65 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,微信</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Flash：无尽告别</title>
+            <itunes:episode>79</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 11 May 2021 07:40:00 CDT</pubDate>
+            <description><![CDATA[
+<p>2020 年 12 月 31 日开始，Adobe 不再提供对 Flash 播放器的支持；2021 年 1 月 12 日开始，Flash 播放器将禁止运行所有 Flash 内容。</p>
+
+<p>1995 年 Flash 诞生，到 2020 年底停止支持。我们这一代人，算是经历了 Flash 从辉煌到没落的整个过程。闪客、小小、各种 MV 和搞笑视频，那个年代的网络记忆里，总是少不了 Flash 的身影。</p>
+
+<p>这一期，我们请到了《拳皇wing》的作者梦旅人，聊聊他的 Flash 开发经历，也讨论一下为什么 Flash 最终被时代淘汰。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>爆炸大哥参与录制的<a href="https://talk.swift.gg/search?q=爆炸">节目</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+<p>时间线：</p>
+<ul>
+<li>01:11  个人介绍 + 主题介绍</li>
+<li>03:41  Flash 初体验 + Flash 游戏开发经历</li>
+<li>26:43  Flash 为什么被淘汰</li>
+<li>46:16  梦哥的现状</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/flash.mp3" length="24721412" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/flash.mp3</guid>
+            <itunes:duration>00:51:15</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;2020 年 12 月 31 日开始，Adobe 不再提供对 Flash 播放器的支持；2021 年 1 月 12 日开始，Flash 播放器将禁止运行所有 Flash 内容。&lt;/p&gt;
+
+&lt;p&gt;1995 年 Flash 诞生，到 2020 年底停止支持。我们这一代人，算是经历了 Flash 从辉煌到没落的整个过程。闪客、小小、各种 MV 和搞笑视频，那个年代的网络记忆里，总是少不了 Flash 的身影。&lt;/p&gt;
+
+&lt;p&gt;这一期，我们请到了《拳皇wing》的作者梦旅人，聊聊他的 Flash 开发经历，也讨论一下为什么 Flash 最终被时代淘汰。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;爆炸大哥参与录制的&lt;a href=&quot;https://talk.swift.gg/search?q=爆炸&quot;&gt;节目&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01:11  个人介绍 + 主题介绍&lt;/li&gt;
+&lt;li&gt;03:41  Flash 初体验 + Flash 游戏开发经历&lt;/li&gt;
+&lt;li&gt;26:43  Flash 为什么被淘汰&lt;/li&gt;
+&lt;li&gt;46:16  梦哥的现状&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,Flash</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
