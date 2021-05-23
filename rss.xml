@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 May 2021 07:40:00 CDT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 20:10:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6146,6 +6146,25 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,Flash</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>瞎扯 | Dyson，你让我很失望</title>
+            <itunes:episode>80</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sat, 22 May 2021 20:10:00 CDT</pubDate>
+            <description><![CDATA[
+<p>瞎扯又来了，不吐不快！</p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/dyson.mp3" length="5901919" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/dyson.mp3</guid>
+            <itunes:duration>00:06:09</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;瞎扯又来了，不吐不快！&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,Dyson,戴森</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
