@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 22 May 2021 20:10:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 1 Jun 2021 13:30:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6165,6 +6165,65 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,Dyson,戴森</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>如何构建一个稳定的服务</title>
+            <itunes:episode>81</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 1 Jun 2021 13:30:00 CDT</pubDate>
+            <description><![CDATA[
+<p>本期请到在硅谷科技公司工作的云淡风轻，聊聊 SRE（Site Reliability Engineer）以及构建稳定的服务。话题很大，本期主要是科普性质，给像我这样的外行介绍一下 SRE 是什么，大概有哪些通用的方法来确保服务稳定。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li>一些术语：site reliability engineering(SRE), reliability, availability, scalability, efficiency, infrastructure</li>
+<li>推荐的书：<a href="https://sre.google/books/">SRE Books</a></li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+<p>时间线：</p>
+<ul>
+<li>00:40  个人介绍 + 主题介绍 + 免责声明</li>
+<li>05:52  SRE 和运维有什么区别 + SRE 职位相关的讨论</li>
+<li>13:26  稳定性为什么重要 + 稳定性取决于什么 + 宕机</li>
+<li>23:47  如何提高稳定性——程序 bug 的处理</li>
+<li>38:49  如何提高稳定性——灾备</li>
+<li>58:52  如何提高稳定性——基础设施故障</li>
+<li>01:04:56  如何提高稳定性——功能优先级</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/sre.mp3" length="38700943" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/sre.mp3</guid>
+            <itunes:duration>01:20:22</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;本期请到在硅谷科技公司工作的云淡风轻，聊聊 SRE（Site Reliability Engineer）以及构建稳定的服务。话题很大，本期主要是科普性质，给像我这样的外行介绍一下 SRE 是什么，大概有哪些通用的方法来确保服务稳定。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;一些术语：site reliability engineering(SRE), reliability, availability, scalability, efficiency, infrastructure&lt;/li&gt;
+&lt;li&gt;推荐的书：&lt;a href=&quot;https://sre.google/books/&quot;&gt;SRE Books&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:40  个人介绍 + 主题介绍 + 免责声明&lt;/li&gt;
+&lt;li&gt;05:52  SRE 和运维有什么区别 + SRE 职位相关的讨论&lt;/li&gt;
+&lt;li&gt;13:26  稳定性为什么重要 + 稳定性取决于什么 + 宕机&lt;/li&gt;
+&lt;li&gt;23:47  如何提高稳定性——程序 bug 的处理&lt;/li&gt;
+&lt;li&gt;38:49  如何提高稳定性——灾备&lt;/li&gt;
+&lt;li&gt;58:52  如何提高稳定性——基础设施故障&lt;/li&gt;
+&lt;li&gt;01:04:56  如何提高稳定性——功能优先级&lt;/li&gt;
+&lt;/ul&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,SRE,服务稳定性,reliability</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
