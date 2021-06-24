@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 1 Jun 2021 13:30:00 CDT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 16:20:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6224,6 +6224,45 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,SRE,服务稳定性,reliability</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>特别节目 | 高三·十年</title>
+            <itunes:episode>82</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Thu, 24 Jun 2021 16:20:00 CDT</pubDate>
+            <description><![CDATA[
+<p>本期是视频节目，究极喝酒聊天，纯湿货。观看请点击下面的 B 站链接。音频是简介 + 附赠的瞎扯。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+<li><a href="https://www.bilibili.com/video/BV1Pb4y1C7dg/">B 站链接</a></li>
+<li>推荐的 YouTube 频道：医痴的木头屋</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/gaosan.mp3" length="8659405" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/gaosan.mp3</guid>
+            <itunes:duration>00:18:02</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;本期是视频节目，究极喝酒聊天，纯湿货。观看请点击下面的 B 站链接。音频是简介 + 附赠的瞎扯。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Pb4y1C7dg/&quot;&gt;B 站链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;推荐的 YouTube 频道：医痴的木头屋&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,高三</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
