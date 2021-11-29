@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Nov 2021 14:40:00 CDT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 14:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6306,6 +6306,41 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:duration>01:18:15</itunes:duration>
             <itunes:summary>
 &lt;p&gt;好久不见，近期估计都是这种单口闲聊。本期先讨论一个问题：加拿大到底冷不冷。然后聊聊这边的取暖方式，以及冬季和开车相关的各种困难、经验和故事。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,加拿大,加拿大冬天</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>在加拿大过冬——补充</title>
+            <itunes:episode>85</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Mon, 29 Nov 2021 14:50:00 CDT</pubDate>
+            <description><![CDATA[
+<p>上期聊了很多，但后面发现还是漏了一些东西，这期续上。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/canada_winter_2.mp3" length="24713519" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/canada_winter_2.mp3</guid>
+            <itunes:duration>00:51:13</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;上期聊了很多，但后面发现还是漏了一些东西，这期续上。&lt;/p&gt;
 
 &lt;p&gt;参考链接：&lt;/p&gt;
 &lt;ul&gt;
