@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 29 Nov 2021 14:50:00 CDT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6352,6 +6352,45 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者,加拿大,加拿大冬天</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>佛系技术翻译组 SwiftGG 的过去与现在</title>
+            <itunes:episode>86</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sun, 12 Dec 2021 15:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>这期是和卓同学的卖鱼桥分桥一起录制的串台节目。录了有一段时间了，最近刚剪好发出来。主要是和卓同学、mm 一起聊聊我们 SwiftGG 翻译组。</p>
+
+<p>算了一下，SwiftGG 从正式成立到现在也有 7 年多了。最初为什么成立？如何吸收成员发展壮大？后期为什么越来越不活跃？这期我们就来好好聊聊。</p>
+
+<p>参考链接：</p>
+<ul>
+<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>
+</ul>
+<br/>
+
+<p>新听众？推荐阅读<a href="https://talk.swift.gg/guide">新听众指南</a></p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/swiftgg_maiyuqiao.mp3" length="34938870" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/swiftgg_maiyuqiao.mp3</guid>
+            <itunes:duration>01:20:13</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;这期是和卓同学的卖鱼桥分桥一起录制的串台节目。录了有一段时间了，最近刚剪好发出来。主要是和卓同学、mm 一起聊聊我们 SwiftGG 翻译组。&lt;/p&gt;
+
+&lt;p&gt;算了一下，SwiftGG 从正式成立到现在也有 7 年多了。最初为什么成立？如何吸收成员发展壮大？后期为什么越来越不活跃？这期我们就来好好聊聊。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+
+&lt;p&gt;新听众？推荐阅读&lt;a href=&quot;https://talk.swift.gg/guide&quot;&gt;新听众指南&lt;/a&gt;&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者,SwiftGG</itunes:keywords>
           <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
