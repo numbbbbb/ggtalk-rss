@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 May 2022 14:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2022 09:50:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6501,6 +6501,25 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:duration>01:24:32</itunes:duration>
             <itunes:summary>
 &lt;p&gt;这里写一下完整的型号：2021 Ram Classic Warlock。每天发动起来，心情都是愉悦的，累并快乐着。&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>闲聊 | 加拿大的房子类型和居住体验</title>
+            <itunes:episode>88</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Tue, 17 May 2022 09:50:00 CDT</pubDate>
+            <description><![CDATA[
+<p>房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。</p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/house1.mp3" length="43512077" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/house1.mp3</guid>
+            <itunes:duration>01:30:24</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。&lt;/p&gt;
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者</itunes:keywords>
