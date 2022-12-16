@@ -17,7 +17,7 @@
         <language>zh-cn</language>
         <copyright>Swift.GG copyright 2019</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 7 Aug 2022 10:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 11:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6539,6 +6539,25 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:duration>01:59:19</itunes:duration>
             <itunes:summary>
 &lt;p&gt;期待已久的温哥华之旅，因为意外从 7 天变成了 10 天，但也更加完整的考察了温哥华各地的风土人情。总体来说，温哥华并不适合我们，至于为什么，请听节目内容。&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>文科转码的程序员，在日本跳了个槽</title>
+            <itunes:episode>90</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Thu, 15 Dec 2022 11:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>大家好久不见！这几个月太忙了，年底终于有些时间来录节目。这期和十元聊聊在日本跳槽的经历，以及她对日本 IT 工作和行业的感想。由于录音设备问题，前两分钟梁杰的声音比较小，两分钟之后就正常了。</p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/japan_job.mp3" length="49567276" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/japan_job.mp3</guid>
+            <itunes:duration>01:43:00</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;大家好久不见！这几个月太忙了，年底终于有些时间来录节目。这期和十元聊聊在日本跳槽的经历，以及她对日本 IT 工作和行业的感想。由于录音设备问题，前两分钟梁杰的声音比较小，两分钟之后就正常了。&lt;/p&gt;
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者</itunes:keywords>
