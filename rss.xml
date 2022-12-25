@@ -15,9 +15,9 @@
 我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。
         </description>
         <language>zh-cn</language>
-        <copyright>Swift.GG copyright 2019</copyright>
+        <copyright>Swift.GG copyright 2022</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 15 Dec 2022 11:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 22:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -1164,7 +1164,7 @@
 
 <p>《听莲叔的话》</p>
 
-<p>梁杰： 
+<p>梁杰：
 <br/>// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
 <br/>小朋友你是否有很多问号
 <br/>为什么 别人在那看漫画
@@ -1270,7 +1270,7 @@
 
 &lt;p&gt;《听莲叔的话》&lt;/p&gt;
 
-&lt;p&gt;梁杰： 
+&lt;p&gt;梁杰：
 &lt;br/&gt;// 微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）
 &lt;br/&gt;小朋友你是否有很多问号
 &lt;br/&gt;为什么 别人在那看漫画
@@ -6558,6 +6558,25 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:duration>01:43:00</itunes:duration>
             <itunes:summary>
 &lt;p&gt;大家好久不见！这几个月太忙了，年底终于有些时间来录节目。这期和十元聊聊在日本跳槽的经历，以及她对日本 IT 工作和行业的感想。由于录音设备问题，前两分钟梁杰的声音比较小，两分钟之后就正常了。&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>旅游漫谈</title>
+            <itunes:episode>91</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Sat, 24 Dec 2022 22:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。</p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/travel.mp3" length="48094350" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/travel.mp3</guid>
+            <itunes:duration>01:39:56</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。&lt;/p&gt;
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者</itunes:keywords>
