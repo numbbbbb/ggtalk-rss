@@ -15,9 +15,9 @@
 我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。
         </description>
         <language>zh-cn</language>
-        <copyright>Swift.GG copyright 2022</copyright>
+        <copyright>Swift.GG copyright 2023</copyright>
         <atom:link href="https://talkcdn.swift.gg/static/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 6 Jan 2023 08:00:00 CDT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 22:00:00 CDT</lastBuildDate>
         <itunes:author>梁杰</itunes:author>
         <itunes:summary>
 接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
@@ -6596,6 +6596,25 @@ WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活
             <itunes:duration>01:28:08</itunes:duration>
             <itunes:summary>
 &lt;p&gt;这期回归单口，回顾一下我们一家刚刚结束的圣诞自驾。这趟的目的地依然是落基山脉，去的越多，群山对我的吸引力越强。我很难用什么高深的词汇来描述，但总有那么一刻，在我疲惫和迷茫的时候，会想起那些覆盖着白雪，在阳光下闪闪发光的山峰。我就知道，我又该去看山了。&lt;/p&gt;
+            </itunes:summary>
+            <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
+            <itunes:keywords>程序员,开发,开发者</itunes:keywords>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>大开眼界的英国之行</title>
+            <itunes:episode>93</itunes:episode>
+            <link>https://talk.swift.gg</link>
+            <pubDate>Mon, 21 Aug 2023 22:00:00 CDT</pubDate>
+            <description><![CDATA[
+<p>今年最重大的家庭旅行，去伦敦玩了 10 天，感触颇深。当然，这期不是什么旅游攻略和景点介绍，都是主观表达，聊聊看到的，想到的，好玩的，讨厌的。</p>
+]]>
+            </description>
+            <enclosure url="https://talkcdn.swift.gg/audio/uk.mp3" length="61302758" type="audio/mpeg" />
+            <guid>https://talkcdn.swift.gg/audio/uk.mp3</guid>
+            <itunes:duration>02:07:27</itunes:duration>
+            <itunes:summary>
+&lt;p&gt;今年最重大的家庭旅行，去伦敦玩了 10 天，感触颇深。当然，这期不是什么旅游攻略和景点介绍，都是主观表达，聊聊看到的，想到的，好玩的，讨厌的。&lt;/p&gt;
             </itunes:summary>
             <itunes:image href="https://talkcdn.swift.gg/static/logo.jpg"/>
             <itunes:keywords>程序员,开发,开发者</itunes:keywords>
